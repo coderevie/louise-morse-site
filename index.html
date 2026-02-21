@@ -3,131 +3,100 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Louise Morse — The Channel | Digital Library</title>
-  <meta name="description" content="A dedication and digital library preserving the channeled words and works of Louise Morse." />
+  <title>Louise Morse Spence The Channeler</title>
+  <meta name="description" content="A public digital library of Louise Morse Spence’s lessons and spiritual readings." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
-  <a class="skip-link" href="#main">Skip to content</a>
+  <!-- Optional left sidebar (YouTube-style). You can hide it if you want pure LawOfOne layout first. -->
+  <aside class="sidebar" aria-label="Primary">
+    <div class="sidebar__brand">
+      <a class="sidebar__brandLink" href="/">Louise Morse</a>
+      <div class="sidebar__sub">Digital Library</div>
+    </div>
 
-  <header class="site-header">
-    <div class="wrap">
-      <div class="masthead">
-        <div>
-          <h1 class="site-title">Louise Morse</h1>
-          <p class="site-subtitle">The Channel — Digital Library & Dedication</p>
-        </div>
+    <nav class="sidebar__nav">
+      <a class="sidebar__link is-active" href="/">Home</a>
+      <a class="sidebar__link" href="pages/lessons.html">Our Digital Library</a>
+      <a class="sidebar__link" href="pages/bio.html">About Us</a>
+      <a class="sidebar__link" href="pages/glossary.html">Glossary</a>
+    </nav>
 
-        <nav class="top-nav" aria-label="Primary">
-          <a href="#about">About</a>
-          <a href="#library">Library</a>
-          <a href="#how">How It Works</a>
-          <a href="#support">Support</a>
-          <a href="#contact">Contact</a>
-        </nav>
+    <div class="sidebar__footer">
+      <div class="sidebar__note">louisemorsethechannel.com</div>
+    </div>
+  </aside>
+
+  <main class="content">
+    <header class="hero">
+      <h1>Louise Morse Spence The Channeler</h1>
+
+      <p class="hero__quote">
+        “the Lessons are directed to the soul, enlightening it that it may be able to rise up in new strength and power to overcome the destructive forces of the lower nature. they feed the soul with spiritual truths, bringing greater understanding, and preparing it for the coming of our Lord, which cannot now be too far distant”
+        <span class="hero__cite">— Morse Fellowship Through The Portals</span>
+      </p>
+
+      <p class="hero__intro">
+        This site is a growing public reference library of Louise Morse Spence’s lessons and spiritual readings. New lessons will be added over time as the project develops.
+      </p>
+
+      <p class="hero__intro">
+        Start by browsing lessons, exploring key categories, or visiting the introduction and biography.
+      </p>
+    </header>
+
+    <section class="browse">
+      <h2>Browse by Lesson</h2>
+      <p class="browse__meta">
+        Lessons are numbered. The long-term collection may include up to <strong>544</strong> lessons.
+      </p>
+
+      <!-- For now: show your first 4. Later we can auto-generate this list from a JSON file. -->
+      <div class="linkGrid">
+        <a class="gridLink" href="pages/lessons.html#lesson-1">Lesson 1</a>
+        <a class="gridLink" href="pages/lessons.html#lesson-2">Lesson 2</a>
+        <a class="gridLink" href="pages/lessons.html#lesson-3">Lesson 3</a>
+        <a class="gridLink" href="pages/lessons.html#lesson-4">Lesson 4</a>
       </div>
-    </div>
-  </header>
 
-  <main id="main" class="wrap">
-    <!-- Dedication / Intro -->
-    <section class="card">
-      <p class="eyebrow">Dedication</p>
-      <h2 class="h2">Dedication to the sharing and preservation of the channeled words of Louise Morse</h2>
-      <p class="lede">
-        Louise Morse introduction about the author (From Farmer John — to be added in).
-      </p>
-      <p class="muted">
-        This site centers on a clear, readable experience — designed for study, reflection, and long-term preservation.
+      <p class="browse__more">
+        <a href="pages/lessons.html">View all lessons</a>
       </p>
     </section>
 
-    <!-- About -->
-    <section id="about" class="card">
-      <h2 class="h2">About Louise Morse</h2>
+    <section class="browse">
+      <h2>Browse by Category</h2>
+      <p class="browse__meta">(more categories will be added as readings are uploaded)</p>
 
-      <h3 class="h3">What is channeling?</h3>
+      <div class="linkGrid linkGrid--tight">
+        <a class="gridLink" href="pages/categories.html#spiritual-growth">Spiritual Growth</a>
+        <a class="gridLink" href="pages/categories.html#bible-readings">Bible Readings</a>
+        <a class="gridLink" href="pages/categories.html#jesus-christ">Jesus/Christ</a>
+      </div>
+
+      <p class="browse__more">
+        <a href="pages/categories.html">View categories</a>
+      </p>
+    </section>
+
+    <section class="browse">
+      <h2>Introduction &amp; Biography</h2>
+      <div class="linkGrid linkGrid--tight">
+        <a class="gridLink" href="pages/bio.html">Louise Morse Spence: Bio &amp; Introduction</a>
+      </div>
+    </section>
+
+    <footer class="siteFooter">
       <p>
-        Channeling is the process of receiving and transmitting information or energy from a source beyond the physical realm.
-        This can include communication with spirit guides, angels, or higher selves. The channeler acts as a conduit, allowing
-        messages to flow through them, often during altered states of consciousness.
+        © <span id="year"></span> louisemorsethechannel.com
       </p>
-
-      <h3 class="h3">Louise Morse’s practice</h3>
-      <p class="muted">(How Louise Morse did her practice — to be added in.)</p>
-    </section>
-
-    <!-- Library -->
-<section id="library" class="card">
-  <div class="library-head">
-    <div>
-      <h2 class="h2">Lessons</h2>
-      <p class="muted small">
-        Search by lesson number or scripture reference
-      </p>
-    </div>
-
-    <div class="library-controls">
-      <label class="sr-only" for="q">Search</label>
-      <input id="q" class="input" type="search" placeholder="Search: 83, 215, John 17, Acts 1" />
-
-      <button id="themeToggle" class="button" type="button" aria-pressed="false">
-        Dark mode
-      </button>
-    </div>
-  </div>
-
-  <div id="results" class="list" aria-live="polite"></div>
-</section>
-
-
-    <!-- How it works -->
-    <section id="how" class="card">
-      <h2 class="h2">How the Library Works</h2>
-      <p>
-        In our collection we have the readings broken down into two categories:
-      </p>
-      <ul>
-        <li><strong>Lessons</strong> — numbered entries.</li>
-        <li><strong>Scripture / readings</strong> — organized in biblical order.</li>
-      </ul>
-    </section>
-
-    <!-- Support -->
-    <section id="support" class="card">
-      <h2 class="h2">Support / Donate</h2>
-      <p class="muted">
-        (Support message + donation link/button — to be added.)
-      </p>
-      <button class="button" type="button" disabled title="We’ll connect this later">
-        Donate (coming soon)
-      </button>
-    </section>
-
-    <!-- Contact / Terms -->
-    <section id="contact" class="card">
-      <h2 class="h2">Contact</h2>
-      <p>
-        Email: <a href="mailto:LouiseMorseWeb@proton.me">LouiseMorseWeb@proton.me</a>
-      </p>
-
-      <h3 class="h3">Terms of access</h3>
-      <p class="muted">
-        (Add your terms here — rights/permissions, citation guidance, takedown requests, etc.)
-      </p>
-
-      <p class="small muted">This site copyright ©2026 Scott Jackson</p>
-    </section>
-
-    <footer class="footer">
-      <p class="small muted">Last updated: <span id="updated"></span></p>
     </footer>
   </main>
 
-  <script src="app.js"></script>
   <script>
-    document.getElementById("updated").textContent = new Date().toLocaleDateString();
+    // small polish
+    document.getElementById("year").textContent = new Date().getFullYear();
   </script>
 </body>
 </html>
