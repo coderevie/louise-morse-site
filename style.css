@@ -20,8 +20,12 @@ body { font-family: Arial, Helvetica, sans-serif; color: #000; background: #fff;
 }
 
 @media (max-width: 900px) {
-  .sidebar { position: static; width: 100%; height: auto; border-right: none; border-bottom: 1px solid #e6e6e6; }
-  .content { margin-left: 0; }
+  .sidebar {
+    display: none;
+  }
+  .content {
+    margin-left: 0;
+  }
 }
 
 /* Sidebar */
@@ -80,7 +84,11 @@ body { font-family: Arial, Helvetica, sans-serif; color: #000; background: #fff;
   margin: 10px auto;
   font-size: 14px;
   line-height: 1.75;
-  text-align: left;
+  text-align: center;
+}
+
+.libraryIntro {
+  margin-top: 40px;
 }
 
 /* Sections */
@@ -121,6 +129,12 @@ body { font-family: Arial, Helvetica, sans-serif; color: #000; background: #fff;
   justify-items: center;
   align-items: center;
 }
+.linkGrid--sessions{
+  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  justify-items: center;
+}
 
 .linkGrid--tight { grid-template-columns: repeat(3, minmax(160px, 1fr)); }
 
@@ -146,4 +160,32 @@ body { font-family: Arial, Helvetica, sans-serif; color: #000; background: #fff;
   text-align: center;
   color: #666;
   font-size: 12px;
+}
+body::before {
+  content: "";
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* centered */
+
+    width: 60vmin;
+    height: 60vmin;
+
+  background-image: url("assets/cross-watermark.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  opacity: 0.06; /* adjust 0.03–0.12 to taste */
+
+  pointer-events: none;
+  z-index: 0;
+}
+
+@media (max-width: 900px) {
+  body::before {
+    width: 40vmin;
+    height: 40vmin;
+}
 }
