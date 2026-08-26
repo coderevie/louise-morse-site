@@ -16,6 +16,9 @@ for b in blocks:
         body.append(f'<h2>{html.escape(b[3:].strip())}</h2>')
     elif b.startswith("# "):
         continue  # page header supplies the title
+    elif all(l.lstrip().startswith("- ") for l in b.splitlines()):
+        items = "".join(f"<li>{html.escape(l.lstrip()[2:].strip())}</li>" for l in b.splitlines())
+        body.append(f"<ul>{items}</ul>")
     else:
         text = html.escape(b).replace("\n", " ")
         body.append(f"<p>{text}</p>")
