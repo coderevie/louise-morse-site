@@ -3,149 +3,141 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Louise Morse Spence The Channeler</title>
-  <meta name="description" content="A public digital library of Louise Morse Spence’s lessons and spiritual readings." />
+  <title>Louise Morse Spence — The Channeler</title>
+  <meta name="description" content="A public digital library of Louise Morse Spence's lessons and spiritual readings." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
+  <script>
+    (function () {
+      var t = localStorage.getItem("lm_theme");
+      if (t === "dark") document.documentElement.setAttribute("data-theme", "dark");
+    })();
+  </script>
 </head>
 
 <body>
-  <!-- Optional left sidebar (YouTube-style). You can hide it if you want pure LawOfOne layout first. -->
-  <aside class="sidebar" aria-label="Primary">
-    <div class="sidebar__brand">
-      <a class="sidebar__brandLink" href="/">Louise Morse</a>
-      <div class="sidebar__sub">Digital Library</div>
+  <header class="site-header">
+    <div class="wrap masthead">
+      <div class="brand">
+        <a href="index.html">
+          <h1 class="site-title">Louise Morse</h1>
+          <p class="site-subtitle">The Channeler · Digital Library</p>
+        </a>
+      </div>
+      <nav class="top-nav" aria-label="Primary">
+        <a class="is-active" href="index.html">Home</a>
+        <a href="library.html">Library</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-pressed="false">Dark mode</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero wrap">
+      <p class="eyebrow">Portals of Light Ministry</p>
+      <h1>Louise Morse Spence<br />The Channeler</h1>
+      <p class="lede">
+        A growing public reference library preserving the lessons and spiritual
+        readings of Louise Morse Spence.
+      </p>
+      <div class="hero-actions">
+        <a class="button button--primary" href="library.html">Browse the Library</a>
+        <a class="button button--ghost" href="#about">About Louise</a>
+      </div>
+    </section>
+
+    <div class="wrap">
+      <figure class="quote">
+        <blockquote>
+          the Lessons are directed to the soul, enlightening it that it may be able
+          to rise up in new strength and power to overcome the destructive forces of
+          the lower nature. they feed the soul with spiritual truths, bringing
+          greater understanding, and preparing it for the coming of our Lord, which
+          cannot now be too far distant
+        </blockquote>
+        <cite>— Morse Fellowship, Through The Portals</cite>
+      </figure>
     </div>
 
-    <nav class="sidebar__nav">
-      <a class="sidebar__link is-active" href="/">Home</a>
-      <!----
-      <a class="sidebar__link" href="pages/lessons.html">Our Digital Library</a>
-      <a class="sidebar__link" href="pages/bio.html">About Us</a>
-      <a class="sidebar__link" href="pages/glossary.html">Glossary</a>
-    -->
-    </nav>
-
-    <div class="sidebar__footer">
-      <div class="sidebar__note">louisemorsethechannel.com</div>
-    </div>
-  </aside>
-
-  <main class="content">
-    <header class="hero">
-      <h1>Louise Morse Spence The Channeler</h1>
-
-      <p class="hero__quote">
-        “the Lessons are directed to the soul, enlightening it that it may be able to rise up in new strength and power to overcome the destructive forces of the lower nature. they feed the soul with spiritual truths, bringing greater understanding, and preparing it for the coming of our Lord, which cannot now be too far distant”
-        <span class="hero__cite">— Morse Fellowship Through The Portals</span>
-      </p>
-
-      <h2 class="aboutHeader">About Louise</h2>
-
-      <p class="hero__intro">
-      Louise had a life of devotion to all things spiritual. She was a life long church goer, attending several different churches in her life. She had a series of contacts with the divine starting as a child long before she began to ‘channel’ messages from the celestial beings. One I remember her telling was of her growing up in Texas in the country. She was a little girl being raised by disciplinary parents. She was put in a closet once for something she did or said. When there, she saw that she was sharing the closet with a rattle snake. Then an angel or being appears and calmed the rattle snake so it didn’t strike. When her mother opened the door to let her out, she passed out seeing the rattle snake. Louise then went and got her father who came and dealt with the snake. This is one of many stories she told of “life in the spirit” as she put it.
-      </p>
-
-      <p class="hero__intro">
-      When she began to channel, she had an active prayer life often hearing the words of the master as a response to her prayer. I am going to shorten this part to say that she was visiting the A.R.E. to see what was going on and following a trail of discovery on the spiritual path.
-      </p>
-
-      <p class="hero__intro">
-      While sitting with friends one night, they all saw lights in the sky which they realized was a large mother ship with several smaller ships coming and going from. After watching for some time and late at night, she was the last one up. She heard steps coming up the walk and opening the door to find a luminous being in front of her. They “talked” through telepathy and she was asked to be a channel of their messages. She was told to pray about it they would return another day for her answer. They described themselves as part of the host of heaven coming back with Jesus. Part of a large group of celestial beings waiting around the earth both waiting and helping people who want to grow spiritually as well as preventing catastrophic destruction of the earth due to such things as nuclear weapons. There is much to share of her but I will leave it there. Welcome to the readings of Louise Morse called the Portals of Light Ministry.
-      </p>
-
-
-      <p class="hero__intro">
-        Start by browsing the readings by lessons
-      </p>
-    </header>
-
-    
-    <section class="browse">
-      <h2>Browse by Lesson</h2>
-      <p class="browse__meta">
-        Lessons are numbered. The long-term collection may include up to <strong>544</strong> lessons.
-      </p>
-    
-
-      <!-- For now: show your first 4. Later we can auto-generate this list from a JSON file. -->
-      <div class="linkGrid linkGrid--sessions">
-        <a class="gridLink" href="pages/lessons.html#lesson-1"> 1</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-2"> 2</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-3"> 3</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-4"> 4</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-1"> 5</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-2"> 6</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-3"> 7</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-4"> 8</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-1"> 9</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-2"> 10</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-3"> 11</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-4"> 12</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-1"> 13</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-2"> 14</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-3"> 15</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-4"> 16</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-1"> 17</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-2"> 18</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-3"> 19</a>
-        <a class="gridLink" href="pages/lessons.html#lesson-4"> 20</a>
-        <a class="gridLink" href="83.html">83</a>
-        <a class="gridLink" href="215.html">215</a>
-</div>
-
-      </div>
-
-      <p class="hero__intro libraryIntro">
-        This site is a growing public reference library of Louise Morse Spence’s lessons and spiritual readings. New lessons will be added over time as the project develops.
-      </p>
-    </section>
-
-    <section class="browse">
-  <h2>Morse Readings</h2>
-
-  <h3 class="subHeading">Readings from May 1983</h3>
-
-  <div class="linkGrid linkGrid--sessions">
-    <a class="gridLink" href="readings/1983-05-xx.html">May 12, 1983</a>
-    <a class="gridLink" href="readings/1983-05-xx-2.html">May 24, 1983</a>
-  </div>
-</section>
-<!---
-    <section class="browse">
-      <h2>Browse by Category</h2>
-      <p class="browse__meta">(more categories will be added as readings are uploaded)</p>
-
-      <div class="linkGrid linkGrid--tight">
-        <a class="gridLink" href="pages/categories.html#spiritual-growth">Spiritual Growth</a>
-        <a class="gridLink" href="pages/categories.html#bible-readings">Bible Readings</a>
-        <a class="gridLink" href="pages/categories.html#jesus-christ">Jesus/Christ</a>
-      </div>
-
-      <p class="browse__more">
-        <a href="pages/categories.html">View categories</a>
-      </p>
-    </section>
-  -->
-<!--
-    <section class="browse">
-      <h2>Introduction &amp; Biography</h2>
-      <div class="linkGrid linkGrid--tight">
-        <a class="gridLink" href="pages/bio.html">Louise Morse Spence: Bio &amp; Introduction</a>
+    <section id="about" class="section wrap">
+      <div class="prose">
+        <h2 class="section-title">About Louise</h2>
+        <p>
+          Louise had a life of devotion to all things spiritual. She was a life long
+          church goer, attending several different churches in her life. She had a
+          series of contacts with the divine starting as a child long before she
+          began to &lsquo;channel&rsquo; messages from the celestial beings. One I
+          remember her telling was of her growing up in Texas in the country. She
+          was a little girl being raised by disciplinary parents. She was put in a
+          closet once for something she did or said. When there, she saw that she
+          was sharing the closet with a rattle snake. Then an angel or being appears
+          and calmed the rattle snake so it didn&rsquo;t strike. When her mother
+          opened the door to let her out, she passed out seeing the rattle snake.
+          Louise then went and got her father who came and dealt with the snake.
+          This is one of many stories she told of &ldquo;life in the spirit&rdquo;
+          as she put it.
+        </p>
+        <p>
+          When she began to channel, she had an active prayer life often hearing the
+          words of the master as a response to her prayer. I am going to shorten
+          this part to say that she was visiting the A.R.E. to see what was going on
+          and following a trail of discovery on the spiritual path.
+        </p>
+        <p>
+          While sitting with friends one night, they all saw lights in the sky which
+          they realized was a large mother ship with several smaller ships coming
+          and going from. After watching for some time and late at night, she was
+          the last one up. She heard steps coming up the walk and opening the door
+          to find a luminous being in front of her. They &ldquo;talked&rdquo;
+          through telepathy and she was asked to be a channel of their messages. She
+          was told to pray about it they would return another day for her answer.
+          They described themselves as part of the host of heaven coming back with
+          Jesus. Part of a large group of celestial beings waiting around the earth
+          both waiting and helping people who want to grow spiritually as well as
+          preventing catastrophic destruction of the earth due to such things as
+          nuclear weapons. There is much to share of her but I will leave it there.
+          Welcome to the readings of Louise Morse called the Portals of Light
+          Ministry.
+        </p>
       </div>
     </section>
--->
-    <footer class="siteFooter">
-      <p>
-        © <span id="year"></span> louisemorsethechannel.com
+
+    <hr class="divider" />
+
+    <section class="section wrap" style="text-align:center;">
+      <h2 class="section-title">The Library</h2>
+      <p class="section-sub" style="margin-left:auto;margin-right:auto;">
+        Lessons are numbered — the long-term collection may include up to
+        <strong>544</strong> lessons, alongside dated readings. New material is
+        added as the project develops.
       </p>
-    </footer>
+      <a class="button button--primary" href="library.html">View all readings &amp; materials</a>
+    </section>
   </main>
 
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© <span id="year"></span> louisemorsethechannel.com</p>
+    </div>
+  </footer>
+
   <script>
-    // small polish
     document.getElementById("year").textContent = new Date().getFullYear();
+
+    const THEME_KEY = "lm_theme";
+    const btn = document.getElementById("themeToggle");
+    function applyTheme(theme) {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem(THEME_KEY, theme);
+      btn.setAttribute("aria-pressed", String(theme === "dark"));
+      btn.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+    }
+    applyTheme(localStorage.getItem(THEME_KEY) === "dark" ? "dark" : "light");
+    btn.addEventListener("click", function () {
+      applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    });
   </script>
 </body>
 </html>
-
-

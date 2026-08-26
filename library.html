@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Library — Louise Morse Spence</title>
+  <meta name="description" content="Browse the lessons, readings, and materials of Louise Morse Spence." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script>
+    (function () {
+      var t = localStorage.getItem("lm_theme");
+      if (t === "dark") document.documentElement.setAttribute("data-theme", "dark");
+    })();
+  </script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrap masthead">
+      <div class="brand">
+        <a href="index.html">
+          <h1 class="site-title">Louise Morse</h1>
+          <p class="site-subtitle">The Channeler · Digital Library</p>
+        </a>
+      </div>
+      <nav class="top-nav" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a class="is-active" href="library.html">Library</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-pressed="false">Dark mode</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-header wrap">
+      <p class="eyebrow">The Library</p>
+      <h1>Readings &amp; Materials</h1>
+      <p class="page-sub">
+        Everything on file so far — lessons, dated readings, and source documents.
+        The long-term collection may include up to <strong>544</strong> lessons,
+        added as they are transcribed.
+      </p>
+    </div>
+
+    <section class="section wrap">
+      <h2 class="section-title">Lessons</h2>
+      <p class="section-sub">Numbered lessons from the Morse Fellowship.</p>
+      <div class="card-grid">
+        <a class="item-card" href="83.html">
+          <span class="item-kicker">Lesson 83</span>
+          <h3>John 17</h3>
+          <span class="item-note">Web text edition</span>
+        </a>
+        <a class="item-card" href="215.html">
+          <span class="item-kicker">Lesson 215</span>
+          <h3>Acts 1</h3>
+          <span class="item-note">Web text edition</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="section wrap">
+      <h2 class="section-title">Morse Readings</h2>
+      <p class="section-sub">Dated readings, grouped by month.</p>
+      <div class="card-grid">
+        <div class="item-card is-soon">
+          <span class="badge">Coming soon</span>
+          <span class="item-kicker">May 1983</span>
+          <h3>May 12, 1983</h3>
+          <span class="item-note">Transcription in progress</span>
+        </div>
+        <div class="item-card is-soon">
+          <span class="badge">Coming soon</span>
+          <span class="item-kicker">May 1983</span>
+          <h3>May 24, 1983</h3>
+          <span class="item-note">Transcription in progress</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="section wrap">
+      <h2 class="section-title">Documents</h2>
+      <p class="section-sub">Original scans and source files.</p>
+      <div class="card-grid">
+        <a class="item-card" href="Lesson%2083.pdf">
+          <span class="item-kicker">PDF Scan</span>
+          <h3>Lesson 83 — Original Pages</h3>
+          <span class="item-note">Scanned document (18 MB)</span>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© <span id="year"></span> louisemorsethechannel.com</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+
+    const THEME_KEY = "lm_theme";
+    const btn = document.getElementById("themeToggle");
+    function applyTheme(theme) {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem(THEME_KEY, theme);
+      btn.setAttribute("aria-pressed", String(theme === "dark"));
+      btn.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+    }
+    applyTheme(localStorage.getItem(THEME_KEY) === "dark" ? "dark" : "light");
+    btn.addEventListener("click", function () {
+      applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    });
+  </script>
+</body>
+</html>
