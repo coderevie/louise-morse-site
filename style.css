@@ -390,6 +390,36 @@ a.item-card:hover {
   flex-wrap: wrap;
 }
 
+/* ---------- Transcript (academic paper style) ---------- */
+
+.transcript {
+  font-family: "STIX Two Text", "Times New Roman", Georgia, serif;
+  font-size: 18.5px;
+  line-height: 1.85;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+.transcript p {
+  margin: 0;
+  text-indent: 2em;
+}
+
+.transcript p:first-of-type,
+.transcript h2 + p {
+  text-indent: 0;
+}
+
+.transcript h2 {
+  font-family: "STIX Two Text", "Times New Roman", Georgia, serif;
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-align: center;
+  margin: 1.6em 0 1em;
+}
+
 /* ---------- Footer ---------- */
 
 .site-footer {

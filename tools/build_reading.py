@@ -13,7 +13,7 @@ with open(md_path, encoding="utf-8") as f:
 body = []
 for b in blocks:
     if b.startswith("## "):
-        body.append(f'<h2 class="section-title">{html.escape(b[3:].strip())}</h2>')
+        body.append(f'<h2>{html.escape(b[3:].strip())}</h2>')
     elif b.startswith("# "):
         continue  # page header supplies the title
     else:
@@ -30,7 +30,7 @@ page = f"""<!doctype html>
   <title>{html.escape(title)} — Louise Morse</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&family=STIX+Two+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
   <script>
     (function () {{
@@ -65,7 +65,7 @@ page = f"""<!doctype html>
     </div>
 
     <div class="wrap">
-      <section class="card prose" style="max-width:none;">
+      <section class="card transcript">
         <p class="muted small">{html.escape(eyebrow)}</p>
         <hr style="border:none;border-top:1px solid var(--line);margin:14px 0;" />
         {content}
