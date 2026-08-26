@@ -21,6 +21,8 @@ for b in blocks:
         body.append(f"<ul>{items}</ul>")
     else:
         text = html.escape(b).replace("\n", " ")
+        text = text.replace("&lt;u&gt;", "<u>").replace("&lt;/u&gt;", "</u>")
+        text = text.replace("\\* ", "* ").replace("\\*", "*")
         body.append(f"<p>{text}</p>")
 
 content = "\n        ".join(body)
