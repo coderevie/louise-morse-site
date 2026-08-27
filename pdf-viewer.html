@@ -125,6 +125,8 @@
     let pdfDoc = null;
     let pageNum = 1;
     let pageCount = 0;
+    let isRendering = false;
+    let pendingPageNum = null;
 
     // Map file names to PDF paths
     const pdfMap = {
@@ -148,6 +150,12 @@
     }
 
     function renderPage(num) {
+      if (isRendering) {
+        pendingPageNum = num;
+        return;
+      }
+
+      isRendering = true;
       pdfDoc.getPage(num).then(page => {
         const scale = Math.min(900 / page.getViewport({scale: 1}).width, 2);
         const viewport = page.getViewport({scale: scale});
@@ -160,25 +168,34 @@
           canvasContext: ctx,
           viewport: viewport
         };
-        page.render(renderContext);
-      });
+        page.render(renderContext).promise.then(() => {
+          isRendering = false;
+          document.getElementById('pageNum').textContent = num;
+          document.getElementById('prevBtn').disabled = num <= 1;
+          document.getElementById('prevBtn2').disabled = num <= 1;
+          document.getElementById('nextBtn').disabled = num >= pageCount;
+          document.getElementById('nextBtn2').disabled = num >= pageCount;
 
-      document.getElementById('pageNum').textContent = num;
-      document.getElementById('prevBtn').disabled = num <= 1;
-      document.getElementById('prevBtn2').disabled = num <= 1;
-      document.getElementById('nextBtn').disabled = num >= pageCount;
-      document.getElementById('nextBtn2').disabled = num >= pageCount;
+          // If a page was queued while rendering, render it now
+          if (pendingPageNum !== null && pendingPageNum !== num) {
+            const toRender = pendingPageNum;
+            pendingPageNum = null;
+            pageNum = toRender;
+            renderPage(toRender);
+          }
+        });
+      });
     }
 
     function nextPage() {
-      if (pageNum < pageCount) {
+      if (pageNum < pageCount && !isRendering) {
         pageNum++;
         renderPage(pageNum);
       }
     }
 
     function prevPage() {
-      if (pageNum > 1) {
+      if (pageNum > 1 && !isRendering) {
         pageNum--;
         renderPage(pageNum);
       }
