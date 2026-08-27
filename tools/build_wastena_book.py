@@ -273,6 +273,19 @@ def build_index(entries):
                                   "volumes of discourses given through Louise "
                                   "Morse, as web text editions.",
                       fonts=FONTS)
+    complete = (
+        '    <section class="section wrap">\n'
+        '      <h2 class="section-title">The Complete Scan</h2>\n'
+        '      <p class="section-sub">All 238 pages of the three volumes in one\n'
+        "        place, from the title pages through to the last discourse.</p>\n"
+        '      <div class="scan-bar" style="justify-content:flex-start;">\n'
+        '        <a class="scan-link" href="pdf-viewer.html?file=wastena-full">'
+        "📄 Read the complete retreat "
+        '<span class="scan-pages">· pages 1–238</span></a>\n'
+        "      </div>\n"
+        "    </section>"
+    )
+
     doc += (
         "\n  <main>\n"
         '    <div class="page-header wrap">\n'
@@ -284,7 +297,7 @@ def build_index(entries):
         "        published here in the order the bound volumes read.\n"
         "      </p>\n"
         "    </div>\n\n"
-        + "\n\n".join(sections)
+        + "\n\n".join(sections + [complete])
         + "\n  </main>\n"
     )
     doc += TAIL
