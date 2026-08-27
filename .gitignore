@@ -1,0 +1,9 @@
+# Source scans — hundreds of MB, kept on disk and backed up separately,
+# never committed. See HANDOFF-wastena.md for where they live.
+Wastena Retreat/
+*.zip
+*.pdf
+
+# Local tooling
+.claude/
+__pycache__/
