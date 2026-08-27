@@ -28,7 +28,7 @@ Seek spirit, and at the same time come into oneness with each other,
 
 Keep balance for the sake of God's purposes
 
-Zach will go through the phases of growth
+Each will go through the phases of growth
 
 God calls - "Come, follow me,"
 
@@ -152,7 +152,7 @@ Aleph: Be ready to move with the Father's plan, disengage, accept all that comes
 
 DISCOURSE 26 Spiritual Man
 
-Seripture Reading: Mark, chapter 13, signs at the end. (Anerican Bible Society)
+Scripture Reading: Mark, chapter 13, signs at the end. (Anerican Bible Society)
 
 Prayer
 
@@ -224,7 +224,7 @@ Prayer
 
 Teachers: Prior meditation helps the vortex
 
-I TJuly freedom in the higher sense, higher consciousness. Habits must be overcome to rise.
+I Truly freedom in the higher sense, higher consciousness. Habits must be overcome to rise.
 
 Put away the playthings
 

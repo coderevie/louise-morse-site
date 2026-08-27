@@ -4,7 +4,7 @@
 
 THE WASTENA RETREAT
 
-Index - Volume II, 12-~22
+Index - Volume II, 12--22
 
 Morse Fellowship Lessons 3),2 - 352
 

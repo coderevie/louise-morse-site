@@ -28,7 +28,7 @@ Volume 1
 
 Prepare Your Retreat
 
-Identify With the darly Christians Identify as His Disciples
+Identify With the early Christians Identify as His Disciples
 
 Listen to the Lord
 
@@ -36,7 +36,7 @@ Gall to Remembrance
 
 Many are with Us
 
-The Cells of thse Body
+The Cells of these Body
 
 The Light Centers
 
@@ -80,7 +80,7 @@ he Water of
 
 2. Awake, Esgotten
 
-ee The Trne Breed
+ee The True Breed
 
 [page 5]
 

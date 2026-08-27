@@ -9,6 +9,7 @@ Run from the repo root:
     python tools/extract_wastena.py
 Writes to transcripts/wastena/book/.
 """
+import difflib
 import os
 import re
 import sys
@@ -39,6 +40,18 @@ def letters(s):
     return re.sub(r"[^a-z]", "", s.lower())
 
 
+def similar(a, b):
+    """Whether a scanned heading is the title, allowing for misread letters.
+
+    The headings scan badly - "Love in the Higher Mature" for "...Nature",
+    "Know Whom You. Follow" for "Know Who You Follow" - so they are matched
+    loosely rather than exactly.
+    """
+    if a in b or b in a:
+        return True
+    return difflib.SequenceMatcher(None, a, b).ratio() >= 0.75
+
+
 def strip_heading(lines, title):
     """Drop the printed DISCOURSE / No. N / Title block from a page's start.
 
@@ -48,23 +61,54 @@ def strip_heading(lines, title):
     """
     want = letters(title)
     out = list(lines)
-    for _ in range(8):
+    for _ in range(14):
         if not out:
             break
         first = out[0].strip()
         if not first:
             out.pop(0)
-        elif re.fullmatch(r"[^A-Za-z0-9]{0,4}\s*DISCOURSE\.?\s*[^A-Za-z0-9]{0,4}",
-                          first, re.I):
+        elif re.search(r"DISCOURSE", first, re.I) and len(first) < 40:
             out.pop(0)
-        elif re.fullmatch(r"[^A-Za-z0-9]{0,4}\s*No[.,e]?\s*[0-9lIS]{1,3}\.?\s*",
-                          first, re.I):
+        elif re.fullmatch(r"[^A-Za-z0-9]{0,4}\s*No[.,es]{0,2}\s*"
+                          r"[0-9lIS]{1,3}\.?\s*", first, re.I):
             out.pop(0)
-        elif want and letters(first) and letters(first) in want:
+        elif want and letters(first) and similar(letters(first), want):
             out.pop(0)          # the title, or the first half of a wrapped one
+        elif is_noise(first):
+            out.pop(0)          # speckle the scanner read before the heading
         else:
             break
     return out
+
+
+# Words so ordinary that a line of real prose is unlikely to lack them all.
+EVERYDAY = {
+    "the", "and", "you", "your", "are", "for", "that", "this", "with", "have",
+    "will", "not", "his", "her", "from", "they", "all", "was", "one", "but",
+    "who", "god", "lord", "shall", "unto", "our", "there", "then", "when",
+    "which", "what", "know", "into", "upon", "them", "their", "would", "come",
+    "soul", "spirit", "light", "love", "life", "man", "may", "can", "has",
+    "been", "each", "more", "must", "now", "out", "own", "say", "see", "shall",
+    "him", "she", "yet", "did", "let", "was", "were", "you", "are", "is", "in",
+    "to", "of", "be", "as", "at", "so", "do", "he", "it", "we", "an", "or",
+    "on", "if", "no", "up", "by", "us", "my", "me",
+}
+
+
+def is_noise(block):
+    """True for a block the scanner invented out of speckle and paper grain.
+
+    Real prose carries a few everyday words; these carry none at all:
+    "ee nee ae", "Pa, eee eee, eee", "HU Lo SRE", "poe Take Ri gO".
+    """
+    words = re.findall(r"[A-Za-z]+", block)
+    if not words:
+        return True
+    if any(w.lower() in EVERYDAY for w in words):
+        return False
+    # No everyday word: real only if it reads as several proper words.
+    real = [w for w in words if len(w) > 3 and len(set(w.lower())) > 2]
+    return len(real) < 3
 
 
 def drop_noise(lines):
@@ -115,6 +159,27 @@ def reflow(lines):
     return out
 
 
+ENDS_SENTENCE = ('.', '!', '?', '"', ':', ';', '--', ',')
+
+
+def join_continuations(paras):
+    """Rejoin a paragraph the scanner broke in the middle of a sentence.
+
+    Where the typist underlined a phrase, the scanner often returned it as a
+    block of its own: "...learned to obey Him. Be still" / "and know." The
+    tell is that the preceding block stops without any closing punctuation,
+    so the sentence plainly runs on.
+    """
+    out = []
+    for para in paras:
+        if (out and not out[-1].endswith(ENDS_SENTENCE)
+                and para[:1].islower()):
+            out[-1] = out[-1] + " " + para
+        else:
+            out.append(para)
+    return out
+
+
 def section_markdown(kind, title, first, last, pages, scan_title=""):
     """Build the Markdown body for one section."""
     blocks = []
@@ -124,6 +189,9 @@ def section_markdown(kind, title, first, last, pages, scan_title=""):
             lines = strip_heading(lines, scan_title)
         lines = drop_noise(lines)
         paras = reflow(lines)
+        if kind == "discourse":
+            paras = [p for p in paras if not is_noise(p)]
+            paras = join_continuations(paras)
         if not paras:
             continue
         # Mark where each scanned page begins, so the text can be checked

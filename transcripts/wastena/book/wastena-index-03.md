@@ -2,7 +2,7 @@
 
 [page 180]
 
-THE WASTENA RETREAT Index = Volume III, 23-~33
+THE WASTENA RETREAT Index = Volume III, 23--33
 
 Morse Fellowship Lessons 353 = 363
 

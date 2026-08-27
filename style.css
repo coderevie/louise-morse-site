@@ -506,6 +506,24 @@ a.item-card:hover {
   text-decoration-thickness: 1px;
 }
 
+/* A speaker or scripture reference, underlined as the typist set it. */
+.book p.book-said {
+  text-indent: 0;
+  margin-top: 1.6em;
+}
+
+.book p.book-said u {
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+}
+
+/* A direction standing on its own line: "Prayer", "Selah". */
+.book p.book-direction {
+  text-indent: 0;
+  margin: 1.6em 0 1.2em;
+  letter-spacing: 0.06em;
+}
+
 /* Short lines on the title pages and indexes stood centred on the page. */
 .book p.book-line {
   text-indent: 0;

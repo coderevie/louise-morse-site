@@ -60,7 +60,7 @@ Teachers: We. dedicate this place to greater service for the Lord. We are one wi
 
 DISCOURSE 2
 
-Identify with the Harly Christians General discussion of the Daily Word, the Bible and events 7 moving towards the end of the age. Discription of the setting at Wastena. Daily Word reading. Further talk. Scripture Reading: Paul's letter to Corinth (J.B. Phillips) Prayer Teachers: We are fused with the channel and coming through her soul. Practice having the soul control the physical body, it is your destiny. The human over-rides the divine and must be put down. Be aware of the soul, the I Am.
+Identify with the Early Christians General discussion of the Daily Word, the Bible and events 7 moving towards the end of the age. Discription of the setting at Wastena. Daily Word reading. Further talk. Scripture Reading: Paul's letter to Corinth (J.B. Phillips) Prayer Teachers: We are fused with the channel and coming through her soul. Practice having the soul control the physical body, it is your destiny. The human over-rides the divine and must be put down. Be aware of the soul, the I Am.
 
 j Forgetting is the barrier and remembrance will bring you home. Divine intervention has begun with the ships in the skies. Turn within. Wow is the time for preparation to know the Christ within. Pray for discernment.
 
@@ -84,11 +84,11 @@ Teachers: Fourth dimensional discipleship continued
 
 The Master gave the upper room instructions which are now being paralleled, Those are only a mystery to the intellect; to spirit they are natural law.
 
-Need to expand rrom 3rd to lth dimension as the Kingdom on Earth comes in, or be suspended in 2nd for the millennium. Light reveals the plan of God;
+Need to expand from 3rd to lth dimension as the Kingdom on Earth comes in, or be suspended in 2nd for the millennium. Light reveals the plan of God;
 
 Head and heart united will bring it about
 
-Put down the self thac the selfless one rise up
+Put down the self that the selfless one rise up
 
 Help in this from ministering angels
 
@@ -96,9 +96,9 @@ The assignment of the Adamic race, being lost, the return. Were to govern tho lo
 
 Mercy to allow even this, a school, but now to move forward into light.
 
-The dream statc to e suspended
+The dream state to e suspended
 
-The Rapture of the Ghurch
+The Rapture of the Church
 
 Be ready to > when called
 
@@ -116,9 +116,9 @@ You are the Holy Temple, the sons of God
 
 We must finish the task on earth before going on
 
-Control the physicai circumstances so thet waen the soul awakens if can govern end not be defeated again,or affected by the human, but do oriented in the temple of you,
+Control the physicai circumstances so that when the soul awakens if can govern end not be defeated again,or affected by the human, but do oriented in the temple of you,
 
-Work from thero to do the Father's bidding
+Work from there to do the Father's bidding
 
 Loews extend through all creation, worlds and dimensions. See your place in this as a spark of life from God.
 
@@ -172,7 +172,7 @@ Pracsice living more and more in spirit
 
 Those who do not make it will suspend, or rest, and will come in again, and will be cared for by the remnant after the place is prepared for then.
 
-The cest 1s to re-establish our communications with the Lord. Prepare before the call.
+The cest is to re-establish our communications with the Lord. Prepare before the call.
 
 Desiring the Saucers will ease the ascention when it comes. Look. up. Desire and choose tne door to freedom,
 
@@ -498,7 +498,7 @@ These teachings are for the soul, not intellect, to regain awareness of reality 
 
 The mental was the deception that negates spirit, a trap, a dream.
 
-The soul has choice to move in sither. The choice was made long ago to throw off the dream, or materiality.
+The soul has choice to move in either. The choice was made long ago to throw off the dream, or materiality.
 
 When stripped the light will shine forth
 

@@ -112,7 +112,7 @@ DISCOURSE 1h
 
 Fulfil the Conditions
 
-Seripture Reading: I Timothy (Modern Bible of the American Bivie ociety 7
+Scripture Reading: I Timothy (Modern Bible of the American Bivie ociety 7
 
 Prayer
 
@@ -186,7 +186,7 @@ Prayer is soul desire, but must be selfless
 
 Significance of the cross, fulfilment of the law, grace from it. The law of love.
 
-Power and application of it - equilibriun
+Power and application of it - equilibrium
 
 Tapes will help the soul to rise. Use them each day. Understanding expands, so each time the tape is helpful in a new way.
 
@@ -270,11 +270,11 @@ Ships then and now
 
 Soul memory to be restored
 
-Bodies need aligrment, cuergy flows on the nerves of the cells. Body, mind and soul in one purpose.
+Bodies need alignment, cuergy flows on the nerves of the cells. Body, mind and soul in one purpose.
 
-Move into the higher nature, watch conversations and actions. Desire to serve the Futher.
+Move into the higher nature, watch conversations and actions. Desire to serve the Further.
 
-Signs do not come as Quiczly as you like
+Signs do not come as Quickly as you like
 
 They will come in Godtc time. Faith - have patience
 
@@ -288,9 +288,9 @@ Ask the Father to speak to you in your heart
 
 Witness ror the Lord
 
-Soul myst take over «nd express as does Sarramya
+Soul must take over «nd express as does Sarramya
 
-Encowage the soul to act, put out the humax ego, live in the divine nature, help each soul to do this.
+Encowage the soul to act, put out the human ego, live in the divine nature, help each soul to do this.
 
 Stand up in the light
 
@@ -298,7 +298,7 @@ Give up self to find the soul
 
 Desire this and you will receive
 
-Aecept his will
+Accept his will
 
 The Presence of the Lord
 
@@ -334,7 +334,7 @@ Give up self for greater love, It is the path to ascention. Let the change conti
 
 Direct the power
 
-In the vortes is the Christ
+In the vortex is the Christ
 
 The Presence of the Lord
 
@@ -346,7 +346,7 @@ DISCOURSE 19
 
 Law of Love
 
-Seripture Reading: 8th chapter of John. Prayer
+Scripture Reading: 8th chapter of John. Prayer
 
 Teachers: Those who will renew the earth
 
@@ -524,7 +524,7 @@ Take on the divine nature
 
 In H is name ask, and it shall be done
 
-Feed on this and you become the bread unto another as spirit leads. The dosire of the soul moves you into expansion, then illumination. After you ask, be aware that it is being done.
+Feed on this and you become the bread unto another as spirit leads. The desire of the soul moves you into expansion, then illumination. After you ask, be aware that it is being done.
 
 Spirit will walk with the soul to crucify the self and rise into light.
 
@@ -542,4 +542,4 @@ Direct the light out. Wastena work to be used in days to come by the initiates i
 
 upper room awaiting the Master's word. Pentecost
 
-Aleph: Be prepared to maintain equilibrium. Love casts out fear. Now 1s the time for stillness. Turn within.
+Aleph: Be prepared to maintain equilibrium. Love casts out fear. Now is the time for stillness. Turn within.

@@ -94,6 +94,17 @@ TAIL = """
 """
 
 
+# A speaker or a heading the typist set off with a colon and an underline.
+LABEL = re.compile(r"^(Scripture Reading|Teachers?|The Master|Aleph|Sarramya"
+                   r"|The Presence of the Lord|Daily Word reading"
+                   r"|Prayer|Meditation|Closing|Question):")
+
+
+# Directions the typist set on a line of their own.
+DIRECTIONS = {"Prayer", "Selah", "Meditation", "Silence", "Closing Prayer",
+              "Opening of the Retreat", "Closing of the Retreat"}
+
+
 def esc(s):
     return html.escape(s, quote=True)
 
@@ -123,8 +134,22 @@ def render_body(slug, kind):
         if block.startswith("## "):
             out.append(f"<h3>{esc(block[3:].strip())}</h3>")
             continue
-        cls = ' class="book-line"' if centre_short and len(block) < 60 else ""
-        out.append(f"<p{cls}>{esc(block)}</p>")
+        if centre_short and len(block) < 60:
+            out.append(f'<p class="book-line">{esc(block)}</p>')
+            continue
+        # The typist underlined the speaker and the scripture reference:
+        # "Scripture Reading:  Luke 16-17.", "Teachers:  Welcome to this place".
+        label = LABEL.match(block)
+        if label:
+            rest = esc(block[label.end():].strip())
+            out.append(f'<p class="book-said"><u>{esc(label.group(1))}:</u> '
+                       f"{rest}</p>")
+            continue
+        # A direction the typist set on a line of its own.
+        if block.strip().rstrip(".") in DIRECTIONS:
+            out.append(f'<p class="book-direction">{esc(block)}</p>')
+            continue
+        out.append(f"<p>{esc(block)}</p>")
     return "\n        ".join(out)
 
 

@@ -10,7 +10,7 @@ The Fourth Dimensional Discipleship, Continued
 
 Prepare Your Retreat
 
-Identify With the Zarly Christians
+Identify With the Early Christians
 
 Identify as His Disciples
 

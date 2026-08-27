@@ -2,21 +2,15 @@
 
 [page 164]
 
-Scripture Reading: I Corinthians (Phillips)
+Scripture Reading: I Corinthians (Phillips) ve Greetings, beloveds. We have been in attunement with you constantly. When there are sessions close together we do not entirely sever the connection. We have held the vibration. We would speak to your souls about the changes from the time of
 
-ve Greetings, beloveds. We have been in attunement with you constantly. When there are sessions close together we do not entirely sever the
-
-connection. We have held the vibration. We would speak to your souls about the changes from the time of
-
-“thet which was read to now. There were the days of the spiritual food given
-
-unto the babes as milk. Later, as you were growing, you were ready for more, and in the last days you were to receive the spiritual meat, the deeper things of understanding spirit. You are still more or less in between, but at the same time you had to come into the realization of the need for the spiritual meat before you could be strengthened and grow further, and be ready to help in the feeding of others.
+“that which was read to now. There were the days of the spiritual food given unto the babes as milk. Later, as you were growing, you were ready for more, and in the last days you were to receive the spiritual meat, the deeper things of understanding spirit. You are still more or less in between, but at the same time you had to come into the realization of the need for the spiritual meat before you could be strengthened and grow further, and be ready to help in the feeding of others.
 
 Many will learn a little and rush out to give it impulsively unto the world, scattering their forces. But those that spend regular hours and hours, months--years--in deep meditation, of prayer, and who have Bible study and increased faith--these begin to grow and develop enough to give more of the spiritual meat unto others. It does not come easily or quickly. It is the desire, the deep dedication, and the ability to follow through in the discipline of the being that finally brings the growth.
 
 Many try to use the spiritual purposes and interests as a hobby; many are superficial, It is only the few that will give up, sacrifice many things and daily remind themselves to keep in the way of their Lord--and yet humanly get out of the way, that there not be the blocks. Wisdom comes only after much of deep meditation over years and years of time, and opening within to the stillness, that the Lord reveal. Many would like to know how to achieve this quickly, but they are not willing to pay the price, that it develop naturally. Many would like to work at it in their spare time, but it is more than any profession on Earth.
 
-Men will spend years and years of constant hard study, and thousands of dollars, to reach their goal of being expert in their field or profession, having a title--doctor or dentist or scientist, many of these pro= fessions--and they are willing to pay the price to do it. They give up much of their home life, give up social life, give up many things in order to achieve this, so that they not only feel a sense of accomplishment, but they can have good money coming in from it. Take away the money and they would not have this great desire. If they would work as hard at coming up to be an expert in discipleship of their Lord, and put in as much time, training, discipline and sacrifice into it, the world would be a different story. But there is not the incentive of money behind this.
+Men will spend years and years of constant hard study, and thousands of dollars, to reach their goal of being expert in their field or profession, having a title--doctor or dentist or scientist, many of these pro= sessions--and they are willing to pay the price to do it. They give up much of their home life, give up social life, give up many things in order to achieve this, so that they not only feel a sense of accomplishment, but they can have good money coming in from it. Take away the money and they would not have this great desire. If they would work as hard at coming up to be an expert in discipleship of their Lord, and put in as much time, training, discipline and sacrifice into it, the world would be a different story. But there is not the incentive of money behind this.
 
 Those that do have a desire are willing to give up part of the things, but not too much. They do not want to pay a big price. A little one, yes, if they can fit it in in some of their spare time; if they do not get tired of it and turn to other things. But so very few are those that will sacrifice, go all the way, give all their time, money, efforts and attention to the
 
@@ -24,35 +18,31 @@ Those that do have a desire are willing to give up part of the things, but not t
 
 devotion of following through in a life of prayer and meditation, studying the word of God, practicing regularly sitting quietly to listen so that within could begin to come forth--and then give a life of service to others.
 
-There are many, many things to be sacrificed, a large price to pay by those who desire to achieve the goal, and they must weigh this carefully when they seek a life of the spirit, thet they become accustomed to it instead of matter. They are going to have to meet things of spirit, develop and-grow into Spiritual understanding, instead of waiting for others todo ite They must move forward themselves, because that is to be their eternal life. No wonder there is such a small remnant upon the Earth in each great cycle. So few are willing to give up their old nature, their old habits--that to which they would give their time. It is a serious decision. -Few follow through. It is to give up more of self every day, more of human nature, and in utter humility take on the identification of the Christ and move in the divine nature.
+There are many, many things to be sacrificed, a large price to pay by those who desire to achieve the goal, and they must weigh this carefully when they seek a life of the spirit, that they become accustomed to it instead of matter. They are going to have to meet things of spirit, develop and-grow into Spiritual understanding, instead of waiting for others todo it. They must move forward themselves, because that is to be their eternal life. No wonder there is such a small remnant upon the Earth in each great cycle. So few are willing to give up their old nature, their old habits--that to which they would give their time. It is a serious decision. -Few follow through. It is to give up more of self every day, more of human nature, and in utter humility take on the identification of the Christ and move in the divine nature.
 
 This could not be understood without having much that went before. You have had a great deal of development of the soul, and yet you can take only so.much spiritual meat. You will later be able to take more, but many are those that cannot take this much. The deeper things cannot come quickly; man could not comprehend them, for they would be over his head. He would become dulled and lose interest because he could not realize that he was being led gently up the steps, being fed the food of Spirit along the ways Mankind tries to learn all the techniques and ways, but it still goes back to the same thing--through choice you must awaken and come out of your human nature. It fits comfortably, you are not so sure that you want to leave it behind; you give up a little bit but not everything. Release unto God all that you would hold to.
 
 Many will give up material things but they will not give up themselves. There must literally be sacrifice all the way through, sacrifice by choice, through love. As groups come to sit and listen, many will ask questions and be eager to advance, but they are not eager to give up more of themselves. They want a short, easy way to reach the heavenly benefits without giving up anything to which they cling--habits, customs, the things to which they are addicted. They justify those, find good reasons for holding on to them and for keeping certain attitudes, particular prejudices, or whatever else may be in their nature. These things literally have to be given over.
 
-If one is serious he must begin to reconcile all with his God, search his soul and begin to offer God every bit of that which has come to him. That which came from God, give back unto God. That which came through deceit and ignorance and the human nature, give back to Lucifer, from whence it came. Separate yourselves from the world and from your own nature that you'are so comfortably with. It can be done. Establish the desire and be certain that you truly mean it. You need not account to anyone. You owe nothing except to establish your honesty with God and to show that your true desire is for His will, knowing what that will mean and deciding how much you can give up without rebelling. Give up self, crucify self, thet you may live in eternal consciousnesse These are not just words but something for you to ponder in your hearts, Offer as much as you can to God, honestly meaning it, then let Him keep score. Without a doubt, before it is all over you will be humbled before your Lord.
+If one is serious he must begin to reconcile all with his God, search his soul and begin to offer God every bit of that which has come to him. That which came from God, give back unto God. That which came through deceit and ignorance and the human nature, give back to Lucifer, from whence it came. Separate yourselves from the world and from your own nature that you'are so comfortably with. It can be done. Establish the desire and be certain that you truly mean it. You need not account to anyone. You owe nothing except to establish your honesty with God and to show that your true desire is for His will, knowing what that will mean and deciding how much you can give up without rebelling. Give up self, crucify self, that you may live in eternal consciousness. These are not just words but something for you to ponder in your hearts, Offer as much as you can to God, honestly meaning it, then let Him keep score. Without a doubt, before it is all over you will be humbled before your Lord.
 
 We are rebuking no one. We are sending this out to those still in the world who would like to come apart from the world, come closer to the spiritual reality, be able to feed on the spiritual meat and work toward their transfiguration. If you desire these things, then obey your Lord, give up your old self and realize what it means to do this. Many of the habits that Christians accept as normal things are still blocks that prevent them from seeing
 
 [page 166]
 
-reality. Background, tradition, customs, ways of generations before are not the
-
-measures Many of these also must go. Those of the past did not enter into the
-
-ae except that they are lifted into the Paradise State to await resurrecion.
+reality. Background, tradition, customs, ways of generations before are not the measure. Many of these also must go. Those of the past did not enter into the ae except that they are lifted into the Paradise State to await resurrecion.
 
 Throughout the ages, man has not had the answer; his attention must no longer be on the ways of man, or the ways of the world, but on the Way--the Lord Jesus who became Christed. His discipline and sacrifice and the love with which he was filled enabled him to enter into the lowest vibrations, that others might live. He gave up far more than his physical life. He risked losing all in coming from higher realms to become temporarily trapped in the human nature and human flesh, to be one with you, to show you that he could be resurrected because the Father was in him. He allowed it to operate according to the Father's will.
 
 You have not yet released all to let this happen in you. You are asking for it, striving toward it, but you do not yet have the key, for you have not realized that you cannot have everything you want humanly, love a little bit, ask a few questions, and expect that todo. There must be complete surrender to God's will, complete sacrifice of all the things of Earth that you have been clinging to. You must put down the human nature, be stripped bare, become disillusioned with the world. Have no dependence on yourself or anything on your planet. Become completely reoriented. You risk much while you are doing this, and yet if you do it not, you are risking your eternal life.
 
-Man has tried to fix the outer, to work through a system, but he is to surrender rather than put forth human effort. Human effort is not of God; it is of Lucifer. Desire of the soul is of God--the wisdom to know that the strength is in the Father within youe Literally put down all else, reminding yourselves when you slip that all must go. Then you shall be lifted up. But you are still too heavy with the density of matter and with human nature. You cannot take them with yous. Yes, you have free will and you can choose to carry { all the habits you want, all the human nature traits and tendencies, for as long as you want to, but the sooner you give them all up, the sooner shall you be in your true home, with greater life and joy than you have had in many eons.
+Man has tried to fix the outer, to work through a system, but he is to surrender rather than put forth human effort. Human effort is not of God; it is of Lucifer. Desire of the soul is of God--the wisdom to know that the strength is in the Father within you. Literally put down all else, reminding yourselves when you slip that all must go. Then you shall be lifted up. But you are still too heavy with the density of matter and with human nature. You cannot take them with yous. Yes, you have free will and you can choose to carry { all the habits you want, all the human nature traits and tendencies, for as long as you want to, but the sooner you give them all up, the sooner shall you be in your true home, with greater life and joy than you have had in many eons.
 
-This must sink into the soul, that the soul make the choice to be dormant no longer, that it choose not to be victim of human nature, but stand in faith and authority, witnessing to the truth of the indwelling spirit--the Father working through the soul. But all must be offered unto Him; if only in part it is not acceptable. It cannot be God's will part of the time and your will part of the time. You must make the final decision--God's will all the timee
+This must sink into the soul, that the soul make the choice to be dormant no longer, that it choose not to be victim of human nature, but stand in faith and authority, witnessing to the truth of the indwelling spirit--the Father working through the soul. But all must be offered unto Him; if only in part it is not acceptable. It cannot be God's will part of the time and your will part of the time. You must make the final decision--God's will all the time.
 
 We purposely change back and forth in speaking of man, saying, "He does so and so" or “they do," and then suddenly referring to “you." This is by intent, for we help you to identify with the race consciousness and at other times with the consciousness of those who have come into the Christ nature--the flock that the Shepherd leads forth. Vihen you see objectively, at a distance, you see what others are doing or what they are missing. Then you identify with them because it is also you in the same situation, so you relate it to yourself. "You" and "they" are the same, except that you have come forth more than many who are still in the world with no intention of leaving.
 
-You are the remnant--the remaining ones--and do you mow the prayer that your Lord is giving unto the Father? It is that the remnant which has come thus far remain faithful unto the end, enduring all things unto the end, that they not turn back, so that he may bring that many through the door. Your Lord, even now, still prays for youe In his great love he would not lose one.
+You are the remnant--the remaining ones--and do you mow the prayer that your Lord is giving unto the Father? It is that the remnant which has come thus far remain faithful unto the end, enduring all things unto the end, that they not turn back, so that he may bring that many through the door. Your Lord, even now, still prays for you. In his great love he would not lose one.
 
 [page 167]
 
@@ -60,36 +50,24 @@ You are the remnant--the remaining ones--and do you mow the prayer that your Lor
 
 Earth and believes he is safe. What a perspective! He must welcome moving on.
 
- Victoriously go through the door; rejoice for those that have
-
-i graduated, and pray for those that yet remain. Return to the words of your Lord that he left for this very day. He knew that they would be preserved. He spoke
+ Victoriously go through the door; rejoice for those that have i graduated, and pray for those that yet remain. Return to the words of your Lord that he left for this very day. He knew that they would be preserved. He spoke
 
  in parables that could be handed down through the ages, knowing that sooner or
 
 \ later it would be recorded by those whom the Spirit would prompt. And the spirit
 
- prompted, came through many that wrote, so that those in the end of the age
+ prompted, came through many that wrote, so that those in the end of the age would have something to turn to, and could come into greater understanding as the
 
-would have something to turn to, and could come into greater understanding as the
-
-Spirit returned to Earth, All things have their greater value, even after the
-
-ones to whom they are said are gone
+Spirit returned to Earth, All things have their greater value, even after the ones to whom they are said are gone
 
 { There is a great purpose in the keeping of all the sessions--and particularly these at the Retreat--for there are many yet to. come that will have an urgent need. Many shall be wakened at a point where they can feed upon these with new understanding, for the Spirit shall draw them to where this particular
 
- food is provided--this storehouse to be carefully guarded. All the lessons have
+ food is provided--this storehouse to be carefully guarded. All the lessons have i an important place in certain steps of development of souls even those that are being put into Braille. There will be the need, for this is not only for the ones led to it at this time.
 
-i an important place in certain steps of development of souls even those that are being put into Braille. There will be the need, for this is not only for the ones led to it at this time.
-
-You are a strong vortex, an amplifier, as it were, that these messages may come through and go out to the world for those that hunger and thirst. Spirit shall draw them together and later, after many of the earth changes, there will suddenly come a great need for this information. Spiritual
-
-f food, the meat for the mature soul, is being provided for those who have understanding, those who can attain to that vibration. There are many who will not respond, for they have not reached the level of vibration of this light. Others will. You are feeding on spiritual meat am shall grow, because your desire is great. Let your prayers be constant.
+You are a strong vortex, an amplifier, as it were, that these messages may come through and go out to the world for those that hunger and thirst. Spirit shall draw them together and later, after many of the earth changes, there will suddenly come a great need for this information. Spiritual f food, the meat for the mature soul, is being provided for those who have understanding, those who can attain to that vibration. There are many who will not respond, for they have not reached the level of vibration of this light. Others will. You are feeding on spiritual meat am shall grow, because your desire is great. Let your prayers be constant.
 
 The power is great here, because your Shepherd is here. When two or more are gathered together in his name and nature, in his consciousness, the law moves into effect, and the Christ manifests in the midst of them. Before long, your Lord and Master shall govern the Earth in the glorified body, when the Paradise State is upon the surface of the Earth. But you are well aware of how much must be cleansed before this happens. Great shall be the changes.
 
-#, eek
+Lo, the flock must move through the door, All shall be blessed who enter in. Manifest love unto all. The Shepherd never turns away until the flock is safe. Your Master's love is with you always. Boe faithful unto the end.
 
-Lo, the flock must move through the door, All shall be blessed who enter ine Manifest love unto all. The Shepherd never turns away until the flock is safe. Your Master's love is with you always. Boe faithful unto the end.
-
-Many bow down before him. Let your joy be in your Lord. We who serve have seen the shining Light become even greater. You are of this Light. Rise up and go forth in the authority of his name, for you are indeed his own. Then you shall be like unto him. You shall walk in the Christ nature, and tho Father shall do the works through you. Our love and blessings go with you. Always send forth the power and the light that is here in your midst. Direot it out to others. Bless youe Selah.
+Many bow down before him. Let your joy be in your Lord. We who serve have seen the shining Light become even greater. You are of this Light. Rise up and go forth in the authority of his name, for you are indeed his own. Then you shall be like unto him. You shall walk in the Christ nature, and tho Father shall do the works through you. Our love and blessings go with you. Always send forth the power and the light that is here in your midst. Direct it out to others. Bless you. Selah.
