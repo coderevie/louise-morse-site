@@ -3,7 +3,7 @@
 Usage: python tools/build_reading.py <transcript.md> <output.html> <page-title> <eyebrow> <subtitle>
 The transcript's H1/H2 lines become headings; blank-line-separated blocks become paragraphs.
 """
-import sys, html
+import sys, html, re
 
 md_path, out_path, title, eyebrow, subtitle = sys.argv[1:6]
 
@@ -20,9 +20,20 @@ for b in blocks:
         items = "".join(f"<li>{html.escape(l.lstrip()[2:].strip())}</li>" for l in b.splitlines())
         body.append(f"<ul>{items}</ul>")
     else:
-        text = html.escape(b).replace("\n", " ")
-        text = text.replace("&lt;u&gt;", "<u>").replace("&lt;/u&gt;", "</u>")
-        text = text.replace("\\* ", "* ").replace("\\*", "*")
+        # Replace escaped asterisks first
+        text = b.replace("\\* ", "* ").replace("\\*", "*")
+        # Extract underlined sections using placeholders to avoid double-escaping
+        underlines = []
+        def replace_underline(m):
+            idx = len(underlines)
+            underlines.append(html.escape(m.group(1)))
+            return f"\x00UNDERLINE{idx}\x00"
+        text = re.sub(r"<u>(.*?)</u>", replace_underline, text, flags=re.DOTALL)
+        # Now escape everything else
+        text = html.escape(text).replace("\n", " ")
+        # Restore underlined sections
+        for idx, content in enumerate(underlines):
+            text = text.replace(f"\x00UNDERLINE{idx}\x00", f"<u>{content}</u>")
         body.append(f"<p>{text}</p>")
 
 content = "\n        ".join(body)
@@ -32,6 +43,7 @@ page = f"""<!doctype html>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'" />
   <title>{html.escape(title)} — Louise Morse</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -40,7 +52,7 @@ page = f"""<!doctype html>
   <script>
     (function () {{
       var t = localStorage.getItem("lm_theme");
-      if (t === "dark") document.documentElement.setAttribute("data-theme", "dark");
+      if (["light", "dark"].includes(t)) document.documentElement.setAttribute("data-theme", t);
     }})();
   </script>
 </head>

@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'" />
   <title>Through the Portals — Publications List — Louise Morse</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -11,7 +12,7 @@
   <script>
     (function () {
       var t = localStorage.getItem("lm_theme");
-      if (t === "dark") document.documentElement.setAttribute("data-theme", "dark");
+      if (["light", "dark"].includes(t)) document.documentElement.setAttribute("data-theme", t);
     })();
   </script>
 </head>
@@ -37,12 +38,12 @@
     <div class="page-header wrap">
       <p class="eyebrow"><a href="library.html">← Back to Library</a></p>
       <h1>Through the Portals — Publications List</h1>
-      <p class="page-sub">Morse Fellowship — Volumes, Booklets, Paperbacks, Single Lessons, Retreat Volumes</p>
+      <p class="page-sub">Morse Fellowship</p>
     </div>
 
     <div class="wrap">
       <section class="card transcript">
-        <p class="muted small">Web text edition of the Morse Fellowship publications catalog. The original booklet&#x27;s numbering gaps are preserved as printed.</p>
+        <p class="muted small">Web text edition, transcribed from the original publication.</p>
         <hr style="border:none;border-top:1px solid var(--line);margin:14px 0;" />
         <h2>Cover</h2>
         <p>Morse Fellowship</p>

@@ -114,6 +114,7 @@ def build_index(built):
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'" />
   <title>The Wastena Retreat — Louise Morse</title>
   <meta name="description" content="The Wastena Retreat, June–July 1967: three volumes of discourses given through Louise Morse, as web text editions." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -123,7 +124,7 @@ def build_index(built):
   <script>
     (function () {{
       var t = localStorage.getItem("lm_theme");
-      if (t === "dark") document.documentElement.setAttribute("data-theme", "dark");
+      if (["light", "dark"].includes(t)) document.documentElement.setAttribute("data-theme", t);
     }})();
   </script>
 </head>

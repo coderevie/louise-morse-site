@@ -4,6 +4,18 @@ Wastena Retreat/
 *.zip
 *.pdf
 
+# Secrets and credentials
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.crt
+secrets/
+credentials/
+
 # Local tooling
 .claude/
 __pycache__/
+*.pyc
+.DS_Store
