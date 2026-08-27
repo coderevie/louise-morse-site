@@ -26,6 +26,36 @@ def page_name(n):
     return f"wastena-{n:02d}.html"
 
 
+def pdf_for_discourse(n):
+    """Return the PDF file name for a given Discourse number."""
+    # Map Discourses to their source PDFs
+    # P1-P2 have indexes/outlines; P3-P10 have full text
+    if n <= 2:
+        return "pdfs/wastena/P3.pdf"
+    elif n <= 4:
+        return "pdfs/wastena/P3.pdf"
+    elif n <= 5:
+        return "pdfs/wastena/P4.pdf"
+    elif n <= 8:
+        return "pdfs/wastena/P4.pdf"
+    elif n <= 11:
+        return "pdfs/wastena/P5.pdf"
+    elif n <= 15:
+        return "pdfs/wastena/P6.pdf"
+    elif n <= 19:
+        return "pdfs/wastena/P7.pdf"
+    elif n <= 22:
+        return "pdfs/wastena/P8.pdf"
+    elif n <= 25:
+        return "pdfs/wastena/P8.pdf"
+    elif n <= 28:
+        return "pdfs/wastena/P9.pdf"
+    elif n <= 31:
+        return "pdfs/wastena/P10.pdf"
+    else:
+        return "pdfs/wastena/P10.pdf"
+
+
 def build_discourse(n):
     src = os.path.join(SRC, f"discourse-{n:02d}.md")
     if not os.path.exists(src):
@@ -48,7 +78,7 @@ def build_discourse(n):
     try:
         subprocess.run(
             [sys.executable, "tools/build_reading.py", tmp_path, page_name(n),
-             title, NOTE, page_sub],
+             title, NOTE, page_sub, pdf_for_discourse(n)],
             check=True, capture_output=True,
         )
     finally:

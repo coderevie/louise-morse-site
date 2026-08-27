@@ -1,11 +1,14 @@
 """Build a reading/lesson page from a Markdown transcript.
 
-Usage: python tools/build_reading.py <transcript.md> <output.html> <page-title> <eyebrow> <subtitle>
+Usage: python tools/build_reading.py <transcript.md> <output.html> <page-title> <eyebrow> <subtitle> [pdf-path]
 The transcript's H1/H2 lines become headings; blank-line-separated blocks become paragraphs.
+If pdf-path is provided, a link to it appears in the footer.
 """
-import sys, html, re
+import sys, html, re, os
 
-md_path, out_path, title, eyebrow, subtitle = sys.argv[1:6]
+args = sys.argv[1:7]
+md_path, out_path, title, eyebrow, subtitle = args[:5]
+pdf_path = args[5] if len(args) > 5 else None
 
 with open(md_path, encoding="utf-8") as f:
     blocks = [b.strip() for b in f.read().split("\n\n") if b.strip()]
@@ -92,6 +95,7 @@ page = f"""<!doctype html>
 
   <footer class="site-footer">
     <div class="wrap">
+      {f'<p class="muted small" style="margin-bottom: 8px;"><a href="{html.escape(pdf_path)}">📄 View source PDF</a></p>' if pdf_path else ''}
       <p>© <span id="year"></span> louisemorsethechannel.com</p>
     </div>
   </footer>

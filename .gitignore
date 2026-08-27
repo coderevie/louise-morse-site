@@ -1,8 +1,8 @@
-# Source scans — hundreds of MB, kept on disk and backed up separately,
-# never committed. See HANDOFF-wastena.md for where they live.
-Wastena Retreat/
+# Source scans zip file (not committed; PDFs in pdfs/ folder are)
 *.zip
-*.pdf
+
+# Note: PDFs are now committed to pdfs/ folder for linking from pages
+# The original scans in Wastena Retreat/ folder remain as local backups
 
 # Secrets and credentials
 .env
