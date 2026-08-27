@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com" />
+  <title>PDF Viewer — Louise Morse</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <style>
+    #pdf-container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: var(--surface);
+      border-radius: 8px;
+      overflow-y: auto;
+      max-height: calc(100vh - 200px);
+    }
+    #pdf-canvas {
+      display: block;
+      margin: 0 auto 20px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+    }
+    .pdf-controls {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      margin: 20px 0;
+      flex-wrap: wrap;
+    }
+    .pdf-controls button {
+      padding: 8px 16px;
+      background: var(--accent);
+      color: var(--text-inverted);
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    .pdf-controls button:hover {
+      opacity: 0.9;
+    }
+    .pdf-controls button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    .pdf-info {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 14px;
+      margin: 10px 0;
+    }
+    .pdf-error {
+      background: #fee;
+      border: 1px solid #fcc;
+      color: #c33;
+      padding: 16px;
+      border-radius: 4px;
+      margin: 20px;
+      text-align: center;
+    }
+  </style>
+  <script>
+    (function () {
+      var t = localStorage.getItem("lm_theme");
+      if (["light", "dark"].includes(t)) document.documentElement.setAttribute("data-theme", t);
+    })();
+  </script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrap masthead">
+      <div class="brand">
+        <a href="index.html">
+          <h1 class="site-title">Louise Morse</h1>
+          <p class="site-subtitle">The Channeler · Digital Library</p>
+        </a>
+      </div>
+      <nav class="top-nav" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="library.html">Library</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-pressed="false">Dark mode</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-header wrap">
+      <p class="eyebrow"><a id="backLink" href="#">← Back</a></p>
+      <h1>Source PDF Viewer</h1>
+    </div>
+
+    <div id="pdf-container">
+      <div id="pdf-error" class="pdf-error" style="display: none;"></div>
+      <div class="pdf-controls">
+        <button id="prevBtn" onclick="prevPage()">← Previous</button>
+        <div class="pdf-info">
+          <span>Page <span id="pageNum">0</span> of <span id="pageCount">0</span></span>
+        </div>
+        <button id="nextBtn" onclick="nextPage()">Next →</button>
+      </div>
+      <canvas id="pdf-canvas"></canvas>
+      <div class="pdf-controls">
+        <button id="prevBtn2" onclick="prevPage()">← Previous</button>
+        <button onclick="window.print()" style="background: var(--surface); color: var(--text); border: 1px solid var(--line);">🖨 Print</button>
+        <button id="nextBtn2" onclick="nextPage()">Next →</button>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© <span id="year"></span> louisemorsethechannel.com</p>
+    </div>
+  </footer>
+
+  <script>
+    const pdfjsLib = window.pdfjsLib;
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+    let pdfDoc = null;
+    let pageNum = 1;
+    let pageCount = 0;
+
+    // Map file names to PDF paths
+    const pdfMap = {
+      'lesson-83': 'pdfs/lessons/Lesson%2083.pdf',
+      'lesson-215': 'pdfs/lessons/Lesson%20215.pdf',
+      'wastena-p1': 'pdfs/wastena/P1.pdf',
+      'wastena-p2': 'pdfs/wastena/P2.pdf',
+      'wastena-p3': 'pdfs/wastena/P3.pdf',
+      'wastena-p4': 'pdfs/wastena/P4.pdf',
+      'wastena-p5': 'pdfs/wastena/P5.pdf',
+      'wastena-p6': 'pdfs/wastena/P6.pdf',
+      'wastena-p7': 'pdfs/wastena/P7.pdf',
+      'wastena-p8': 'pdfs/wastena/P8.pdf',
+      'wastena-p9': 'pdfs/wastena/P9.pdf',
+      'wastena-p10': 'pdfs/wastena/P10.pdf',
+    };
+
+    function getParam(name) {
+      const params = new URLSearchParams(window.location.search);
+      return params.get(name);
+    }
+
+    function renderPage(num) {
+      pdfDoc.getPage(num).then(page => {
+        const scale = Math.min(900 / page.getViewport({scale: 1}).width, 2);
+        const viewport = page.getViewport({scale: scale});
+        const canvas = document.getElementById('pdf-canvas');
+        const ctx = canvas.getContext('2d');
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        const renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        page.render(renderContext);
+      });
+
+      document.getElementById('pageNum').textContent = num;
+      document.getElementById('prevBtn').disabled = num <= 1;
+      document.getElementById('prevBtn2').disabled = num <= 1;
+      document.getElementById('nextBtn').disabled = num >= pageCount;
+      document.getElementById('nextBtn2').disabled = num >= pageCount;
+    }
+
+    function nextPage() {
+      if (pageNum < pageCount) {
+        pageNum++;
+        renderPage(pageNum);
+        document.getElementById('pdf-canvas').scrollIntoView({behavior: 'smooth'});
+      }
+    }
+
+    function prevPage() {
+      if (pageNum > 1) {
+        pageNum--;
+        renderPage(pageNum);
+        document.getElementById('pdf-canvas').scrollIntoView({behavior: 'smooth'});
+      }
+    }
+
+    // Keyboard navigation
+    document.addEventListener('keydown', e => {
+      if (e.key === 'ArrowRight') nextPage();
+      if (e.key === 'ArrowLeft') prevPage();
+    });
+
+    // Load PDF
+    const fileParam = getParam('file');
+    if (!fileParam || !pdfMap[fileParam]) {
+      document.getElementById('pdf-error').style.display = 'block';
+      document.getElementById('pdf-error').textContent = 'PDF not found. Please go back and try again.';
+      document.getElementById('pdf-container').style.display = 'none';
+    } else {
+      const pdfPath = pdfMap[fileParam];
+      document.getElementById('backLink').href = document.referrer || 'library.html';
+
+      pdfjsLib.getDocument(pdfPath).promise.then(doc => {
+        pdfDoc = doc;
+        pageCount = doc.numPages;
+        document.getElementById('pageCount').textContent = pageCount;
+        renderPage(pageNum);
+      }).catch(err => {
+        console.error('PDF load error:', err);
+        document.getElementById('pdf-error').style.display = 'block';
+        document.getElementById('pdf-error').textContent = 'Error loading PDF. Please try again.';
+      });
+    }
+
+    // Year
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Theme toggle
+    const THEME_KEY = "lm_theme";
+    const btn = document.getElementById("themeToggle");
+    function applyTheme(theme) {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem(THEME_KEY, theme);
+      btn.setAttribute("aria-pressed", String(theme === "dark"));
+      btn.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+    }
+    applyTheme(localStorage.getItem(THEME_KEY) === "dark" ? "dark" : "light");
+    btn.addEventListener("click", function () {
+      applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    });
+  </script>
+</body>
+</html>

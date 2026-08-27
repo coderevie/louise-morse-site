@@ -8,7 +8,7 @@ import sys, html, re, os
 
 args = sys.argv[1:7]
 md_path, out_path, title, eyebrow, subtitle = args[:5]
-pdf_path = args[5] if len(args) > 5 else None
+pdf_file = args[5] if len(args) > 5 else None  # e.g., 'lesson-83' or None
 
 with open(md_path, encoding="utf-8") as f:
     blocks = [b.strip() for b in f.read().split("\n\n") if b.strip()]
@@ -95,7 +95,7 @@ page = f"""<!doctype html>
 
   <footer class="site-footer">
     <div class="wrap">
-      {f'<p class="muted small" style="margin-bottom: 8px;"><a href="{html.escape(pdf_path)}">📄 View source PDF</a></p>' if pdf_path else ''}
+      {f'<p class="muted small" style="margin-bottom: 8px;"><a href="pdf-viewer.html?file={html.escape(pdf_file)}">📄 View source PDF</a></p>' if pdf_file else ''}
       <p>© <span id="year"></span> louisemorsethechannel.com</p>
     </div>
   </footer>
