@@ -102,11 +102,15 @@
           <span>Page <span id="pageNum">0</span> of <span id="pageCount">0</span></span>
         </div>
         <button id="nextBtn" onclick="nextPage()">Next →</button>
+        <button onclick="zoomOut()" style="margin-left: 20px;">− Zoom out</button>
+        <button onclick="zoomIn()">Zoom in +</button>
       </div>
       <canvas id="pdf-canvas"></canvas>
       <div class="pdf-controls">
         <button id="prevBtn2" onclick="prevPage()">← Previous</button>
+        <button onclick="zoomOut()">− Zoom out</button>
         <button onclick="window.print()" style="background: var(--surface); color: var(--text); border: 1px solid var(--line);">🖨 Print</button>
+        <button onclick="zoomIn()">Zoom in +</button>
         <button id="nextBtn2" onclick="nextPage()">Next →</button>
       </div>
     </div>
@@ -127,6 +131,7 @@
     let pageCount = 0;
     let isRendering = false;
     let pendingPageNum = null;
+    let zoomLevel = 1.0;  // default zoom: 100% (not fit-to-width)
 
     // Map file names to PDF paths
     const pdfMap = {
@@ -180,8 +185,7 @@
 
       isRendering = true;
       pdfDoc.getPage(num).then(page => {
-        const scale = Math.min(900 / page.getViewport({scale: 1}).width, 2);
-        const viewport = page.getViewport({scale: scale});
+        const viewport = page.getViewport({scale: zoomLevel});
         const canvas = document.getElementById('pdf-canvas');
         const ctx = canvas.getContext('2d');
         canvas.height = viewport.height;
@@ -222,6 +226,16 @@
         pageNum--;
         renderPage(pageNum);
       }
+    }
+
+    function zoomIn() {
+      zoomLevel = Math.min(zoomLevel + 0.2, 3.0);
+      renderPage(pageNum);
+    }
+
+    function zoomOut() {
+      zoomLevel = Math.max(zoomLevel - 0.2, 0.5);
+      renderPage(pageNum);
     }
 
     // Keyboard navigation
