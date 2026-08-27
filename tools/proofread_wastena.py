@@ -109,6 +109,20 @@ CORRECTIONS = {
     "zach": "each", "zarly": "early", "darly": "early", "emen": "even",
     "bese": "best", "bett": "best", "comy": "come", "eres": "eyes",
     "futher": "further", "leep": "keep", "mvst": "must",
+    # a second pass, each read in its sentence
+    "ascention": "ascension", "behing": "behind", "breater": "greater",
+    "coor": "door", "envirorment": "environment", "exprossion": "expression",
+    "kingdome": "kingdom", "mame": "name", "meot": "meet", "moet": "meet",
+    "neme": "name", "neture": "nature", "nnew": "new", "noed": "need",
+    "peaco": "peace", "peautiful": "beautiful", "pecome": "become",
+    "perfeot": "perfect", "pessibly": "possibly", "physicai": "physical",
+    "physicel": "physical", "pike": "like", "plece": "place",
+    "powor": "power", "pracsice": "practice", "prayor": "prayer",
+    "preparetion": "preparation", "promisod": "promised", "qithin": "within",
+    "reath": "breath", "terrying": "tarrying",
+    "olouds": "clouds", "ontire": "entire", "oomes": "comes",
+    "oreated": "created", "overy": "every", "oyes": "eyes", "pack": "back",
+    "parther": "farther", "pationce": "patience", "pationt": "patient",
     # digits the scanner read for letters, and a semicolon it read as "3"
     "4nvolvements": "involvements", "4nd": "and", "4re": "are",
     "g0": "go", "g0es": "goes", "s0": "so", "1s": "is", "4s": "as",
@@ -195,6 +209,8 @@ LOST_STOP = {
     "withine": "within", "comese": "comes", "centerse": "centers",
     "preparede": "prepared", "belovedse": "beloveds",
     "consciousnesse": "consciousness", "consciouslye": "consciously",
+    "helpe": "help", "nighe": "nigh", "fare": "far", "kinde": "kind",
+    "worke": "work", "faithe": "faith", "peacee": "peace",
 }
 
 
@@ -290,6 +306,12 @@ def fix_hyphens(text, words, tally):
 REPAIRS = {
     "the great prayer, Kingdom come on Earth":
         'the great prayer, "Thy Kingdom come on Earth',
+    # "Onee" is "one." in one place and "Once" in another, so neither can be
+    # settled by the word alone.
+    "through each onee": "through each one.",
+    "Onee you consciously": "Once you consciously",
+    "disciples that you ares;": "disciples that you are;",
+    "spirit of Gode are receptive": "spirit of God. Ye are receptive",
 }
 
 
@@ -327,7 +349,9 @@ def fix_dashes(text, tally):
         tally[("=", "-")] += 1
         return "-"
 
-    return re.sub(r"(?<=[A-Za-z])=(?=[A-Za-z])", single, text)
+    # The same mark where the typist broke a word across a line:
+    # "prom= ised" is "promised", rejoined by fix_hyphens below.
+    return re.sub(r"(?<=[A-Za-z])=[ \t]*(?=[a-z])", single, text)
 
 
 def fix_apostrophes(text, words, tally):

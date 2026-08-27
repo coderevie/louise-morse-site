@@ -36,7 +36,7 @@ appearance of those signs that the Lord promised to give. Do not be concerned â‚
 
 } The contrast is great, yes! And you will suffer many discomforts until the Kingdom that has been at hand comes, It has been within the disciples, who have carried it all this time until choice would cause them to humble themselves, to acknowledge that man has made chaos of the world They had to desire that the Lord of Earth should come, and that the prayer prayed by so many and believed by so few, be fulfilled. (",..Thy Kingdom come, Thy will be done, in Earth as it is in Heaven...") This is to become a living reality as the disciples, the followers of the Lord assemble and together pray for the return of their Lord, Until this happens there is no magnification of power and action is delayed. But when this is done, those coming together strengthen the faith in each other, sustain one another, help to lift those ascending into higher vibrations.
 
-You are on your way up and out, yet it must be with honest motives in the heart, a true application of the laws of God and the perfeot dedication
+You are on your way up and out, yet it must be with honest motives in the heart, a true application of the laws of God and the perfect dedication
 
 [page 198]
 

@@ -16,7 +16,7 @@ In your busy work-a-day world you do not have the time for this. It is true that
 
 [page 125]
 
-heeancse you came together to offer yourselves unto God. Then the group conSciousness can be used to bring forth that of tho heavens which would enter tho souls of many, It is a continuous chain of events, or actions Action and jntor- ,, action--an Opening--just as you would open a window to permit the light to come through in Breater measure,
+heeancse you came together to offer yourselves unto God. Then the group conSciousness can be used to bring forth that of tho heavens which would enter tho souls of many, It is a continuous chain of events, or actions Action and jntor- ,, action--an Opening--just as you would open a window to permit the light to come through in Greater measure,
 
 You ses you have been so aware of your third-dimensional selves that you have forgotten the nature, the available potentials, of your higher Selves. You have suffered in the lower nature instead of lifting into the higher and absorbing the abundant life--all the benefits that the higher nature provides. You shall come into a greater realization of this.
 
@@ -82,9 +82,9 @@ According to the plan, as we send a greater charge of light through the channel 
 
 [page 129]
 
-you, bringing you what instruction we can, helping you to remain pationt and ready. There is a time for revealing certain things, a time of readiness, and while your awareness is increasing this will synchronize with the readiness in the other dimensions, for the plen to be revealed at the time that is shown,
+you, bringing you what instruction we can, helping you to remain patient and ready. There is a time for revealing certain things, a time of readiness, and while your awareness is increasing this will synchronize with the readiness in the other dimensions, for the plen to be revealed at the time that is shown,
 
-So we speak to you as disciples that you ares; we give you our love and blessings and hope that you will identify with the early Christians, knowing that you are one and the same, continuing in that in which you were instructed in those days. One fellowship, one purpose, one Lord. Many who are not following our Lord shall fall away, but those who are shall march together with his banner and in his name, for God's plan shall not be defeated. Blessed are they that are one with His will, that partake of this plan. It shall be done. You are being replenished, renewed in body, mind and soul. May you receive the healing currents, the freshness of Spirit, given new strength to serve your Lord's purposes. Bless you.
+So we speak to you as disciples that you are; we give you our love and blessings and hope that you will identify with the early Christians, knowing that you are one and the same, continuing in that in which you were instructed in those days. One fellowship, one purpose, one Lord. Many who are not following our Lord shall fall away, but those who are shall march together with his banner and in his name, for God's plan shall not be defeated. Blessed are they that are one with His will, that partake of this plan. It shall be done. You are being replenished, renewed in body, mind and soul. May you receive the healing currents, the freshness of Spirit, given new strength to serve your Lord's purposes. Bless you.
 
 So be it! Many of us are with you, as usual. becoming more serious because the time is running out. Unto this end are you gathered here. May you be blest and take great power and love with you as you go. Know that only those seeking spiritual attainment and looking for the return of their Lord shall come into this vibration. Otherwise it shall not be of interest to them. Remain true to your purpose. Do not turn back. Be steadfast in your souls and angels shall be with you. Selah.
 

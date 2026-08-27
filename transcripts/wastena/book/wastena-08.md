@@ -34,7 +34,7 @@ As you practice, this is increased, and the first thing you know there is no awa
 
 As your astronauts are in orbit there are certain points over the Barth with which they communicate and these points communicate with each other. It is an open network. This is much more powerful when done in the spirit.
 
-Onee you consciously make the effort to establish a rapport with the souls in other centers, this becomes a highly charged point of contact. If you were going
+Once you consciously make the effort to establish a rapport with the souls in other centers, this becomes a highly charged point of contact. If you were going
 
 [page 97]
 

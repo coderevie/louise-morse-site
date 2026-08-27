@@ -30,7 +30,7 @@ Many things are being brought to your soul remembrance, coming to the surface of
 
 [page 176]
 
-the midst of your enemier, you shall eat of that food, shall dwell on him, on the Father and the fulfilment of the Father's will, Truly, when you want no other will than the Father's, you shall be feeding on Spirit. You shall be strengthened and shall open into greater light--greater atoms of energy--until it takes form within you, as the soul, with the spirit indwelling, comes into union with the Father, oomes into mature productivity, thus glorifying the Father,
+the midst of your enemier, you shall eat of that food, shall dwell on him, on the Father and the fulfilment of the Father's will, Truly, when you want no other will than the Father's, you shall be feeding on Spirit. You shall be strengthened and shall open into greater light--greater atoms of energy--until it takes form within you, as the soul, with the spirit indwelling, comes into union with the Father, comes into mature productivity, thus glorifying the Father,
 
 This was begotten of Him and'sent forth; it does not honor Him to have that remain dormant. The begotten are to awaken and be nourished by the food of Paradise, thus the seed planted by the Father shall reach maturity and become perfect, as the Father in Heaven is perfect. In other words, this is the completion of His Plan, His divine idea for you--Christhood which shall glorify the Father. When you come into the Christ nature, you become one with the Father. But first the human will, the inflated ego must be put down. Jan is full of conceit and deceit. He has been feeding on this until he has brought forth a huge, inflated ego.
 

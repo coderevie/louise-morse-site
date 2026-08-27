@@ -330,7 +330,7 @@ Send the love through to others
 
 Like the bride, be prepared
 
-Give up self for greater love, It is the path to ascention. Let the change continue into the body of the Christ nature. Christ is the coor.
+Give up self for greater love, It is the path to ascension. Let the change continue into the body of the Christ nature. Christ is the door.
 
 Direct the power
 

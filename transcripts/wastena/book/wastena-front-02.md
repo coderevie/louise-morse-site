@@ -116,7 +116,7 @@ You are the Holy Temple, the sons of God
 
 We must finish the task on earth before going on
 
-Control the physicai circumstances so that when the soul awakens if can govern end not be defeated again,or affected by the human, but do oriented in the temple of you,
+Control the physical circumstances so that when the soul awakens if can govern end not be defeated again,or affected by the human, but do oriented in the temple of you,
 
 Work from there to do the Father's bidding
 
@@ -168,13 +168,13 @@ Be quiet «ore often that you may live the inner life and bring it into the oute
 
 You will be guided to simplify the material life
 
-Pracsice living more and more in spirit
+Practice living more and more in spirit
 
 Those who do not make it will suspend, or rest, and will come in again, and will be cared for by the remnant after the place is prepared for then.
 
 The cest is to re-establish our communications with the Lord. Prepare before the call.
 
-Desiring the Saucers will ease the ascention when it comes. Look. up. Desire and choose tne door to freedom,
+Desiring the Saucers will ease the ascension when it comes. Look. up. Desire and choose tne door to freedom,
 
 The ships como in icve, for the rescue of the remnant. Groups are gathsring together to be guided = in out of the way and quiet places to again walk and talk with Him. Become free souls to do the Father's bidding.
 
