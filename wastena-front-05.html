@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'" />
+  <title>Title Page, Publishing Information &amp; Forward — Louise Morse</title>
+  <meta name="description" content="How the retreat came about, in the Fellowship&#x27;s own words" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script>
+    (function () {
+      var t = localStorage.getItem("lm_theme");
+      if (["light", "dark"].includes(t)) document.documentElement.setAttribute("data-theme", t);
+    })();
+  </script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrap masthead">
+      <div class="brand">
+        <a href="index.html">
+          <h1 class="site-title">Louise Morse</h1>
+          <p class="site-subtitle">The Channeler · Digital Library</p>
+        </a>
+      </div>
+      <nav class="top-nav" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="library.html">Library</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-pressed="false">Dark mode</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-header wrap">
+      <p class="eyebrow"><a href="wastena.html">← The Wastena Retreat</a></p>
+      <h1>Title Page, Publishing Information &amp; Forward</h1>
+      <p class="page-sub">How the retreat came about, in the Fellowship&#x27;s own words</p>
+    </div>
+
+    <div class="wrap scan-bar">
+      <a class="scan-link" href="pdf-viewer.html?file=page42-44">📄 Read the original scan <span class="scan-pages">· pages 42–44</span></a>
+    </div>
+
+    <div class="wrap">
+      <nav class="pager pager--top" aria-label="Retreat navigation">
+        <a class="button button--ghost" href="wastena-front-04.html">← Jottings During the Sessions</a>
+        <a class="button button--ghost" href="wastena.html">Contents</a>
+        <a class="button button--ghost" href="wastena-front-06.html">Index →</a>
+      </nav>
+
+      <section class="card book">
+        <p class="muted small">Web text edition, read from scans of the original typewritten pages. The typescript&#x27;s own spelling and punctuation are preserved, and some scanning errors remain; this text is still being proofread against the originals.</p>
+        <hr style="border:none;border-top:1px solid var(--line);margin:14px 0 26px;" />
+        <span class="page-mark">Page 42</span>
+        <p class="book-line">of the</p>
+        <p class="book-line">Morse Fellowship</p>
+        <span class="page-mark">Page 43</span>
+        <p class="book-line">THE WASTENA RETREAT</p>
+        <p class="book-line">Morse Fellowship</p>
+        <p class="book-line">Published by</p>
+        <p class="book-line">MORSE FELLOWSHIP P.O. Box 370 Littleton, Colorado</p>
+        <p>Morse Fellowship is a non-profit organization which is recognized as tax-exempt by state and federal governments. All Fellowship publications and services are furnished on a love-offering basis. Any inquires are welcome.</p>
+        <span class="page-mark">Page 44</span>
+        <p class="book-line">THE WASTENA RETREAT</p>
+        <p class="book-line">Forward</p>
+        <p>&quot;Wastena&quot;, an Indian name which means &quot;sparkling waters&quot;, is the name of a large, comfortable summer home which is located on a small lake on an island off the northern shore of Lake Ontario in Canada. It is a beautiful setting, one which lends itself to quiet introspection or meditation. The owners, dedicated people who are readers of Morse materials, and who have been hosts to the channel, Louise Morse (Spence), when she traveled to Canada on several occasions, were led to offer Wastena to the Fellowship for approximately four weeks in the summer of 1967, to be used for a spiritual retreat.</p>
+        <p>A better place could not be imagined. It is set among towering pines, surrourided by flowers and is situated at the edge of the &quot;sparkling waters&quot; of the little lake. It is a place of peace and tranquility. The Cosmic Teachers said, in confirming it as a place of retreat, that it is a2 area of great intensity of Spirit, highly charged for upliftment of soul.</p>
+        <p>Plans were made and subsequently carried out, resulting in the Wastena Retreat of liorse Fellowship. People came and went as they were led, quietly, informally but in an orderly manner which lent itself to the occasion. Group sessions were held twice a day during which the Cosmic Teachers spoke through the channel. Thirty-three discourses were given in all, one for each year of the Master&#x27;s life on Earth.</p>
+        <p>In the three-week period, thirty-five people attended the retreat, some staying a few days, some attending each weekend, and a few able to be present the entire time. The greatest number in any one day was nineteen. Those who were privileged to attend will readily attest to the power of Spirit present.</p>
+        <p>The sessions carried a sense of urgency: that man must turn more toward his God and take immediate steps to reduce his involvement in worldly matters.</p>
+        <p>May all who read or listen to these discourses be inspired to grasp, in part at least, their deep significance and be blest as were those who attended.</p>
+      </section>
+
+      <nav class="pager" aria-label="Retreat navigation">
+        <a class="button button--ghost" href="wastena-front-04.html">← Jottings During the Sessions</a>
+        <a class="button button--ghost" href="wastena.html">Contents</a>
+        <a class="button button--ghost" href="wastena-front-06.html">Index →</a>
+      </nav>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© <span id="year"></span> louisemorsethechannel.com</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+
+    const THEME_KEY = "lm_theme";
+    const btn = document.getElementById("themeToggle");
+    function applyTheme(theme) {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem(THEME_KEY, theme);
+      btn.setAttribute("aria-pressed", String(theme === "dark"));
+      btn.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+    }
+    applyTheme(localStorage.getItem(THEME_KEY) === "dark" ? "dark" : "light");
+    btn.addEventListener("click", function () {
+      applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    });
+  </script>
+</body>
+</html>

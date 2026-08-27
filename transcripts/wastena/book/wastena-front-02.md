@@ -1,0 +1,531 @@
+# Jottings During the Sessions — Volume One
+
+[page 7]
+
+DISCOURSE 1. Prepare Your Retreat
+
+Opening of the Retreat
+
+Prayer
+
+Teachers: Welcome to this place prepared as a retreat for those attending from both dimensions. This is part of the gathering together at the end of the age.
+
+The attitude of the heart will lead the preparation for the eventual change-over of consciousness to the ways of spirit. Learn stability and balance, nurture the indwelling spirit for communion with God.
+
+Wait and listen for the Lord's guidance
+
+Working out of the plan proceeds; become aware, move with it. Human differences and backgrounds are not important - transfer consciousness to the soul.
+
+We are on probation; it is a testing time
+
+The choice was made; now follow through to the end
+
+Practice becoming that which you desire
+
+Grow in the light, raise the vibration that in the end you
+
+may be lifted up into the ships
+
+Growth, experience, patience await His will. You do not need to know ahead of time. You prove yourself as you move along. Rely on divinity within.
+
+The old world is passing for the Kingdom to come in
+
+This may seem to be a passive period. Use it to wait upon the Lord, strengthen the soul, be still and know.
+
+You cannot lead the Lord
+
+Know in the soul - different from telepathy or psychic phenomena. Ponder and meditate in the soul.
+
+You are being remade for Christhood
+
+Angels work with you as you desire the path of the Lord
+
+Be aware and act on the promptings within
+
+These are upper room instructions for the disciples of this day. Prophecies to be fulfilled in the next few years.
+
+You are watching for his return now
+
+Citizens in the new age
+
+Retreat energies to be sent out to the points of need
+
+The ray directed from Cosmic to be redirected out in His name.
+
+Aleph
+
+Teachers: We. dedicate this place to greater service for the Lord. We are one with you,
+
+[page 8]
+
+DISCOURSE 2
+
+Identify with the Harly Christians General discussion of the Daily Word, the Bible and events 7 moving towards the end of the age. Discription of the setting at Wastena. Daily Word reading. Further talk. Scripture Reading: Paul's letter to Corinth (J.B. Phillips) Prayer Teachers: We are fused with the channel and coming through her soul. Practice having the soul control the physical body, it is your destiny. The human over-rides the divine and must be put down. Be aware of the soul, the I Am.
+
+j Forgetting is the barrier and remembrance will bring you home. Divine intervention has begun with the ships in the skies. Turn within. Wow is the time for preparation to know the Christ within. Pray for discernment.
+
+You are coming out of the animal world, psychic, mental, preparing to receive a new commission.
+
+You have become Lucifer's enemy. Use the prayer "Lord I believe; help Thou my unbelief." Self must be put away. It is used to deceive in many ways. j Discern the soul; do not feed the self but feed the soul. i Soul flights. Pray on retiring, pray on awakening. You are exposed to Lucifer. j Desire God and He smiles through you. 1 The eyes are the windows of the soul. Do not be busy in the world. Coat of Many Colors. Love your God. He will lift you up. Be still and feel the power; know God is with you. One day you will leave the mortal behind, free in spirit. Free to make order out of chaos in His plan. The law of knowing. Pray for remembrance. You are the early Christians. What is the motive behind action, for the Lord or self? Do not judge others. Indecision will destroy. Consciously acknowledge God within the soul, in the temple.
+
+Radiate only light and love. Keep the consciousness high. Do not plan, but wait and act when shown. Desire only God's light that you be used of Him.
+
+Aleph Short talk by Louise on coming out
+
+2 Ey—E—EEE
+
+[page 9]
+
+Identify as His Disciples
+
+Prayer
+
+Teachers: Fourth dimensional discipleship continued
+
+The Master gave the upper room instructions which are now being paralleled, Those are only a mystery to the intellect; to spirit they are natural law.
+
+Need to expand rrom 3rd to lth dimension as the Kingdom on Earth comes in, or be suspended in 2nd for the millennium. Light reveals the plan of God;
+
+Head and heart united will bring it about
+
+Put down the self thac the selfless one rise up
+
+Help in this from ministering angels
+
+The assignment of the Adamic race, being lost, the return. Were to govern tho lower kingdom but fell in.
+
+Mercy to allow even this, a school, but now to move forward into light.
+
+The dream statc to e suspended
+
+The Rapture of the Ghurch
+
+Be ready to > when called
+
+It is written In the Bible
+
+Spirit movos'to fulfil the plan
+
+Keep the trocus on the Shepherd
+
+Those who would follow must learn to bring forth the Kingdom from within.
+
+Without God there is no life
+
+You are the Holy Temple, the sons of God
+
+We must finish the task on earth before going on
+
+Control the physicai circumstances so thet waen the soul awakens if can govern end not be defeated again,or affected by the human, but do oriented in the temple of you,
+
+Work from thero to do the Father's bidding
+
+Loews extend through all creation, worlds and dimensions. See your place in this as a spark of life from God.
+
+Move in His power érd strength
+
+Go forward as His disciples
+
+We sre destined to return to reality in the cosmic plan
+
+Aleph: The earth shall be made new. Identify with the Master.
+
+Teacher: Send out the light to all in need
+
+[page 10]
+
+Listen ito the Lord
+
+Prayer
+
+Teachers: Timing is near, be alert, prepare, simplify, disentangle and be prepared.
+
+Straighten out the physical, be ready to move quickly
+
+Look towards reality, orient in the next dimension
+
+The cusp of the event - then as lightening the change will come.
+
+Do not be a sleeping disciple
+
+Awakened souls will become more and more aware, be alert to the signs.
+
+Listen for the Lord and his angels. You will need the communication in the final days.
+
+The remnant will have the host with them
+
+Thousands are helping towards the Kingdom of Heaven on Earth. Listen for the direction on the inner plane to know how to
+
+act - the in-dwelling spirit
+
+Be still until you know. The time for practice is now, in
+
+the quiet. It will be more difficult later
+
+Meditate, emovy self, then be still and listen - guidance will come,
+
+Be quiet «ore often that you may live the inner life and bring it into the outer,
+
+You will be guided to simplify the material life
+
+Pracsice living more and more in spirit
+
+Those who do not make it will suspend, or rest, and will come in again, and will be cared for by the remnant after the place is prepared for then.
+
+The cest 1s to re-establish our communications with the Lord. Prepare before the call.
+
+Desiring the Saucers will ease the ascention when it comes. Look. up. Desire and choose tne door to freedom,
+
+The ships como in icve, for the rescue of the remnant. Groups are gathsring together to be guided = in out of the way and quiet places to again walk and talk with Him. Become free souls to do the Father's bidding.
+
+We will work with the soul bodies
+
+Be aware of the presence
+
+Do not be alarmed at body changes
+
+Soul and Spirit reunion is coming
+
+[page 11]
+
+DISCOURSE 5 Call to Remembrance
+
+Daily Word reading
+
+Scripture Reading: Peter's first letter to the early church.
+
+Prayer
+
+Teachers: Calling to remembrance - the letters carried the message to us then as now. Same souls, same message.
+
+Light is entering now into each soul body
+
+The voice vibration enters as a feeding
+
+Many ways of receiving the energies of creative force
+
+The light centers and souls magnify spirit and power for the Lord's purpose.
+
+Soul development - not ego
+
+It is the soul that is raised up, to living reality in love, to a new birth into spirit reality and the freedom of the soul.
+
+Spirit has the plan and will effect it - through the portals. Now is the waiting for delivery, a few years yet, the due season approaches, wait upon the Lord, trust in patience. There will be illumination.
+
+Some will go in body, some without, it matters not; be ready
+
+We are the graduating class of the earth school - extended for all in due season.
+
+From the House of Isreal to the House of Spirit
+
+Surrender will and life for Spirit, for God to mold the soul to enter in.
+
+Look up and out to the new
+
+Simplify the physical life
+
+Remember and claim the spirit
+
+Read the Scripture. They are pertinent to the changeover, Upper room instructions, the place is being prepared for us. We are being gathered together for His return.
+
+[page 12]
+
+Many are with Us
+
+Scripture Reading: Second letter of Peter to the early Christians. seas,
+
+Prayer
+
+Teachers: The teachers can speak through the channel in or out of trance in this light center now - the power is high enough.
+
+The light vortices, or centers, are necessary to off-set the opposite.
+
+Communion is necessary to develop in groups for God's purposes. The disciples wrote for today, for the gathering in the latter days.
+
+Love of the neighbour's soul
+
+Pray for discernment to know how to act
+
+The remnant is small when graduation arrives
+
+God's light will come to earth in each that offers, accept
+
+the love and listen
+
+Walk and talk with God in the higher consciousness
+
+These are proving grounds to be worthy of ever higher states of consciousness.
+
+Increase in light, vibration and power. is necessary to prepare to enter and be drawn up. This must come slowly for the body to meet it.
+
+Many are with us - just a thin veil between
+
+Great ones are here to contact those attuned
+
+We are transformers for the Lord to establish the plan
+
+The teachers are feeding the cells of the etheric body to build. Dominating humanity is not the same as taking dominion as intended in the Paradise state.
+
+Submit to the Lord
+
+Live more in the divine nature. * Those on the other side will be raised up first.
+
+The door will be opened. We will have the key to enter in and remain for the millennium.
+
+Sit quietly and feel the power whenever possible
+
+God will make new - be useful to Him
+
+This is not a vacation. Offer self to God's purpose
+
+More ship sightings this summer
+
+Be thankful for the tarrying time
+
+Two sessions a day, plus open focus
+
+Keep conversations on soul levels
+
+[page 13]
+
+DISCOURSE _7
+
+z The Cells of the Body Discussion: Unity Daily Word Scripture Reading: James to the twelve dispursed tribes. Prayer Sarramya in the higher consciousness communicating, rising to the light for the teachers to come through. So shall we progress in like manner, The paradise state is living in the higher consciousness and still walking the 6arth, simultaneously. Much in the tapes or discourses is for others later for their awakening, The light goes into each cell that has come through the incarnations to make the light body. Complete only when all the sheep are in and raised, the delay is a blessing. The etheric body, as a kingdom, to be raised cell by cell, not just mind to be raised, The body is many mansions to the cells, as we are to our level and so on in groups. Eternal progress through illumination. Responsibilities for these cells to progress. Depend on God within to lead. Do not focus on the teachers. Test all sources. Look only to the Lord, for He only will open the inner door to communion, union with the Father in the temple of. you. Ask and you will receive. Do not deny the Lord. Power will come gradually as spirit changes you. You will be given what is necessary when required as time moves on and the tribulations occur. Move to the sonship that is reality - divinity, the Christ nature in you. Live it as the I Am. Born of water, reborn in Spirit. The central sun will shine through the etheric worlds. Enter in by opening to spirit. Be prepared for the final birth, as the twinkling of an eye. Strengthen the soul. The task of the millennium, then the second resurrection and on to further works, for the graduates. You are now accepted as citizens in the new kingdom. Love is the key. Teachers will open to questions later, for advancement. We were in soul flight last night.
+
+Px Aleph
+
+eee
+
+[page 14]
+
+DISCOURSE 8
+
+Scripture Reading: Paul's first letter to the Christians at Corinth,
+
+The Fellowship is souls in fellowship. Faith, hope and love. The greatest is love.
+
+Prayer
+
+Teachers: Guardians are with each, constantly in communion. The vortex is increasing in power.
+
+Dreams and soul flight are increasing
+
+Focus on the retreat purposes, the inner life of spirit replacing the temporal world.
+
+The new order will rise, now is time to learn the way, before the end, the fall of the old.
+
+We are Christians standing by for the Lord
+
+Questions may be asked about the higher consciousness. Spiritual communications between groups?
+
+Power flows between, projection, prayer, thought transference. Awareness between for thoughts.
+
+A charging when the channel visits light centers
+
+These are open doors in the darkness
+
+The centers are as yeast raising up the kingdom
+
+Personal contact strengthens bonds
+
+The network will come to function among the remnant. Rainstorm - includes power from heaven.
+
+Watch for symbolic messages from the soul - examine them
+
+We have been drawn into the ships at night and worked on. The fourth-dimensional body is made ready.
+
+Work is being done as this is recorded, but not to alarm the body and cause interference.
+
+Practice feeling the power in the circle. Send it out
+
+This Fellowship is only one part of the body of Christ being raised.
+
+Aleph
+
+[page 15]
+
+Soul Development
+
+Daily Word Scripture Reading: Continues the lst letter to Corinth, 17
+
+Sarramya: Human effort will not achieve - seek spirit and the Christ nature will grow.
+
+The Father doeth the works through. Give consent, do not resist.
+
+The Kingdom will rise in the unseen. Give up all for this. The hurry is change the heart, submerge self.
+
+A spiritual poise will come. Sustain it, be it. It cannot be willed humanly.
+
+God will develop the soul, relax and know the spirit moves through. Be still and know these things.
+
+Divine nature prompts, human nature pushes. You can feel the difference - act for spirit.
+
+Danger of deception, focus on the soul development, not on means or negating of habit.
+
+You move towards what. you dwell on
+
+Look to the Christ nature, move into the divine self, tend to forget the human self.
+
+Faith and purpose toward the goal
+
+The Divine Will will make you perfect
+
+Teachers: From the space ship, sending a ray of energy into our midst. Mother Ship, cigar shaped, space platform stationary for months at a time.
+
+Laboratory for souls! instructions
+
+Univision over much of the universe
+
+Teleportation or focus to screen
+
+Probe, remote, view and test for recording. Limited somewhat with third dimension. :
+
+Scout ships
+
+Working towards the event of the great purpose
+
+Divine airlift
+
+Soul flight, silver cord to body, the body a vehicle only for the soul. Trust the soul; no security in body or earth.
+
+The Creator's 7th day - rest and fruition
+
+The power of God moves through His creation
+
+As you develop more is revealed to the soul
+
+Pray for greater understanding, have patience
+
+Progress and change is showing
+
+Souls are gathered in light centers to work together now and later, to know one another. Same flock developing.
+
+We have the name and vibration of God for His purpose. Oneness. Teachers will be part assigned to us, one group.
+
+Aleph
+
+[page 16]
+
+D.SCOURSE 10 The Lifting Veil
+
+Scripture Reading: II Gorinthians 20-25 (J.B. Phillips) Prayer
+
+Teachers: We are the disciples following through, the harvest sown 2000 years ago.
+
+A few years left to make ready and be acceptable to the Lord. The emphasis is now on readiness for the final event.
+
+The false kingdom must fall. The veil is getting thinner. Rememberance by following the early church records.
+
+When placed in Eden self-will caused self development rather than spirit development.
+
+Identify with Adam, the lost tribes, a son of God, life eternal. Being prepared for the th dimension to meet the Lord in the sky.
+
+The group who have offered to serve, (us) to help others who will not be strong enough.
+
+After ascension, after the comet, return to earth to set up
+
+the kingdom, all before the end of the century
+
+Make time to prepare, come apart from the world
+
+we must meet the Lord's condition - give up self. Do it now. Draw aside from the world.
+
+Souls open and desiring to follow God. co Be serious; the Father is serious about you.
+
+Seeing the change-over will help after the millennium to
+
+resist Lucifer then
+
+We must make collective effort for the power to come through the group as one.
+
+The prophet is fixed in local idiom, hence difficulty to identify the vision.
+
+Those through the portals will be raised up first
+
+Trust until you are raised enough to see the plan
+
+Live each day as if it were the last, in highest consciousness, Be free to follow the Lord when he calls.
+
+Be careful what you start
+
+Commune direct with your God within; therein is security
+
+Not: so much do something as wait upon the Lord for illumination. The Christ within will judge rememberance.
+
+Inner guidance will lead each to proper action
+
+We are on the way
+
+Soul flight to the ships, and to know for the final day
+
+Aleph: Send the power, and light go out
+
+[page 17]
+
+DISCOURSE 11
+
+Reorient in the Soul
+
+Daily Word
+
+Prayer
+
+Teachers: The busy world keeps heaven out. More stillness is needed, hours, to know God.
+
+The retreat leaves the world behind and moves the soul towards the higher consciousness.
+
+Earth became a schoolroom after it was your playground
+
+All in the Father's plan
+
+The souls are awakening to the plan. Love is the key
+
+The spirit moves in each in the higher consciousness
+
+We vascillate from high to low until eventually the higher will be more natural and real; then you will be that.
+
+Prayer partners help to do it together
+
+Conscious control of lifting consciousness as a plane or elevator.
+
+Better perspective is gained for living
+
+Rise above all things for Christ wisdom
+
+Bless the Lord, oh my soul, rise up to meet Him
+
+These teachings are for the soul, not intellect, to regain awareness of reality of spirit.
+
+The mental was the deception that negates spirit, a trap, a dream.
+
+The soul has choice to move in sither. The choice was made long ago to throw off the dream, or materiality.
+
+When stripped the light will shine forth
+
+Take control of self
+
+All are not begotten sons; there are other flocks of Christ. Sons of name and image have special purpose in God's plan in the Kingdom. The Father's business.
+
+It is not to learn but to open to spirit
+
+3rd dimension groupings cannot survive; only 4th in spirit. The anti-Christ trick will be to embody and claim to be Christ, but this is the method of binding for the millennium.
+
+The Christ coming in a ship, serving, and going in a ship. He will come again in a ship, hence no other should deceive, you expect and will know.
+
+Be ready to join him when called
+
+The new assignment in His plan
+
+Growth is for God, not to inflate ego
+
+Progress is being made even when you cannot measure
+
+You are being raised
+
+Htherial worlds rejoice that earth is being raised
+
+You must become accustomed to the light
+
+Thé Lord stands in.our midst
+
+Aleph: Sit on in the vortex, send out light

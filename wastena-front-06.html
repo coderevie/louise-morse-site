@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'" />
+  <title>Index — Volume One — Louise Morse</title>
+  <meta name="description" content="Discourses 1–11 · Morse Fellowship Lessons 331–341" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script>
+    (function () {
+      var t = localStorage.getItem("lm_theme");
+      if (["light", "dark"].includes(t)) document.documentElement.setAttribute("data-theme", t);
+    })();
+  </script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrap masthead">
+      <div class="brand">
+        <a href="index.html">
+          <h1 class="site-title">Louise Morse</h1>
+          <p class="site-subtitle">The Channeler · Digital Library</p>
+        </a>
+      </div>
+      <nav class="top-nav" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="library.html">Library</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-pressed="false">Dark mode</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-header wrap">
+      <p class="eyebrow"><a href="wastena.html">← The Wastena Retreat</a></p>
+      <h1>Index — Volume One</h1>
+      <p class="page-sub">Discourses 1–11 · Morse Fellowship Lessons 331–341</p>
+    </div>
+
+    <div class="wrap scan-bar">
+      <a class="scan-link" href="pdf-viewer.html?file=page45">📄 Read the original scan <span class="scan-pages">· page 45</span></a>
+    </div>
+
+    <div class="wrap">
+      <nav class="pager pager--top" aria-label="Retreat navigation">
+        <a class="button button--ghost" href="wastena-front-05.html">← Title Page, Publishing Information &amp; Forward</a>
+        <a class="button button--ghost" href="wastena.html">Contents</a>
+        <a class="button button--ghost" href="wastena-01.html">Discourse 1 →</a>
+      </nav>
+
+      <section class="card book">
+        <p class="muted small">Web text edition, read from scans of the original typewritten pages. The typescript&#x27;s own spelling and punctuation are preserved, and some scanning errors remain; this text is still being proofread against the originals.</p>
+        <hr style="border:none;border-top:1px solid var(--line);margin:14px 0 26px;" />
+        <span class="page-mark">Page 45</span>
+        <p class="book-line">THE WASTENA RETREAT ) Index - Volume I, 1-11</p>
+        <p class="book-line">Morse Fellowship Lessons 331-341</p>
+        <p class="book-line">The Fourth Dimensional Discipleship, Continued</p>
+        <p class="book-line">Prepare Your Retreat</p>
+        <p class="book-line">Identify With the Zarly Christians</p>
+        <p class="book-line">Identify as His Disciples</p>
+        <p class="book-line">Listen to the Lord</p>
+        <p class="book-line">Call to Remembrance</p>
+        <p class="book-line">Many are with Us</p>
+        <p class="book-line">The Cells of the Body</p>
+        <p class="book-line">Dien sO Vg gw es Nee</p>
+        <p class="book-line">The Light Centers</p>
+        <p class="book-line">9. Soul Development</p>
+        <p class="book-line">10. The Lifting Veil</p>
+        <p class="book-line">ll. Re-Orient in the Soul</p>
+      </section>
+
+      <nav class="pager" aria-label="Retreat navigation">
+        <a class="button button--ghost" href="wastena-front-05.html">← Title Page, Publishing Information &amp; Forward</a>
+        <a class="button button--ghost" href="wastena.html">Contents</a>
+        <a class="button button--ghost" href="wastena-01.html">Discourse 1 →</a>
+      </nav>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© <span id="year"></span> louisemorsethechannel.com</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+
+    const THEME_KEY = "lm_theme";
+    const btn = document.getElementById("themeToggle");
+    function applyTheme(theme) {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem(THEME_KEY, theme);
+      btn.setAttribute("aria-pressed", String(theme === "dark"));
+      btn.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+    }
+    applyTheme(localStorage.getItem(THEME_KEY) === "dark" ? "dark" : "light");
+    btn.addEventListener("click", function () {
+      applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+    });
+  </script>
+</body>
+</html>

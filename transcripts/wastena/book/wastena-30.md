@@ -1,0 +1,91 @@
+# Discourse 30 — Change Your Habits Now
+
+[page 217]
+
+Scripture Reading: John 16:17
+
+Blessings, children of the Light. From the outer world you have come together in perfect harmony and oneness of spirit. This brings perfect accord and sustaining power that lifts your consciousness. Greater works can the Father do through you when you assemble as one, transcending the human egose
+
+It is over three weeks now that these sessions have been flowing through constantly, daily, and many of you have reached new heights, have had greater understanding, have come into new blessings. Some of you have entered into more of the light than others, but it is all available. Even after you have gone to your homes we shall help you to assimilate that which you have heard.
+
+It is your focus, your goal for each step that draws you up into the next. As you attain one you move on to the next. These are the phases through which your soul body is going, and you seem to comprehend more consciously, but the body does not always equalize with this light and energy that is moving through at a faster rate. At times the ego will resist moving with the soul into greater light. Then there is an imbalance, and there may be physical reactions in the form of headaches and other pains. There must be the all-out giving of the will to the Father, even the pain. Give it over unto the Father. In Him there is no
+
+pain, so pain disappears when you awaken in the spirit. There are various physical sensations that go along with this high
+
+intensity of light energies, the higher frequency of light into which you are moving, for you are being prepared to move into the higher dimension before long. Many are going over instantly without pain and going into service in the other dimension. Part of the plan, Others will still be on Earth and will be drawn up into the clouds into celestial ships at the time the Lord gives the command,
+
+This should bring humility and gratitude unto your souls when you realize how much your Master and Lord loved you and still loves yous How he prayed for you before he left the world! He prayed that you could benefit from his knowledge of his oneness with the Father. He made that contact for you, made it to be available for you when you believed in him and his oneness. He offered you his love and ley down his life for you so that you could identify with him. Know that his prayer shall be answered, for he knew how to pray, and in his love and wisdom he made contact for you with the Father.
+
+We have given you lessons on the begotten sons of God, sent forth to unfold and mature and come to the perfection of the plan. God will not leave this undone. He will see that it takes places You were given free will to choose this or note As we repeat these things over and over it goes a little deeper each time through the layers of materiality until it sinks into your souls. They are being called to come forth in new life. Hear that call and remember that physically you were born of waters the souls of you were born of Spirit--that which is eternal--and they are being prepared for re-entrance into Paradise, which is the fourth dimensional millenium of light. For the next thousand years there shall be abundant and glorious life for the citizens of. the Kingdom of Heaven on
+
+Earthe
+
+[page 218]
+
+Having chosen this, you have been selected, your Lord has chosen you to fulfill the rest of his missions Do not betray him by pretending to love rt follow hin and yet betray him by losing interest or focusing upon other
+
+lings=-becoming distracted by the superficial. Put all things away from you and §0 forth in serious search, Know that the indwelling spirit shall reveal to you all that shall be needed during this coming age. You have all the potentials, all the attributes of the God-nature in your being but have been functioning in the lower self, that lower nature which is not eternal, All that time you have had access to the higher nature of the Spirit of God. Use visualization, use divine imagination (it is God-given) and realize. With the spiritual eye, explore within, It is the greatest of all adventures. The greatest satisfaction is to find the God center within your holy temple.
+
+We work with you many times during the day and in the night when the body rests, the mind is quiet and the soul takes flight, but you must also come consciously into realization, It is about time! Everything depends upon your focus every moment of the day. If you shift it often and various things distract you, the first thing you know you are back in the world again, conforming to human nature and that, of course, is always on the defensive. You can recognize this by the quick justification it attempts. In the spirit there is calm deliberation, there is remembrance of the covenant between the soul and its God, and a deep desire to follow through, to remain true to all that is convietion within the soul. Your need now is for conscious cooperation with the soul, to help it fulfill its covenant.
+
+Many are curious but they are flighty and superficial, An inquiring mind with the right motives can be stimulated to start searching. This can be with true dedication. There is a difference. But there is indeed only a remnant, @ minority of such souls, Even Christianity itself is a minority upon the whole Earth, and out of that there is only a remnant of those who are deeply serious about being about their Father's business. Many do not have the time, they say, or they are ashamed of their friends' criticism. Others do not understand and make no effort to understand. One is either traveling the way or he is not, but when he is, he keeps his eyes upon the Christ, upon the goal which is the attainment of the Christ-nature in himself, for this is God's will. Who is man to alter this or delay it. It comes in direct proportion to your dedication.
+
+You are disciples who were with your Lord when he walked the Earth. Though you have had many incarnations since, the seed of truth that was planted within you is eternal and you recognize your Lord. You still desire to be part of the Harvest Age and are remaining true unto the end. Actually the believers remaining will be taken up into the clouds just ahead. of the greatest tribulation. The preparation of those entering into the fourth dimension, the Paradise State, is rapidly going forth. You are being conditioned so that you will match the frequency of light into which you are being drawn. This is the mercy of God Who answers your prayers before you express them, because the desire of the soul to meet the purposes of God is bringing it about. In His wisdom and mercy you are given protection before you realize the need for it.
+
+So your hearts should. be full of love and thanksgiving. Many are the blessings, but many are the aches and pains caused by resistance to the Light that would draw you from out of the world. You are going through the portals into Paradise, so daily surrender. your life, your will, your ego unto the Father, and He shall renew youe He shall make so many things come to life in a now way for yous The Father silently moves within the temple and power is increased. The Master told his disciples to go into the homes of those who would listen so that the Father's Light and Love could move through. Just so would he have you
+
+carry it from place to place
+
+[page 219]
+
+The Spirit of the Living God brings forth transformations and manifestations in the lives of individuals and families. The carrier, one who knows that the Eternal Presence is within, has tho authority to discharge the healing currents, the life-giving energies into each household in which God is honoreds Then he moves ons This has happened many times. God works in mysterious ways; He moves silently in Spirit through the vessels who claim oneness with Him and know it as a living Presence. Every moment available you must learn to do this-- to claim it, to be it--for it is the power of God which shall release all that is bound,
+
+Begin to take your focus off things of Earth that would bind you-- your possessions or other things that are such clutter in your lives and minds. You can lighten your obligations and responsibilities, can simplify your lives so as to come into the realization of God's power in youe You do not have to Imow how to do it; just claim it and give thanks unto your God. Then He shall move through you. It is a way unknown to you, for you have forgotten how Spirit functions. There are many who are not willing to give up the time or to go through the trouble.
+
+Each of you has shown the soul desire and the willingness to come together in Spirit with those of like purposee This would be considered foolish=
+
+ness by the world, but in reality it is obedience unto God. In your Lord's name you obey and follow, in his name you are claiming his nature. In that nature you rise up and show your belief by taking authority in the soul. In quietness and confidence shall be your strength, He will use it, but you practice being still long enough so that it may move through the very center of your sanctuary within. Believe this and you may take new confidence because you believe. The soul takes confidence in that which it knows is Spirit and new strength comes, for it is the strength of the Lord. When you realize that you are nothing in the human nature and put that down so that you rise up in the higher nature, then God moves through His own. We repeat so much and speak slowly and deliberately that your souls can assimilate this and come into a realization of the truth.
+
+You have become so accustomed to repeating the words of your Scripture by rote that to you they have lost their meaning. Realize what each word and each concept is telling yous Relax, believe it, accept it without strain, Stillthe emotions and idle thoughts and Imow that God takes over in the temple offered unto Him.
+
+In the upper room the Master lifted the consciousness of his disciples in preparation, before he went into higher planes. It is necessary also that we do this with you, so you have been lifted in consciousness increasingly. At times it would be as though you were looking at the ground from a height and become dizzy. You have had several of these experiences because you could not keep your equilibrium with such high voltage. Yet if you can recognize it for what it is and are persistent in intent, you can rise up and go one Jesus stumbled under his cross; you will stumble under yourse The cross was symbolic of all the crossroads, all the decisions, all the testings, that you are going through. Jesus said, "Pick up thy cross and follow me." Rise up and continue. One day, as you finally forget yourself in some moment of quietness you will open and in a flash some of these realizations will come to you, consciously, and you will wonder how you missed them before.
+
+So you are being conditioned and cared for, and all this cultivated by the Spirit in the fertile soil brings the increase, produces the fruit. You are given the opportunity to claim your identity, to claim the powers Know the Source of that power and let your motives be of the highest, for God's purposese Let yourselves be moulded by the Great Potter and, in complete surrender to His
+
+[page 220]
+
+will, you shall be ready to move into Paradise
+
+This is one of the refining stages before the greater calamities hit the Earth, and man is not taking time to learn or to obey. If you have learned obedience unto the Father, then in the moment of need you will obey, when you hear the instructions, The habits you form now are those that shall determine whether or not you enter into Paradise. So be careful of your habits and your thoughts and emotions. Have no resentments of the petty things that come your ways be loving, be forgiving, be obedient unto your Lord. He is so near to yous Not only has he been in your midst but he is now active in the affairs of the children of God, for he is preparing for action in the time vhen he shall draw unto himself those whom the Father gave him.
+
+In your hearts you do indeed desire truth; your motives are pure. Always be sure that your desire is to glorify your God and not to boast of self. Beware of spiritual pride, for pride goeth before a fall. We use the parables and the sayings of your own language to help to convey to you the reality of God's Kingdom of etherial worlds of abundant life, and to increase your faith.
+
+Do not be deceived because there seems to be a slowness in the unfoldment. Very shortly things will happen so rapidly that you will beg for them to slow down, so use the “tarrying" time.
+
+There will be many more earthquakes, terrible famines and much more danger of nuclear weapons. All this is building up just as surely as the hatred in the hearts of those who riot is building up for the next outburst. Evil is finally coming into full swing. When it does the great intervention shall take place and God shall move to draw the believers into ships. This will be to preserve them for the Father's purpose while the unbelievers suffer great tribulation.
+
+Have faith and know that you shall be shown things later. You could not understand if you were told just what you may be doing in the Paradise State, or even in the time of the cataclysms. First we must help you to gain fortitude and balances Then you will be able to withstand changes, to retain your equilibrium as the early Christian martyrs did--rejoicing in your souls because you will know that you are closer to the realization of God's Kingdom on EZarthe So you are told to keep your focus high, to look upon the Master who is leading you out of the temptations of evil. Give thanks for this. You seem to walk as though nothing is happening when the mighty drama of the solar system is taking place, God's salvation is come unto man, and so few have realized it.
+
+So many go their usual ways and care not about furthering God's message unto Earth; yet there are those of you who have been dedicated to advancing the "good news" that the Kingdom, Eternal Life, is near at hand, It is already manifesting in you, @ little at a time, and at the moment the change takes place the soul will be ready. We have been feeding your souls, energizing them according to the Father's will, caring for and ministering unto His own, But it is only with your consent that guardians work with you. Follow through and obey that which you mow in your heart, for the watchmen of the night shall see the dawning sun. Only a few more years and your Lord shall come in great glory in the chariots in the skies, with the Host following, in intensified light, ultimately to rule the Earth.
+
+He has already conquered the world, as such. Know this so that you realize there is no power on Earth stronger than that of God's, The demons of darkness cannot prevail as long as you are consciously aware of the light of the creative forces of God, and you know your Master, know his voice. Be firm in following him as he leads you out. It is this that shall finally help you slip into place. With a flash of realization you shall know that you are one of the
+
+[page 221]
+
+sons of God , shall know that the Father is within you in the form of the indwelling spirit. He will come into action as you give consent and get out of the way. In all your affairs let the higher nature function. It is not something that you talk about when you come together, it is a way of moving constantly in the higher nature. Then you have access to all answers, and before you call He shall answer.
+
+You are souls who have climbed to the mountain top. Your desires, your dedication have brought you this far and realizing that it is the spirit within you that doeth the works. You will get out of the habit of thinking of yourself as one coming into goodness and doing such good works that you deserve 4 reward. This will no longer enter your minds. You will mow that it is the Father within that doeth the works and in all thy ways acknowledge Him. You are indeed being made ready to enter into the Paradise State. You are being prepared to move right into the Father's services
+
+. Pray for those who have gone before youe This gives them added
+
+light and strength, for the prayer of the soul sends forth light from the temple of youe God's supply never runs out. As you direct it consciously, in the Lord's name and nature, you rise up to meet that nature and know that you are one in Him, just as surely as you all have known that you were one in Spirit here in this room. The vibrations will remain here, for the power of God is strong. Daily, let your hearts be filled with thanksgiving and love. After much prayer and dedication and offering your entire being unto the Father, in your moment of wealmess He shall raise you up into full strength, His strength which is eternal.
+
+The Light is increasing in your midst; the power is great. Be filled with these energies; let the healing currents restore you to wholeness, integrated in Him. You shall be moved to help further the Father's works, for the Spirit moves through those who remain true to their posts. When a disciple does not turn away from an assignment of God, God does not turn away from him; nor does He withhold the fruits of His Spirit which multiplies, reproduces, brings forth in greater measure, as it is handed on to the trustees of His mission.
+
+A sacred trust is left with each one of you--a sacred trust! Our Lord is in your midst.
+
+Come ye apart from the world and follow me. You are the flock moving through the door with the Shepherd: disciples of love, those that feed my sheep. Your love and faithfulness shall bring you into the Kingdom. My peace I leave with youe
+
+We TEAS Be ia MOL oe So be it, beloveds! There is little to say after the presence of
+
+the Lord. Become that nature and glorify your Father. Selah!
