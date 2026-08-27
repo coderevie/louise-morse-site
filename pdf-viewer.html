@@ -89,9 +89,9 @@
   </header>
 
   <main>
-    <div class="page-header wrap">
-      <p class="eyebrow"><a id="backLink" href="#">← Back</a></p>
-      <h1>Source PDF Viewer</h1>
+    <div class="page-header wrap" style="padding: 20px 0;">
+      <p class="eyebrow" style="margin-bottom: 4px;"><a id="backLink" href="#">← Back</a></p>
+      <h1 style="font-size: 28px; margin: 0;">Original Scans</h1>
     </div>
 
     <div id="pdf-container">
@@ -174,7 +174,6 @@
       if (pageNum < pageCount) {
         pageNum++;
         renderPage(pageNum);
-        document.getElementById('pdf-canvas').scrollIntoView({behavior: 'smooth'});
       }
     }
 
@@ -182,7 +181,6 @@
       if (pageNum > 1) {
         pageNum--;
         renderPage(pageNum);
-        document.getElementById('pdf-canvas').scrollIntoView({behavior: 'smooth'});
       }
     }
 
