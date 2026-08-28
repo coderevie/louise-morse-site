@@ -24,15 +24,15 @@ PAGES = [
     ("may12.md", "reading-1983-05-12.html", "May 12, 1983 — Morse Reading",
      NOTE + " Some passages were unreadable on the scan and are marked "
             "[illegible].",
-     "Greetings Dear Ones", None),
+     "Greetings Dear Ones", "reading-1983-05-12"),
     ("may24.md", "reading-1983-05-24.html", "May 24, 1983 — Morse Reading",
-     NOTE, "Establish A Communication Within", None),
+     NOTE, "Establish A Communication Within", "reading-1983-05-24"),
     ("booklet2.md", "booklet-channelling-and-group-vortex.html",
      "Booklet No. 2 — Channelling and Group Vortex", NOTE,
-     "Morse Fellowship", None),
+     "Morse Fellowship", "booklet-2"),
     ("publist.md", "publications-list.html",
      "Through the Portals — Publications List", PUBLIC_NOTE,
-     "Morse Fellowship", None),
+     "Morse Fellowship", "publications-list"),
 ]
 
 SRC = os.path.join("transcripts", "published")

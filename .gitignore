@@ -21,3 +21,10 @@ __pycache__/
 .DS_Store
 review/*.png
 review/*.jpg
+
+# The original 24-page batches; superseded by the per-discourse splits
+# and wastena-full.pdf, and still held outside the repo.
+pdfs/wastena/P[0-9]*.pdf
+
+# The review pack is generated; the .docx and its strips are not sources
+review/

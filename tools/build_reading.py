@@ -41,6 +41,17 @@ for b in blocks:
 
 content = "\n        ".join(body)
 
+# The link to the scan belongs at the head of the page, where a reader looks
+# for it before starting, rather than buried under the text.
+scan_bar = ""
+if pdf_file:
+    scan_bar = (
+        '    <div class="wrap scan-bar">\n'
+        f'      <a class="scan-link" href="pdf-viewer.html?file={html.escape(pdf_file)}">'
+        "📄 Read the original scan</a>\n"
+        "    </div>\n"
+    )
+
 page = f"""<!doctype html>
 <html lang="en">
 <head>
@@ -84,6 +95,7 @@ page = f"""<!doctype html>
       <p class="page-sub">{html.escape(subtitle)}</p>
     </div>
 
+{scan_bar}
     <div class="wrap">
       <section class="card transcript">
         <p class="muted small">{html.escape(eyebrow)}</p>
@@ -95,7 +107,6 @@ page = f"""<!doctype html>
 
   <footer class="site-footer">
     <div class="wrap">
-      {f'<p class="muted small" style="margin-bottom: 8px;"><a href="pdf-viewer.html?file={html.escape(pdf_file)}">📄 View source PDF</a></p>' if pdf_file else ''}
       <p>© <span id="year"></span> louisemorsethechannel.com</p>
     </div>
   </footer>

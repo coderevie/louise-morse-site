@@ -100,6 +100,9 @@ LABEL = re.compile(r"^(Scripture Reading|Teachers?|The Master|Aleph|Sarramya"
                    r"|Prayer|Meditation|Closing|Question):")
 
 
+# The three volume indexes, which are set out rather than run as prose.
+INDEX_PAGES = {"wastena-front-06", "wastena-index-02", "wastena-index-03"}
+
 # Directions the typist set on a line of their own.
 DIRECTIONS = {"Prayer", "Selah", "Meditation", "Silence", "Closing Prayer",
               "Opening of the Retreat", "Closing of the Retreat"}
@@ -151,6 +154,34 @@ def render_body(slug, kind):
             continue
         out.append(f"<p>{esc(block)}</p>")
     return "\n        ".join(out)
+
+
+def render_index(slug):
+    """Set a volume index as the typist set it.
+
+    The scanner lost the discourse numbers down the left of these pages and
+    ran the titles into one another, so the list is set out from the titles
+    recorded in wastena_map instead: the volume name underlined, then each
+    discourse against its number, as on the page.
+    """
+    volume = {"wastena-front-06": VOLUMES[0],
+              "wastena-index-02": VOLUMES[1],
+              "wastena-index-03": VOLUMES[2]}[slug]
+    lo, hi, name, subtitle, lessons = volume
+    roman = {"Volume One": "I", "Volume Two": "II", "Volume Three": "III"}[name]
+
+    rows = "\n          ".join(
+        f'<li><span class="index-no">{n}</span>'
+        f"<span class=\"index-title\">{esc(TITLES[n])}</span></li>"
+        for n in range(lo, hi + 1)
+    )
+    return (
+        '<p class="book-line">THE WASTENA RETREAT</p>\n'
+        f'        <p class="book-line">Index &mdash; Volume {roman}, {lo}-{hi}</p>\n'
+        f'        <p class="book-line">Morse Fellowship Lessons {lessons}</p>\n'
+        f'        <p class="book-line index-volume"><u>{esc(subtitle)}</u></p>\n'
+        f'        <ol class="index-list">\n          {rows}\n        </ol>'
+    )
 
 
 def scan_bar(first, last):
@@ -234,7 +265,7 @@ def build_page(entry, prev, nxt):
         + heading_block(kind, n, title)
         + f'        <p class="muted small">{esc(NOTE)}</p>\n'
         '        <hr style="border:none;border-top:1px solid var(--line);margin:14px 0 26px;" />\n'
-        f"        {render_body(slug, kind)}\n"
+        f"        {render_index(slug) if slug in INDEX_PAGES else render_body(slug, kind)}\n"
         "      </section>\n\n"
         + pager(prev_ctl, next_ctl, "bottom")
         + "    </div>\n  </main>\n"
