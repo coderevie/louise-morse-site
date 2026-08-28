@@ -3,10 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'" />
   <title>PDF Viewer — Louise Morse</title>
   <link rel="stylesheet" href="style.css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <!-- Self-hosted (pinned 3.11.174) rather than loaded from cdnjs, so no
+       third party can serve script into this page and the CSP needs no
+       exception for one. -->
+  <script src="vendor/pdfjs/pdf.min.js"></script>
   <style>
     #pdf-container {
       max-width: 900px;
@@ -128,7 +131,7 @@
 
   <script>
     const pdfjsLib = window.pdfjsLib;
-    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'vendor/pdfjs/pdf.worker.min.js';
 
     let pdfDoc = null;
     let pageNum = 1;
@@ -279,10 +282,23 @@
       document.getElementById('pdf-container').style.display = 'none';
     } else {
       const pdfPath = pdfMap[fileParam];
-      document.getElementById('backLink').href = document.referrer || 'library.html';
+      // The Back control follows the referrer only when it is one of our own
+      // pages. Honouring any referrer would let an outside site link in and
+      // have "Back" carry the reader wherever it chose.
+      let back = 'library.html';
+      try {
+        if (document.referrer
+            && new URL(document.referrer).origin === location.origin) {
+          back = document.referrer;
+        }
+      } catch (e) { /* an unparsable referrer stays ignored */ }
+      document.getElementById('backLink').href = back;
       document.getElementById('scanOf').textContent = describe(fileParam);
 
-      pdfjsLib.getDocument(pdfPath).promise.then(doc => {
+      // isEvalSupported off: this build predates the fix for CVE-2024-4367,
+      // where a crafted PDF could run script through font code. Our scans
+      // are first-party, but the renderer should not trust them either.
+      pdfjsLib.getDocument({ url: pdfPath, isEvalSupported: false }).promise.then(doc => {
         pdfDoc = doc;
         pageCount = doc.numPages;
         document.getElementById('pageCount').textContent = pageCount;
