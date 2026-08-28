@@ -92,6 +92,7 @@
     <div class="page-header wrap" style="padding: 20px 0;">
       <p class="eyebrow" style="margin-bottom: 4px;"><a id="backLink" href="#">← Back</a></p>
       <h1 style="font-size: 28px; margin: 0;">Original Scans</h1>
+      <p class="page-sub" id="scanOf" style="margin: 6px 0 0;"></p>
     </div>
 
     <div id="pdf-container">
@@ -177,6 +178,29 @@
       'page232-238': 'pdfs/wastena/page232-238.pdf',
     };
 
+    // What each scan is of, shown under the heading so the reader knows what
+    // they are looking at without going back to check.
+    const scanOf = {
+      'lesson-83': 'Lesson 83 — John 17',
+      'lesson-215': 'Lesson 215 — Acts 1',
+      'reading-1983-05-12': 'May 12, 1983 — Morse Reading · Greetings Dear Ones',
+      'reading-1983-05-24': 'May 24, 1983 — Morse Reading · Establish A Communication Within',
+      'booklet-2': 'Booklet No. 2 — Channelling and Group Vortex',
+      'publications-list': 'Through the Portals — Publications List',
+      'wastena-full': 'The Wastena Retreat — the complete scan, pages 1–238',
+    };
+
+    function describe(fileId) {
+      if (scanOf[fileId]) return scanOf[fileId];
+      // The retreat's scans are named for the pages they hold.
+      const m = /^page(\d+)(?:-(\d+))?$/.exec(fileId);
+      if (m) {
+        const pages = m[2] ? `pages ${m[1]}–${m[2]}` : `page ${m[1]}`;
+        return `The Wastena Retreat — ${pages}`;
+      }
+      return '';
+    }
+
     function getParam(name) {
       const params = new URLSearchParams(window.location.search);
       return params.get(name);
@@ -249,6 +273,7 @@
     } else {
       const pdfPath = pdfMap[fileParam];
       document.getElementById('backLink').href = document.referrer || 'library.html';
+      document.getElementById('scanOf').textContent = describe(fileParam);
 
       pdfjsLib.getDocument(pdfPath).promise.then(doc => {
         pdfDoc = doc;
