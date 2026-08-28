@@ -410,7 +410,9 @@ a.item-card:hover {
 
 .pager {
   display: flex;
-  justify-content: space-between;
+  /* Centred as a group, like every other control on the site, rather than
+     spread to the far edges of the column. */
+  justify-content: center;
   gap: 12px;
   margin: 8px 0 56px;
   flex-wrap: wrap;
