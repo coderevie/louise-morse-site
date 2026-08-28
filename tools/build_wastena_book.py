@@ -334,7 +334,7 @@ def build_index(entries):
         '      <h2 class="section-title">The Complete Scan</h2>\n'
         '      <p class="section-sub">All 238 pages of the three volumes in one\n'
         "        place, from the title pages through to the last discourse.</p>\n"
-        '      <div class="scan-bar" style="justify-content:flex-start;">\n'
+        '      <div class="scan-bar">\n'
         '        <a class="scan-link" href="pdf-viewer.html?file=wastena-full">'
         "📄 Read the complete retreat "
         '<span class="scan-pages">· pages 1–238</span></a>\n'
