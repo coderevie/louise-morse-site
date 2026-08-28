@@ -204,10 +204,11 @@ def pager(prev, nxt, position):
     right = (f'<a class="button button--ghost" href="{nxt[0]}">{esc(nxt[1])} →</a>'
              if nxt else "<span></span>")
     cls = "pager pager--top" if position == "top" else "pager"
+    # No Contents button: the eyebrow link above every title already leads
+    # back to the contents page, so a second way there just crowded the row.
     return (
         f'      <nav class="{cls}" aria-label="Retreat navigation">\n'
         f"        {left}\n"
-        '        <a class="button button--ghost" href="wastena.html">Contents</a>\n'
         f"        {right}\n"
         "      </nav>\n"
     )
@@ -275,8 +276,15 @@ def build_page(entry, prev, nxt):
 
 
 def build_index(entries):
-    """The contents page: front matter, then each volume's discourses."""
-    front = [e for e in entries if e[0] == "front"]
+    """The contents page: front matter, then each volume's discourses.
+
+    Volume One's printed index (page 45) sits in the front matter of the
+    book, but on the contents page it is offered the way the other two
+    volumes' are - as the "Read the printed index" line under the volume's
+    own heading, not as a card among the introduction.
+    """
+    front = [e for e in entries
+             if e[0] == "front" and e[1] != "wastena-front-06"]
     cards = "\n".join(
         f'        <a class="item-card" href="{e[1]}.html">\n'
         f'          <span class="item-kicker">Pages {e[4]}–{e[5]}</span>\n'
@@ -309,7 +317,7 @@ def build_index(entries):
                 "        </a>"
             )
         idx = next((e for e in entries
-                    if e[0] == "index" and e[2].endswith(name)), None)
+                    if e[2].startswith("Index") and e[2].endswith(name)), None)
         index_line = (
             f'      <p class="section-sub"><a href="{idx[1]}.html">'
             f"Read the printed index for {name} →</a></p>\n" if idx else ""
