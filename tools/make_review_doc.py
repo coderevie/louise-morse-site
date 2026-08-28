@@ -49,10 +49,10 @@ def cut_word(doc, pages, word, out_path):
     if not found:
         return None
     (page_no, line_no, line_count, word_no, word_count, where,
-     letters, line_letters) = found
+     letters, line_letters, lengths) = found
     rect, exact = LOC.locate(doc, page_no, line_no, line_count,
                              word_no, word_count, where,
-                             letters, line_letters)
+                             letters, line_letters, lengths)
     page = doc[page_no - 1]
     scale = min(CUT_WIDTH / rect.width, 400)
     pix = page.get_pixmap(matrix=pymupdf.Matrix(scale, scale), clip=rect,
@@ -69,7 +69,14 @@ def main():
     texts = P.load()
     words = P.vocabulary(texts)
     suspects = [r for r in P.remaining(texts, words) if r[3]]
-    suspects.sort(key=lambda r: r[0])
+    # The ones that could not be answered last time, when the cuts were
+    # landing off the word, go first.
+    unanswered = ["band", "bide", "broad", "brow", "cases", "charging",
+                  "dare", "daring", "dealing", "establishes", "fade",
+                  "faster", "fears", "foot", "fret", "glorifies", "hang",
+                  "hardest"]
+    order = {w: i for i, w in enumerate(unanswered)}
+    suspects.sort(key=lambda r: (order.get(r[0], len(order)), r[0]))
     batch = suspects[start - 1:start - 1 + count]
     if not batch:
         sys.exit("no suspects in that range")
@@ -91,13 +98,17 @@ def main():
     intro.add_run(" if that is what the page says, or ")
     intro.add_run("F").bold = True
     intro.add_run(" and the right word if it is not. Nothing needs typing "
-                  "out.")
+                  "out. If a cut shows a word that plainly is not the one "
+                  "named, write ")
+    intro.add_run("?").bold = True
+    intro.add_run(" and it will be cut again.")
     note = doc.add_paragraph()
     note.add_run(
         f"Entries {start} to {start + len(batch) - 1} of {len(suspects)}. "
-        "Most will be right as they stand: of the ones already checked, about "
-        "nine in ten were. If a long run comes back true, say so and we can "
-        "stop."
+        "The eighteen left blank last time come first, cut afresh. Most words "
+        "will be right as they stand: of the sixty already checked, forty-two "
+        "were, and none was actually wrong. If a long run comes back true, say "
+        "so and we can stop."
     ).italic = True
 
     made, loose = 0, 0

@@ -146,6 +146,17 @@ CORRECTIONS = {
     "agains": "again;",
 }
 
+# Read against the scan and found right as they stand, so no longer asked
+# about. Checked by Scott, 28 August 2026, first batch of sixty.
+CONFIRMED = {
+    "astray", "balls", "bank", "beat", "bind", "binds", "blight", "block",
+    "blow", "boot", "burning", "calf", "camp", "catch", "cave", "certainty",
+    "charges", "cleanses", "closed", "closet", "cold", "comet", "conceit",
+    "creates", "culling", "date", "dead", "deceiving", "dedicates", "deeds",
+    "delivers", "dive", "divide", "dull", "dust", "eden", "ethers", "expert",
+    "fight", "four", "gifts", "goeth",
+}
+
 # Words that could honestly be read either way; these need the scan, so they
 # are only reported.
 AMBIGUOUS = {
@@ -430,7 +441,7 @@ def remaining(texts, words):
     commonset = set(common)
     out = []
     for w, c in sorted(words.items()):
-        if c > 2 or len(w) < 4 or w in commonset:
+        if c > 2 or len(w) < 4 or w in commonset or w in CONFIRMED:
             continue
         near = [cw for cw in common
                 if len(cw) == len(w)

@@ -150,6 +150,89 @@ def _drop_page_number(bands, height):
     return bands
 
 
+def band_widths(page, bands):
+    """How far across the sheet each band's typing runs, as a fraction.
+
+    A line of eighty characters reaches twice as far as one of forty, so
+    these widths are a rough picture of the page's shape, which is what
+    lets the scanner's lines be matched to it.
+    """
+    pix, _ = _gray(page, LINE_DPI)
+    cut = _ink_cut(pix)
+    table = _dark_table(cut)
+    w, data = pix.width, pix.samples
+    x0, x1 = int(w * 0.04), int(w * 0.97)
+    out = []
+    for top, bottom in bands:
+        y0 = max(0, int(top * pix.height))
+        y1 = min(pix.height, max(y0 + 1, int(bottom * pix.height)))
+        left, right = None, None
+        for y in range(y0, y1):
+            row = data[y * w + x0:y * w + x1].translate(table)
+            first = row.find(1)
+            if first == -1:
+                continue
+            last = len(row) - 1 - row[::-1].find(1)
+            left = first if left is None else min(left, first)
+            right = last if right is None else max(right, last)
+        out.append(0.0 if left is None else (right - left) / (x1 - x0))
+    return out
+
+
+def align(scanned, measured):
+    """Match the scanner's lines to the bands measured off the page.
+
+    Both are sequences of line lengths, one counted in characters and one
+    measured in ink, so they are put on the same scale and then aligned the
+    way two versions of a text are: a line may be missing from either side,
+    and the pairing that costs least overall is taken. That copes with the
+    scanner dropping a line or inventing one, which plain counting does not.
+
+    Returns a list as long as `scanned`, giving the band each line matched
+    to, or None where it matched nothing.
+    """
+    if not scanned or not measured:
+        return [None] * len(scanned)
+
+    def norm(xs):
+        top = max(xs) or 1
+        return [x / top for x in xs]
+
+    a, b = norm(scanned), norm(measured)
+    gap = 0.30
+    n, m = len(a), len(b)
+    cost = [[0.0] * (m + 1) for _ in range(n + 1)]
+    back = [[None] * (m + 1) for _ in range(n + 1)]
+    for i in range(1, n + 1):
+        cost[i][0] = i * gap
+        back[i][0] = "up"
+    for j in range(1, m + 1):
+        cost[0][j] = j * gap
+        back[0][j] = "left"
+    for i in range(1, n + 1):
+        for j in range(1, m + 1):
+            pair = cost[i - 1][j - 1] + abs(a[i - 1] - b[j - 1])
+            skip_a = cost[i - 1][j] + gap
+            skip_b = cost[i][j - 1] + gap
+            best = min(pair, skip_a, skip_b)
+            cost[i][j] = best
+            back[i][j] = ("pair" if best == pair
+                          else "up" if best == skip_a else "left")
+
+    out = [None] * n
+    i, j = n, m
+    while i > 0 and j > 0:
+        step = back[i][j]
+        if step == "pair":
+            out[i - 1] = j - 1
+            i, j = i - 1, j - 1
+        elif step == "up":
+            i -= 1
+        else:
+            j -= 1
+    return out
+
+
 def word_boxes(page, top, bottom, expect=None):
     """The words on one line, as (left, right) fractions of the page width.
 
@@ -201,7 +284,7 @@ def _span(boxes, where):
 
 
 def locate(doc, page_no, line_no, line_count, word_no, word_count,
-           where=None, letters=0, line_letters=0):
+           where=None, letters=0, line_letters=0, line_lengths=None):
     """A box round one word, and whether it was pinned or merely narrowed.
 
     The scanner drops a line here and invents one there, so its numbering
@@ -219,18 +302,21 @@ def locate(doc, page_no, line_no, line_count, word_no, word_count,
     if not bands:
         raise ValueError(f"no typed lines found on page {page_no}")
 
-    middle = min(int(line_no / max(line_count, 1) * len(bands)),
-                 len(bands) - 1)
-    if abs(len(bands) - line_count) <= 2 and line_no < len(bands):
-        middle = line_no
+    if line_lengths:
+        matched = align(line_lengths, band_widths(page, bands))
+        middle = matched[line_no] if line_no < len(matched) else None
+        if middle is None:
+            middle = min(int(line_no / max(line_count, 1) * len(bands)),
+                         len(bands) - 1)
+    else:
+        middle = min(int(line_no / max(line_count, 1) * len(bands)),
+                     len(bands) - 1)
 
-    best, boxes, score = None, [], None
-    for i in range(max(0, middle - 3), min(len(bands), middle + 4)):
-        found = word_boxes(page, *bands[i], expect=word_count)
-        miss = abs(len(found) - word_count) + abs(i - middle) * 0.25
-        if score is None or miss < score:
-            best, boxes, score = i, found, miss
-    top, bottom = bands[best]
+    # The alignment weighs the whole page at once, so it is trusted over any
+    # local hunt: a neighbouring line often holds a similar count of words,
+    # and choosing between them on that alone lands on the wrong one.
+    top, bottom = bands[min(middle, len(bands) - 1)]
+    boxes = word_boxes(page, top, bottom, expect=word_count)
     exact = bool(boxes) and abs(len(boxes) - word_count) <= 1
 
     if boxes and where is not None:
@@ -259,20 +345,18 @@ def locate(doc, page_no, line_no, line_count, word_no, word_count,
     # read past, where a miss with nothing round it costs the whole entry.
     per_letter = (boxes[-1][1] - boxes[0][0]) / max(line_letters, 1) if boxes \
         else 0.012
-    pad_x = per_letter * (8 if exact else 15)
-    # One line above and below. Measuring the position is good but not
-    # certain, and on the pages of jotted notes, where the lines are short
-    # and uneven, it can be a line out. A neighbouring line in frame costs a
-    # moment to read past; a miss with nothing round it costs the entry.
-    pad_y = (bottom - top) * (1.25 if exact else 2.1)
+    # The word and nothing else. Anything more and the reader has to work out
+    # which of several words is the one in question.
+    pad_x = per_letter * (0.6 if exact else 3.0)
+    pad_y = (bottom - top) * (0.30 if exact else 0.9)
     x0, x1 = max(0.0, left - pad_x), min(1.0, right + pad_x)
     y0, y1 = max(0.0, top - pad_y), min(1.0, bottom + pad_y)
 
     # Never cut so small that the reader is looking at a magnified fragment.
     # Where the measurement collapses - a line the ink was too faint to
     # divide - this leaves a strip that can still be read.
-    x0, x1 = _at_least(x0, x1, 0.22)
-    y0, y1 = _at_least(y0, y1, 0.035)
+    x0, x1 = _at_least(x0, x1, 0.055)
+    y0, y1 = _at_least(y0, y1, 0.013)
 
     rect = page.rect
     return pymupdf.Rect(
@@ -299,6 +383,7 @@ def find(pages, word):
     pattern = re.compile(r"\b" + re.escape(word) + r"\b", re.I)
     for page_no, text in pages.items():
         lines = [ln for ln in text.splitlines() if ln.strip()]
+        lengths = [len(ln.strip()) for ln in lines]
         for i, line in enumerate(lines):
             if pattern.search(line):
                 words = re.findall(r"\S+", line)
@@ -310,5 +395,5 @@ def find(pages, word):
                 width = max(len(body) - start, 1)
                 where = min(max((m.start() - start) / width, 0.0), 1.0)
                 return (page_no, i, len(lines), idx, len(words), where,
-                        len(word), width)
+                        len(word), width, lengths)
     return None
