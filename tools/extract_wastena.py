@@ -10,6 +10,7 @@ Run from the repo root:
 Writes to transcripts/wastena/book/.
 """
 import difflib
+import glob
 import os
 import re
 import sys
@@ -19,11 +20,18 @@ from wastena_map import TITLES, reading_order  # noqa: E402
 
 SRC = os.path.join("transcripts", "chatgpt-source")
 OUT = os.path.join("transcripts", "wastena", "book")
+BY_HAND = os.path.join("transcripts", "wastena", "pages")
 PAGES_PER_FILE = 24
 
 
 def load_pages():
-    """Return {global_page_number: raw text} across the ten source files."""
+    """Return {global_page_number: raw text} across the ten source files.
+
+    A page the scanner made a mess of can be read by eye instead and put in
+    transcripts/wastena/pages/<n>.txt; that reading is used in its place. On
+    a few pages the scanner returned the lines out of order, which no rule
+    can put right, so those are typed out from the scan.
+    """
     pages = {}
     n = 0
     for i in range(1, 11):
@@ -33,6 +41,10 @@ def load_pages():
         for j in range(1, len(parts), 2):
             n += 1
             pages[n] = parts[j + 1]
+
+    for path in glob.glob(os.path.join(BY_HAND, "*.txt")):
+        page = int(os.path.splitext(os.path.basename(path))[0])
+        pages[page] = open(path, encoding="utf-8").read()
     return pages
 
 
