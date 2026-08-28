@@ -2,7 +2,7 @@
 
 [page 54]
 
-Scripture Reading: First Letter to the Christians at Corinth, from the J. B. Phillips New Testament in Modern lnglish.
+Scripture Reading: First Letter to the Christians at Corinth, from the J. B. Phillips New Testament in Modern English.
 
 May you be blessed, beloveds. We have been with you throughout. We had fused with the channel but desired that she continue consciously, as we so many times would like that this be cultivated more and more. The Spirit speaks through the channel in her conscious state. This should be heeded more often, for there is much to be given, and the aim is to reach that conscious attunement as she does. But for many that have not yet joined with nor recognized it, then we come as long as they need us to come in this manner. But do not always look for trance state. This is an expedient measure for those that have not yet recognized as they come together that the souls step forth and manifest.
 

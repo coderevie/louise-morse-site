@@ -103,6 +103,8 @@ CORRECTIONS = {
     "solah": "selah", "speek": "speak", "spoxe": "spoke", "statc": "state",
     # "the cosmic sune" is "the cosmic sun." (page 193), a lost period again.
     "sune": "sun.",
+    # "New Testament in Modern lnglish" (Discourse 2): a capital E read as l-n.
+    "lnglish": "English",
     "stillnsss": "stillness", "strongth": "strength", "svirit": "spirit",
     "tako": "take", "teking": "taking", "thac": "that", "thase": "those",
     "thet": "that", "thoir": "their", "tjuly": "truly", "tord": "lord",

@@ -119,26 +119,41 @@ def read_body(slug):
     return [b.strip() for b in text.split("\n\n") if b.strip()]
 
 
+# The scanned pages whose text the typist actually centred: the volume
+# title pages, and the title and publishing pages ahead of the Forward
+# (44's own short headings centre; its prose paragraphs are long and are
+# never touched by the short-line rule). Everywhere else in the front
+# matter - the jottings outlines above all - the typist set lines against
+# the left margin, and centring them invented a layout the scan does not
+# have.
+CENTRED_PAGES = {1, 3, 5, 42, 43, 44}
+
+
 def render_body(slug, kind):
     """Turn the extracted Markdown into the book's HTML.
 
-    On the title pages and indexes the typist centred short lines rather than
-    running them as prose, so those are set centred here too.
+    Short lines in the front matter follow the page they came from: centred
+    where the typist centred them, and set against the left margin like a
+    list everywhere else, so the layout is the scan's rather than ours.
     """
-    centre_short = kind in ("front", "index")
+    front_short = kind in ("front", "index")
+    page = None
     out = []
     for block in read_body(slug):
         if block.startswith("# "):
             continue                        # the page header supplies the title
         mark = re.fullmatch(r"\[page (\d+)\]", block)
         if mark:
+            page = int(mark.group(1))
             out.append(f'<span class="page-mark">Page {mark.group(1)}</span>')
             continue
         if block.startswith("## "):
             out.append(f"<h3>{esc(block[3:].strip())}</h3>")
             continue
-        if centre_short and len(block) < 60:
-            out.append(f'<p class="book-line">{esc(block)}</p>')
+        if front_short and len(block) < 60:
+            cls = ("book-line" if page in CENTRED_PAGES
+                   else "book-line book-line--left")
+            out.append(f'<p class="{cls}">{esc(block)}</p>')
             continue
         # The typist underlined the speaker and the scripture reference:
         # "Scripture Reading:  Luke 16-17.", "Teachers:  Welcome to this place".

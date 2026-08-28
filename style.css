@@ -541,6 +541,13 @@ a.item-card:hover {
   margin-bottom: 0.7em;
 }
 
+/* Lines the typist set against the left margin - the jottings outlines and
+   the small indexes - kept in line with the scan rather than centred. */
+.book p.book-line--left {
+  text-align: left;
+  margin-bottom: 0.45em;
+}
+
 /* A volume index, set out as the typist set it: the volume name underlined,
    then each discourse against its number down the left. */
 .book .index-volume {
