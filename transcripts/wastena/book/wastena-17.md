@@ -64,7 +64,7 @@ There still will be stumblings, a slipping back that the individual must watch f
 
 [page 154]
 
-discernment can recognize this when it happens, and he will encourage its pr actice. It is as though the soul has been dormant, in prison-like state, has divine weeny aa} a time, and yet, in many cases it is not locked away. The in agin ° a tons along with the other, bringing forth a spiritual functionthee behind ar “tain ee Command , Saying to the human nature, "Get Vekettts ae e firm. Ask God to direct every thought and action, Then ee His will. be done and Speak and move in the higher consciousness as the divine takes over,
+discernment can recognize this when it happens, and he will encourage its pr actice. It is as though the soul has been dormant, in prison-like state, has divine weeny aa} a time, and yet, in many cases it is not locked away. The divine nature functions along with the other, bringing forth a spiritual functioning as long as it consciously takes command, saying to the human nature, "Get thee behind me!" Be firm. Ask God to direct every thought and action. Then let His will be done and speak and move in the higher consciousness as the divine takes over,
 
 Where were those with eyes to see who knew him? Those with the Lord on the mountain-side--some had eyes to see, ears to hear--they knew their Lord. Others turned away. He was just a man to them. They had no discernment. This will be true now as souls begin to function in the divine nature, and they must be encouraged and sustained as they act in their higher faculties.
 

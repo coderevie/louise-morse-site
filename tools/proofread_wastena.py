@@ -101,6 +101,8 @@ CORRECTIONS = {
     "scvipture": "scripture", "soripture": "scripture",
     "seripture": "scripture", "shail": "shall", "sither": "either",
     "solah": "selah", "speek": "speak", "spoxe": "spoke", "statc": "state",
+    # "the cosmic sune" is "the cosmic sun." (page 193), a lost period again.
+    "sune": "sun.",
     "stillnsss": "stillness", "strongth": "strength", "svirit": "spirit",
     "tako": "take", "teking": "taking", "thac": "that", "thase": "those",
     "thet": "that", "thoir": "their", "tjuly": "truly", "tord": "lord",
@@ -180,6 +182,26 @@ CONFIRMED = {
     # "Letter to Rome" already carries its capital; the checker counts
     # capitalisation separately from the word itself.
     "rome",
+    # Checked by Scott, 28 August 2026, third batch of sixty.
+    "seeks", "shore", "sifting", "simply", "sing", "slid", "smoke", "soil",
+    "sown", "spill", "spine", "stem", "suns", "sweeping", "swell", "tale",
+    "tall", "taped", "tarry", "tear", "tells", "tense", "thin", "tower",
+    "tree", "tries", "unites", "units", "unity", "vein", "vine", "waken",
+    "wakes", "waking", "wander", "wane", "wasting", "wave", "waver", "wear",
+    "weights", "white", "wish", "wits", "worn",
+    # Each confirmed by the crop itself, or by the wider scan already read
+    # for a hand-typed page, even where the crop's own aim landed on a
+    # neighbouring word: "Thou shalt", "to shed the layers", "each speck",
+    # "If a stranger", already-capitalised "Wake", "a weed, thus", "drunk
+    # with wine", "fairy tales" (page 205, read by hand), "tending his
+    # flock", "shall not be torn down".
+    "shalt", "shed", "speck", "stranger", "wake", "weed", "wine", "tales",
+    "tending", "torn",
+    # "as yeast raising up the kingdom", "the Spirit shall yield the
+    # increase", "earthbound, or worse" - all read correctly in their
+    # sentence. "thir" (page 23) sits in a genuinely garbled scrap of the
+    # session jottings that neither of us could make out; left unresolved.
+    "yeast", "yield", "worse",
 }
 
 # Words that could honestly be read either way; these need the scan, so they
@@ -371,6 +393,23 @@ REPAIRS = {
         "he shall not lead you astray but, rather",
     "get a like resulte And": "get a like result. And",
     "the God-given equip~ ment": "the God-given equipment",
+    # Page 47: "when referring tore oltte'" is "when referring to souls".
+    "when referring tore oltte’ but rather intuitive knowing":
+        "when referring to souls, but rather intuitive knowing",
+    # Page 154: a run of several words the scanner lost or transposed
+    # entirely, read back from the scan. "divine nature functions along
+    # with the other" ... "Get thee behind me!\" Be firm."
+    "The in agin ° a tons along with the other, bringing forth a "
+    "spiritual functionthee behing ar “tain ee Command , Saying to "
+    "the human nature, \"Get Vekettts ae e firm. Ask God to direct every "
+    "thought and action, Then ee His will. be done and Speak and move in "
+    "the higher consciousness as the divine takes over,":
+        "The divine nature functions along with the other, bringing forth "
+        "a spiritual functioning as long as it consciously takes command, "
+        "saying to the human nature, \"Get thee behind me!\" Be firm. Ask "
+        "God to direct every thought and action. Then let His will be "
+        "done and speak and move in the higher consciousness as the "
+        "divine takes over,",
 }
 
 
