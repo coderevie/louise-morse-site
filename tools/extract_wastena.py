@@ -45,7 +45,13 @@ def load_pages():
     for path in glob.glob(os.path.join(BY_HAND, "*.txt")):
         page = int(os.path.splitext(os.path.basename(path))[0])
         pages[page] = open(path, encoding="utf-8").read()
+        HAND_PAGES.add(page)
     return pages
+
+
+# Pages read by eye and typed out; these are clean, so the filters that
+# guard against the scanner's speckle must not touch them.
+HAND_PAGES = set()
 
 
 def letters(s):
@@ -193,14 +199,31 @@ def join_continuations(paras):
 
 
 def section_markdown(kind, title, first, last, pages, scan_title=""):
-    """Build the Markdown body for one section."""
+    """Build the Markdown body for one section.
+
+    The discourses are prose with a hard wrap, so their lines reflow into
+    paragraphs. The front matter is not prose: on the title pages, the
+    indexes and the session jottings (pages 1 to 41) the typist set one
+    statement to a line, ending at its period, and the next statement a
+    line below. Those lines stay lines - joining them ran separate
+    statements together, which read as rewriting the text.
+    """
     blocks = []
     for p in range(first, last + 1):
         lines = pages[p].splitlines()
         if p == first and kind == "discourse":
             lines = strip_heading(lines, scan_title)
-        lines = drop_noise(lines)
-        paras = reflow(lines)
+        if kind != "discourse" and p <= 41:
+            paras = [re.sub(r"\s*\|+\s*", " ", ln).strip()
+                     for ln in lines if ln.strip()]
+            if p not in HAND_PAGES:
+                # The scanner's pages still need the speckle dropped; the
+                # hand-typed ones are clean by definition.
+                paras = [q for q in paras if re.search(r"[A-Za-z]{3}", q)]
+            paras = [q for q in paras if q]
+        else:
+            lines = drop_noise(lines)
+            paras = reflow(lines)
         if kind == "discourse":
             paras = [p for p in paras if not is_noise(p)]
             paras = join_continuations(paras)

@@ -201,8 +201,8 @@ CONFIRMED = {
     "tending", "torn",
     # "as yeast raising up the kingdom", "the Spirit shall yield the
     # increase", "earthbound, or worse" - all read correctly in their
-    # sentence. "thir" (page 23) sits in a genuinely garbled scrap of the
-    # session jottings that neither of us could make out; left unresolved.
+    # sentence. "thir" (page 23), long the one unresolved reading, was
+    # settled by Scott from the faded scan: see its entry in REPAIRS.
     "yeast", "yield", "worse",
 }
 
@@ -395,6 +395,9 @@ REPAIRS = {
         "he shall not lead you astray but, rather",
     "get a like resulte And": "get a like result. And",
     "the God-given equip~ ment": "the God-given equipment",
+    # Page 23, very faded; read from the scan by Scott, 28 August 2026 -
+    # the last open reading in the retreat.
+    "Te’¢ thir into your homes": "Take this into your home",
     # Page 47: "when referring tore oltte'" is "when referring to souls".
     "when referring tore oltte’ but rather intuitive knowing":
         "when referring to souls, but rather intuitive knowing",

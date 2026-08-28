@@ -539,6 +539,9 @@ a.item-card:hover {
   text-indent: 0;
   text-align: center;
   margin-bottom: 0.7em;
+  /* The typist spaced headings letter by letter - T H E   W A S T E N A -
+     and HTML would fold those runs of spaces down to one. */
+  white-space: pre-wrap;
 }
 
 /* Lines the typist set against the left margin - the jottings outlines and

@@ -2,109 +2,155 @@
 
 [page 18]
 
-DISCOURSE 12 Light Centers Forming
+DISCOURSE 12
 
-Scripture Reading: Letter to the Thessalonians. The letters are applicable today. We were a part of the early Christian churchs or groups. A long time with faith the retainer, moving up to the higher consciousness.
+Light Centers Forming
+
+Scripture Reading: Letter to the Thessalonians. The letters are
+
+applicable today. We were a part of the early Christian churchs
+
+or groups. A long time with faith the retainer, moving up to the
+
+higher consciousness.
 
 } Prayer
 
-Teachers: The banner was in Sarramyats hands over Wastena
+Teachers: The banner was in Sarramyats hands over Wastena.
 
-A part of the plan to group here to be worked on and form the circle.
+A part of the plan to group here to be worked on and form the
 
-Endocrine glands worked on, and cells, and body
+circle.
 
-Learning to come together as one for the Lord
+Endocrine glands worked on, and cells, and body.
 
-Retreat from the world, let go and let God
+Learning to come together as one for the Lord.
 
-The group consciousness is used to help many others. Identification of each to the group and to each other.
+Retreat from the world, let go and let God.
 
-Power can be directed forth in the Lord's purpose. Move in faith, Spirit moves to the plan, such as the book and lessons, sending out the word - fishers of men.
+The group consciousness is used to help many others.
 
-You are used of Him if you offer
+Identification of each to the group and to each other.
+
+Power can be directed forth in the Lord's purpose. Move in faith,
+
+Spirit moves to the plan, such as the book and lessons, sending
+
+out the word - fishers of men.
+
+You are used of Him if you offer.
 
 Read the Bible from this new understanding; it will reward the soul.
 
 Master: Pick up thy cross and follow me. Lo I am with you always.
 
-Teachers: Vast program for the earth; the Lord is seeking you aut. Come together for instruction and to wait for the call at the end, Wait in love, and watch.
+Teachers: Vast program for the earth; the Lord is seeking you aut.
 
-The believers are to be drawn up ahead of the great cataclysms. Bvents will accelerate.
+Come together for instruction and to wait for the call at the end,
 
-You will shine and have the mark of the Lord
+Wait in love, and watch.
 
-It will stir up the anti-Christ
+The believers are to be drawn up ahead of the great cataclysms.
 
-The sword divides the children of light and darkness - choice. There will be direction as needed.
+Bvents will accelerate.
 
-Read again the Bible
+You will shine and have the mark of the Lord.
 
-Pray from the higher nature, then God will answer
+It will stir up the anti-Christ.
 
-Ships are near awaiting command for the group work airlift
+The sword divides the children of light and darkness - choice.
 
-The remnant to stay apart from world events, riot and upset. Listen to spirit.
+There will be direction as needed.
 
-All gathered before we march, know the Kingdom will come
+Read again the Bible.
+
+Pray from the higher nature, then God will answer.
+
+Ships are near awaiting command for the group work airlift.
+
+The remnant to stay apart from world events, riot and upset.
+
+Listen to spirit.
+
+All gathered before we march, know the Kingdom will come.
 
 Attitude is important, keep in touch with each other, part of
 
-the network links for spirit to activate
+the network links for spirit to activate,
 
-Renewal in body, mind and soul, strength to serve the Lord
+Renewal in body, mind and soul, strength to serve the Lord,
 
-Aleph: Gathered here as time is running out. The channel will travel through our homes,
+Aleph: Gathered here as time is running out. The channel will
+
+travel through our homes,
 
 [page 19]
 
-DISCOURSE 13 The Cup of the Water of Life
+DISCOURSE 13
 
-Daily Word reading
+The Cup of the Water of Life
 
-paity Word reading. Scripture Reading: Letter to Rome (J.B. Phillips Bible) Prayer
+Daily Word reading.
 
-Teachers: The tapes are to go out and be printed as soon as possible.
+paity Word reading.
 
-Passing the cup of the water of life over the earth
+Scripture Reading: Letter to Rome (J.B. Phillips Bible)
 
-The letters to the early churches are important, now to be received by the soul.
+Prayer
 
-Be true to the light within, but be open for greater light. Live by common sense.
+Teachers: The tapes are to go out and be printed as soon as
 
-The teachers desire that the message reach out to many to help those souls.
+possible.
 
-Come out of the mind and live in spirit
+Passing the cup of the water of life over the earth.
 
-The false reality of the world
+The letters to the early churches are important, now to be re-
 
-The call is out for those that hear to follow Him
+ceived by the soul.
 
-Draw apart from the world. It can only impede
+Be true to the light within, but be open for greater light.
 
-Many will not go all the way; few will go to the end
+Live by common sense.
 
-Join and be lifted in spirit
+The teachers desire that the message reach out to many to help
 
-This will be as a dream that will pass when we go on-in spirit reality.
+those souls.
 
-Music of the etherial realms, harmony
+Come out of the mind and live in spirit.
 
-Souls returning home to the Father
+The false reality of the world.
 
-Peace when aligned with God. Seek spirit within
+The call is out for those that hear to follow Him.
 
-Help but not interfere with others
+Draw apart from the world. It can only impede.
 
-Souls together as one birth, cells of light
+Many will not go all the way; few will go to the end.
 
-The group as one exhibits the Christ nature
+Join and be lifted in spirit.
 
-He responds and comes
+This will be as a dream that will pass when we go on-in spirit
 
-He is in your midst
+reality.
 
-The Master: Do you love me? Then beloveds feed my sheep. I go to prepare a place for you, that where I am there you shall be,
+Music of the etherial realms, harmony.
+
+Souls returning home to the Father.
+
+Peace when aligned with God. Seek spirit within.
+
+Help but not interfere with others.
+
+Souls together as one birth, cells of light.
+
+The group as one exhibits the Christ nature.
+
+He responds and comes,
+
+He is in your midst -
+
+The Master: Do you love me? Then beloveds feed my sheep. I go
+
+to prepare a place for you, that where I am there you shall be,
 
 [page 20]
 
@@ -112,95 +158,129 @@ DISCOURSE 1h
 
 Fulfil the Conditions
 
-Scripture Reading: I Timothy (Modern Bible of the American Bivie ociety 7
+Scripture Reading: I Timothy (Modern Bible of the American Bivie
 
-Prayer
+ociety 7
 
-Teachers: Christhood likened to the capstone on a pyramid, each climbing to the top.
+Prayer.
 
-Being brought to realization slowly, cell by cell
+Teachers: Christhood likened to the capstone on a pyramid, each
 
-Some will not grasp the lessons; others will tune in and benefit as if they were here.
+climbing to the top.
 
-Readings are to bring us back to remembrance
+Being brought to realization slowly, cell by cell.
 
-The vibration will carry on the tapes for those that listen. Speed up of events, we must be prepared by then.
+Some will not grasp the lessons; others will tune in and benefit
 
-We are being changed within to live in the greater light. Retreat prepared before we came.
+as if they were here.
 
-Hach as a house built on a rock
+Readings are to bring us back to remembrance.
 
-Spirit knows your desires and needs and mests them
+The vibration will carry on the tapes for those that listen.
 
-Entering into a new life in a new dimension through the portals. Spirit brought all to the retreat.
+Speed up of events, we must be prepared by then.
 
-This to grow to full-time natural living
+We are being changed within to live in the greater light.
 
-When you fulfil the conditions he is in your midst
+Retreat prepared before we came.
 
-Guardians and guides with us
+Hach as a house built on a rock.
 
-Upper room teaching
+Spirit knows your desires and needs and mests them.
 
-Take time to enter the upper room each day
+Entering into a new life in a new dimension through the portals.
 
-Function in your higher nature
+Spirit brought all to the retreat.
 
-Cells in the etheric body being changed
+This to grow to full-time natural living.
 
-Spirit will give stronger guidance, listen for it
+When you fulfil the conditions he is in your midst.
 
-Spirit is remoulding the temple
+Guardians and guides with us.
 
-The Presence of the Lord
+Upper room teaching.
+
+Take time to enter the upper room each day.
+
+Function in your higher nature.
+
+Cells in the etheric body being changed.
+
+Spirit will give stronger guidance, listen for it.
+
+Spirit is remoulding the temple.
+
+The Presence of the Lord.
 
 [page 21]
 
-DISCOURSE 15 The Wind of Spirit
+DISCOURSE 15
 
-Scripture Reading: Letter to the Hebrews (American Bible Society)
+The Wind of Spirit.
+
+Scripture Reading: Letter to the Hebrews (American Bible
+
+Society)
 
 Prayer
 
-Teachers: The letters speak to you; on tape many will hear, if referred by note many would not read.
+Teachers: The letters speak to you; on tape many will hear, if
 
-There is purpose for everything on the tape
+referred by note many would not read.
+
+There is purpose for everything on the tape.
 
 Children of Israel are the children of Adam, are the children
 
-of God
+of God. .
 
 Sons are raised up to govern. ;
 
-Raised up above limitations ‘when all is brought to balance. Peace and rest. S
+Raised up above limitations ‘when all is brought to balance.
 
-Letters preserved to this day for soul development
+Peace and rest. S
+
+Letters preserved to this day for soul development.
 
 Spirit is revealing to the souls. ‘* :
 
-Teachers are helping in this process, clarifying and explaining. Move to meet the Father.
+Teachers are helping in this process, clarifying and explaining.
 
-The winds of spirit are sweeping you clean, the breath of God. Reason is of the soul.
+Move to meet the Father.
 
-Prayer is soul desire, but must be selfless
+The winds of spirit are sweeping you clean, the breath of God.
 
-Significance of the cross, fulfilment of the law, grace from it. The law of love.
+Reason is of the soul.
 
-Power and application of it - equilibrium
+Prayer is soul desire, but must be selfless.
 
-Tapes will help the soul to rise. Use them each day. Understanding expands, so each time the tape is helpful in a new way.
+Significance of the cross, fulfilment of the law, grace from it.
 
-Think of coming to the Lord's table for food for the soul each time you meditate.
+The law of love.
 
-Accept whatever comes - let not the human interfere
+Power and application of it - equilibrium.
 
-His will be done
+Tapes will help the soul to rise. Use them each day.
 
-You know your Lord
+Understanding expands, so each time the tape is helpful in a
 
-Teachers are with us to walk with us to the end on this ray of light, on this vibration, following the Shepherd,
+new way.
 
-The Presence of the Lord
+Think of coming to the Lord's table for food for the soul each
+
+time you meditate.
+
+Accept whatever comes - let not the human interfere.
+
+His will be done.
+
+You know your Lord.
+
+Teachers are with us to walk with us to the end on this ray of
+
+light, on this vibration, following the Shepherd,
+
+The Presence of the Lord.
 
 [page 22]
 
@@ -208,51 +288,63 @@ DISCOURSE 16
 
 The Development of Families
 
-Scripture Reading: II Corinthians 3 and .. (American Bibio Society
+Scripture Reading: II Corinthians 3 and .. (American Bibio
+
+Society
 
 Prayer
 
-Teachers: Great power is built up day by day. Our natural state,
+Teachers: Great power is built up day by day.
 
-Bodies as clay to be molded by spirit, shedding old for new. Auric field changing.
+Our natural state,
 
-New nature emerging, new understanding
+Bodies as clay to be molded by spirit, shedding old for new.
 
-Desire to know God so you will be lifted into light which shall illumine.
+Auric field changing.
 
-Astral rescue is the same as us - must desire to be out. Come forth into new life literally.
+New nature emerging, new understanding.
 
-Desire the life of spirit
+Desire to know God so you will be lifted into light which shall
 
-The glorified body
+illumine.
 
-Conscious change-over at the end of the age
+Astral rescue is the same as us - must desire to be out.
 
-Christ nature coming into its functioning
+Come forth into new life literally.
 
-Move in faith toward it
+Desire the life of spirit.
 
-Love and work together, to do the inner direction
+The glorified body.
 
-Let the soul move out in flight
+Conscious change-over at the end of the age.
 
-Young people will be used of God - speak through
+Christ nature coming into its functioning.
 
-Families are developing. Family relations
+Move in faith toward it.
 
-A word to children
+Love and work together, to do the inner direction.
 
-Walk in the ways of the Lord
+Let the soul move out in flight.
 
-Families can enter the Kingdom together
+Young people will be used of God - speak through.
 
-Rebuild the earth and make all things new
+Families are developing. Family relations.
 
-Children to raise up
+A word to children,
 
-The Presence of the Lord. Aleph
+Walk in the ways of the Lord.
 
-The Presence
+Families can enter the Kingdom together.
+
+Rebuild the earth and make all things new.
+
+Children to raise up.
+
+The Presence of the Lord.
+
+Aleph.
+
+The Presence.
 
 [page 23]
 
@@ -262,47 +354,55 @@ Soul Memories to be Restored
 
 Scripture Reading: Acts. Coming of the Holy Spirit (American
 
-Bible Society) Speaking in tongues. Prayer
+Bible Society) Speaking in tongues.
 
-Teachers: Replenishing the Channel
+Prayer.
 
-Ships then and now
+Teachers: Replenishing the Channel,
 
-Soul memory to be restored
+Ships then and now.
 
-Bodies need alignment, cuergy flows on the nerves of the cells. Body, mind and soul in one purpose.
+Soul memory to be restored.
 
-Move into the higher nature, watch conversations and actions. Desire to serve the Father.
+Bodies need alignment, cuergy flows on the nerves of the cells.
 
-Signs do not come as Quickly as you like
+Body, mind and soul in one purpose.
 
-They will come in Godtc time. Faith - have patience
+Move into the higher nature, watch conversations and actions.
 
-Not important to see physically
+Desire to serve the Father.
+
+Signs do not come as Quickly as you like.
+
+They will come in Godtc time. Faith - have patience.
+
+Not important to see physically.
 
 Be aware within. ‘
 
-Development 2 mental telepathy and thought transferance
+Development 2 mental telepathy and thought transferance,.
 
-Ask the Father to speak to you in your heart
+Ask the Father to speak to you in your heart.
 
-Witness ror the Lord
+Witness ror the Lord,
 
-Soul must take over «nd express as does Sarramya
+Soul must take over «nd express as does Sarramya.
 
-Encowage the soul to act, put out the human ego, live in the divine nature, help each soul to do this.
+Encowage the soul to act, put out the human ego, live in the
 
-Stand up in the light
+divine nature, help each soul to do this.
 
-Give up self to find the soul
+Stand up in the light.
 
-Desire this and you will receive
+Give up self to find the soul.
 
-Accept his will
+Desire this and you will receive.
 
-The Presence of the Lord
+Accept his will.
 
-Teachers: Te’¢ thir into your homes
+The Presence of the Lord.
+
+Teachers: Take this into your home.
 
 [page 24]
 
@@ -312,33 +412,41 @@ Love in the Higher Nature
 
 Scripture Reading: I John letter (American Bible Society)
 
-Teachers: Love (subject) Love in the higher nature. Father and Son are one in the temple when you rise up to meet Send out love as God sends it to you.
+Teachers: Love (subject) Love in the higher nature.
 
-Love will lift to the higher realms
+Father and Son are one in the temple when you rise up to meet
 
-There is wisdom in Divine Love
+Send out love as God sends it to you.
 
-Have discernment in your love
+Love will lift to the higher realms,
 
-Listen for guidance from spirit
+There is wisdom in Divine Love.
 
-Pray for the true meaning of love
+Have discernment in your love.
 
-A thankful heart, then a desire to do God's will
+Listen for guidance from spirit.
 
-Send the love through to others
+Pray for the true meaning of love,
 
-Like the bride, be prepared
+A thankful heart, then a desire to do God's will.
 
-Give up self for greater love, It is the path to ascension. Let the change continue into the body of the Christ nature. Christ is the door.
+Send the love through to others.
 
-Direct the power
+Like the bride, be prepared.
 
-In the vortex is the Christ
+Give up self for greater love, It is the path to ascension.
 
-The Presence of the Lord
+Let the change continue into the body of the Christ nature.
 
-this
+Christ is the door.
+
+Direct the power.
+
+In the vortex is the Christ.
+
+The Presence of the Lord.
+
+this.
 
 [page 25]
 
@@ -346,47 +454,57 @@ DISCOURSE 19
 
 Law of Love
 
-Scripture Reading: 8th chapter of John. Prayer
+Scripture Reading: 8th chapter of John.
 
-Teachers: Those who will renew the earth
+Prayer.
 
-Love manifests through the carriers of light
+Teachers: Those who will renew the earth.
 
-On vibration and light and its growth
+Love manifests through the carriers of light.
 
-The law of two coming together in his name. Spirit and God for increase, new light.
+On vibration and light and its growth.
 
-You and the Father as one
+The law of two coming together in his name.
 
-Father does the work
+Spirit and God for increase, new light.
 
-Energy to light to form
+You and the Father as one.
 
-How Lucifer built his kingdom
+Father does the work.
 
-The deception
+Energy to light to form.
 
-Love and hate from same energy but different will. Law of love.
+How Lucifer built his kingdom.
 
-Choice of the heart to follow Christ
+The deception.
 
-Energy to form, through love and life and light. Eternal form versus temporal.
+Love and hate from same energy but different will.
 
-Begotten sons placed in Paradise th for a mission. Forms prepared,
+Law of love.
 
-Soul body to be made eternal
+Choice of the heart to follow Christ.
 
-Division and fall
+Energy to form, through love and life and light.
 
-Christ's grace and restoration
+Eternal form versus temporal.
 
-Spirit transforms
+Begotten sons placed in Paradise th for a mission.
 
-Remember through the millennium
+Forms prepared,
 
-Hold true
+Soul body to be made eternal.
 
-Aleph: Christ was with you
+Division and fall.
+
+Christ's grace and restoration.
+
+Spirit transforms.
+
+Remember through the millennium.
+
+Hold true.
+
+Aleph: Christ was with you.
 
 [page 26]
 
@@ -396,41 +514,49 @@ Scripture Reading: I Corinthians (Phillips )
 
 Prayer
 
-Teachers: We speak to the souls about the time of that which was read to now.
+Teachers: We speak to the souls about the time of that which
 
-As milk compared to spiritual meat in the last days
+was read to now.
 
-We are more or less in-between
+As milk compared to spiritual meat in the last days.
 
-Daily meditation needed
+We are more or less in-between.
 
-Regular practice
+Daily meditation needed.
 
-Give up self, acquire the divine nature, prepare for spiritual meat and the deeper things.
+Regular practice.
 
-Render unto Lucifer the human things
+Give up self, acquire the divine nature, prepare for spiritual
 
-Work towards the transfiguration
+meat and the deeper things.
 
-Christ coming into the third dimension to show the way
+Render unto Lucifer the human things.
 
-All self must go to be lifted up
+Work towards the transfiguration.
 
-Soul witness to the indwelling spirit
+Christ coming into the third dimension to show the way.
 
-God's will all the time
+All self must go to be lifted up.
 
-Lord prays to the Father that the remnant come through to the end, all the flock together.
+Soul witness to the indwelling spirit.
 
-Many to come with urgent need,when awakened will feed where spirit provides the food.
+God's will all the time.
 
-Even the Braille lessons
+Lord prays to the Father that the remnant come through to the end,
 
-After the earth changes there will be great need
+all the flock together.
 
-The Master moves through, then speaks
+Many to come with urgent need,when awakened will feed where
 
-Teachers: Rise, go forth in his name. Send forth the light
+spirit provides the food.
+
+Even the Braille lessons.
+
+After the earth changes there will be great need.
+
+The Master moves through, then speaks.
+
+Teachers: Rise, go forth in his name. Send forth the light.
 
 Aleph
 
@@ -440,49 +566,71 @@ DISCOURSE 21
 
 Awake, Begotten
 
-Scripture Reading: l1kth chapter of John, 26 Prayer
+Scripture Reading: l1kth chapter of John, 26
 
-Teachers: Contrast between mortal mind and reality in the soul. The world and spirit.
+Prayer
 
-Reason for the Bible readings to keep the faith
+Teachers: Contrast between mortal mind and reality in the soul.
 
-When you know the Lord you can love one another
+The world and spirit.
 
-Mortal mind bypassed to feed the soul
+Reason for the Bible readings to keep the faith.
 
-Soul life must overcome intellect. Go forward in the soul. Spirit moved to gather at Wastena.
+When you know the Lord you can love one another.
 
-We are at the portals waiting to enter the Kingdom, following the Lord.
+Mortal mind bypassed to feed the soul.
 
-In this series suggest they be read or listened to, putting aside mortal belief, opén the soul to receive as the spirit bears witness. These will be for the initiates - 3 volumes. "The Fourth Dimension Discipleship", "The Upper Room with the Master", "Entering the Door into Paradise."
+Soul life must overcome intellect. Go forward in the soul.
 
-Parallel with earlier lessons
+Spirit moved to gather at Wastena.
 
-Micro - macro
+We are at the portals waiting to enter the Kingdom, following
 
-Walk - desire - be
+the Lord.
 
-Wake up from the dream
+In this series suggest they be read or listened to, putting aside
 
-Lazarus
+mortal belief, opén the soul to receive as the spirit bears witness.
 
-Awake, begotten, rise in the higher consciousness
+These will be for the initiates - 3 volumes. "The Fourth Dimen-
 
-Soul asleep, awake, become the son, put down the human nature. Discernment to recognize reality.
+sion Discipleship", "The Upper Room with the Master", "Enter-
 
-Read the Lord's words to the disciples. It is the entrance to Paradise,
+ing the Door into Paradise."
 
-B egotten emerging as the law demands
+Parallel with earlier lessons.
 
-We are called out to further serve the Father
+Micro - macro.
 
-Turn within and know God is within in the temple, in power and light.
+Walk - desire - be.
 
-Will not be left alone
+Wake up from the dream.
 
-Remembrance to come
+Lazarus.
 
-Christ returning to lead
+Awake, begotten, rise in the higher consciousness.
+
+Soul asleep, awake, become the son, put down the human nature.
+
+Discernment to recognize reality.
+
+Read the Lord's words to the disciples. It is the entrance to
+
+Paradise,
+
+B egotten emerging as the law demands.
+
+We are called out to further serve the Father.
+
+Turn within and know God is within in the temple, in power and
+
+light.
+
+Will not be left alone.
+
+Remembrance to come.
+
+Christ returning to lead.
 
 The Master
 
@@ -494,52 +642,72 @@ Aleph
 
 DISCOURSE 22
 
-The True Bread
+The True Bread.
 
-Scripture Reading: 6th chapter of John (Phillips), teaching about the true bread,
+Scripture Reading: 6th chapter of John (Phillips), teaching
+
+about the true bread,
 
 Prayer
 
-Teachers: Speaking on the Bible passage
+Teachers: Speaking on the Bible passage.
 
-Expandéd consciousness or inflated ego
+Expandéd consciousness or inflated ego.
 
-Have overlooked the way to feed the soul
+Have overlooked the way to feed the soul.
 
-The feeding will lead through the portals
+The feeding will lead through the portals.
 
-Belief leading to knowing, then experience to make it so
+Belief leading to knowing, then experience to make it so.
 
-Awaken and feed on the spiritual food, put down self and turn to the divine center within.
+Awaken and feed on the spiritual food, put down self and turn to
 
-Desire Christhood, move in God's will, but make no conditions. Trust the plan to work out.
+the divine center within.
 
-Accept whatever comes. Control the human nature
+Desire Christhood, move in God's will, but make no conditions.
 
-The law of prayer is fact in the higher consciousness
+Trust the plan to work out.
 
-Go into your temple within to pray
+Accept whatever comes. Control the human nature.
 
-Take on the divine nature
+The law of prayer is fact in the higher consciousness.
 
-In H is name ask, and it shall be done
+Go into your temple within to pray.
 
-Feed on this and you become the bread unto another as spirit leads. The desire of the soul moves you into expansion, then illumination. After you ask, be aware that it is being done.
+Take on the divine nature.
 
-Spirit will walk with the soul to crucify the self and rise into light.
+In H is name ask, and it shall be done.
 
-The Master did this to show the way, for the remnant to follow and be drawn up in the end.
+Feed on this and you become the bread unto another as spirit leads.
 
-Identify with the Lord and let the law work
+The desire of the soul moves you into expansion, then illumination.
 
-Motives of the heart is the key
+After you ask, be aware that it is being done.
+
+Spirit will walk with the soul to crucify the self and rise into
+
+light.
+
+The Master did this to show the way, for the remnant to follow and
+
+be drawn up in the end.
+
+Identify with the Lord and let the law work.
+
+Motives of the heart is the key.
 
 The Master
 
-T eacher: Not long until we shall be with Him
+T eacher: Not long until we shall be with Him.
 
-Direct the light out. Wastena work to be used in days to come by the initiates in the
+Direct the light out.
 
-upper room awaiting the Master's word. Pentecost
+Wastena work to be used in days to come by the initiates in the
 
-Aleph: Be prepared to maintain equilibrium. Love casts out fear. Now is the time for stillness. Turn within.
+upper room awaiting the Master's word.
+
+Pentecost.
+
+Aleph: Be prepared to maintain equilibrium. Love casts out fear.
+
+Now is the time for stillness. Turn within.

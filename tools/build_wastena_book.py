@@ -150,11 +150,6 @@ def render_body(slug, kind):
         if block.startswith("## "):
             out.append(f"<h3>{esc(block[3:].strip())}</h3>")
             continue
-        if front_short and len(block) < 60:
-            cls = ("book-line" if page in CENTRED_PAGES
-                   else "book-line book-line--left")
-            out.append(f'<p class="{cls}">{esc(block)}</p>')
-            continue
         # The typist underlined the speaker and the scripture reference:
         # "Scripture Reading:  Luke 16-17.", "Teachers:  Welcome to this place".
         label = LABEL.match(block)
@@ -162,6 +157,15 @@ def render_body(slug, kind):
             rest = esc(block[label.end():].strip())
             out.append(f'<p class="book-said"><u>{esc(label.group(1))}:</u> '
                        f"{rest}</p>")
+            continue
+        # Pages 1-41 are not prose: one typed statement to a line, kept as
+        # the line it is, however long. Beyond them (the Forward), only a
+        # short heading is a set line; the rest runs as paragraphs.
+        if front_short and (page is not None and page <= 41
+                            or len(block) < 60):
+            cls = ("book-line" if page in CENTRED_PAGES
+                   else "book-line book-line--left")
+            out.append(f'<p class="{cls}">{esc(block)}</p>')
             continue
         # A direction the typist set on a line of its own.
         if block.strip().rstrip(".") in DIRECTIONS:
