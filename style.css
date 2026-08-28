@@ -259,7 +259,12 @@ img { max-width: 100%; }
 /* Spacing follows the golden ratio: 13 · 21 · 34 · 55 · 89.
    Type scale is phi-based: 17 → 27.5 (×1.618) → 44.5 (×1.618²). */
 
-.section { padding: 13px 0 55px; }
+/* Longhand on purpose: a shorthand here would set padding-left/right to 0
+   and cancel .wrap's side padding wherever the two classes share an
+   element (class="section wrap"), which is most sections on the site. On
+   a phone, where .wrap has no room left to centre within its max-width,
+   that put text flush against both edges of the screen. */
+.section { padding-top: 13px; padding-bottom: 55px; }
 
 .section-title {
   font-family: var(--serif);

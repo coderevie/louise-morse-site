@@ -22,6 +22,13 @@
       margin: 0 auto 20px;
       border: 1px solid var(--line);
       border-radius: 4px;
+      /* The canvas gets its actual pixel size from JS, sized for a roomy
+         desktop reading width. Without this, that size is fixed on screen
+         too, so on a phone the page ran off the right edge instead of
+         shrinking to fit; this scales it down to the container's width
+         while keeping the crisper underlying resolution. */
+      max-width: 100%;
+      height: auto;
     }
     .pdf-controls {
       display: flex;
