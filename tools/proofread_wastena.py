@@ -155,6 +155,31 @@ CONFIRMED = {
     "creates", "culling", "date", "dead", "deceiving", "dedicates", "deeds",
     "delivers", "dive", "divide", "dull", "dust", "eden", "ethers", "expert",
     "fight", "four", "gifts", "goeth",
+    # Checked by Scott, 28 August 2026, second batch (the eighteen left blank
+    # the first time, re-cut, plus the next forty-two).
+    "band", "bide", "broad", "brow", "cases", "charging", "dare", "daring",
+    "dealing", "establishes", "faster", "fears", "foot", "fret", "glorifies",
+    "hang", "hardest", "hath", "hearing", "heat", "heeded", "hill", "hither",
+    "intend", "knots", "latter", "leaf", "lends", "lent", "lets", "liking",
+    "lines", "longed", "lords", "lying", "mass", "meld", "mote", "rain",
+    "raining", "reads", "reap", "regain", "relay", "relieve", "retain",
+    "ride", "riding", "risk", "rote", "saving",
+    # Confirmed by the scan crop itself, even though the crop's own aim was
+    # off by a word or two: "heal?" and "point of Infinity" are both plainly
+    # legible in the wider frame the crop still caught.
+    "heal", "infinity",
+    # "fade away.", "nor hide, nor not want" and "continue to roam the
+    # streets" all read correctly in their sentence; the crop for each
+    # landed on a neighbouring word rather than the one asked about.
+    "fade", "hide", "roam",
+    # Already correct as printed - "inter-action" keeps its hyphen, "take
+    # heed," already has its comma, "the lust." already has its stop - these
+    # were only flagged because the checker does not see punctuation as part
+    # of the word.
+    "inter", "heed", "lust",
+    # "Letter to Rome" already carries its capital; the checker counts
+    # capitalisation separately from the word itself.
+    "rome",
 }
 
 # Words that could honestly be read either way; these need the scan, so they

@@ -25,13 +25,20 @@ import proofread_wastena as P  # noqa: E402
 
 SCAN = os.path.join("pdfs", "wastena", "wastena-full.pdf")
 SOURCE = os.path.join("transcripts", "chatgpt-source")
+BY_HAND = os.path.join("transcripts", "wastena", "pages")
 OUT = "review"
 CUT_WIDTH = 900        # pixels across the cut
 QUALITY = 84
 
 
 def raw_pages():
-    """The scanner's own output, page by page, with its line breaks kept."""
+    """The scanner's own output, page by page, with its line breaks kept.
+
+    A page typed out by hand in transcripts/wastena/pages/ (see
+    tools/extract_wastena.py) replaces the scanner's own reading of it here
+    too, since the scanner's version of those pages has its lines out of
+    order and a word's position on it does not match the real page at all.
+    """
     pages, n = {}, 0
     for i in range(1, 11):
         path = os.path.join(SOURCE, f"the-wastena-retreat_p{i}.txt")
@@ -40,6 +47,11 @@ def raw_pages():
         for j in range(1, len(parts), 2):
             n += 1
             pages[n] = parts[j + 1]
+
+    import glob
+    for path in glob.glob(os.path.join(BY_HAND, "*.txt")):
+        page = int(os.path.splitext(os.path.basename(path))[0])
+        pages[page] = open(path, encoding="utf-8").read()
     return pages
 
 

@@ -27,6 +27,21 @@ marks cleared. The joined scan lives at
 `pdfs/readings/reading-1983-05-12.pdf`; `tools/join_scans.py` rebuilds it
 from its parts.
 
+## Page 2 of the publications list is cut off at the left
+
+The same defect as the May 12 reading above, on a smaller scale: page 2 of
+`pdfs/booklets/publications-list.pdf` was photographed with the left margin
+running off the frame, so the opening words of each line are missing.
+
+Scott noted (28 August 2026) that this is likely on his end and he will
+send a better photograph to repair it later. When it arrives, replace page
+2 in the PDF and re-read the recovered text into
+`transcripts/published/publist.md`.
+
+The other twelve pages of that same document (3, 4, 5, 7, 8, 9, 10, 12, 13,
+14, 15, 16) were photographed sideways and have already been fixed — see
+`tools/rotate_scan_pages.py`.
+
 ## Discourse 1 may be missing its opening
 
 Worth checking whether the Wastena scan begins where the discourse begins,
