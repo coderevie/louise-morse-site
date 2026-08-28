@@ -50,7 +50,7 @@ We will work with you again this evening. We have been doing this each night so 
 
 [page 98]
 
-which you have not dreamed that He cares for His own. Put more of your focus and attention upon development of the Christ nature in you and to the God to whom you Vane turn in obedience and trust. It is being done unto you even now as you sit eyes
+which you have not dreamed that He cares for His own. Put more of your focus and attention upon development of the Christ nature in you and to the God to whom you Vane turn in obedience and trust. It is being done unto you even now as you sit here
 
 The ministering takes place; the chemistry in your body, the endocrine glands are worked with--invisible ones work by your side. It would alarm and disturb the physical if you were aware of every little thing. In fact it would distract you so much that the curious side of your mortal minds would begin to interfere. We work better with your souls when your human nature is out of the way. By now you surely understand this and the need for it. It is the mercy of God that so much is done for you in spite of the willfulness of the human nature. Lovingly you are prepared, even when you are not aware of it. At night when you go to bed you are not afraid to go to sleepe You sleep and trust that you will arise in the morning. So trust in God's greater plan and in that Great Morning you shall indeed arise in the garment of the Paradise State.
 

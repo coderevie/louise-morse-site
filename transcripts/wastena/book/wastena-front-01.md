@@ -36,7 +36,7 @@ Gall to Remembrance
 
 Many are with Us
 
-The Cells of these Body
+The Cells of the Body
 
 The Light Centers
 

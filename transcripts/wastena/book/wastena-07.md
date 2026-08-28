@@ -80,7 +80,7 @@ The ethereal body is being strengthened all the time, and as these things are br
 
 In God's wisdom you are to be delivered whole, in the fullness of His perfect plen for the perfect Christ of each; each one the begotten son sent forth; each one coming up to the fullness, the maturity of the Christ in that plane It is the principle of cells becoming Christs, one with the Father. The King of Kings--the Lord of Earth--is coming back to rule these, and certain co-rulership will take place with it, for the Christs of God will manifest and bring His kingdom to the planet Earth. Thus many of the worlds before have been raised up, spiritualized, and are part of the great, heavenly estate of the cosmic realms, lighted by that great sun--the central sun which pours forth light (no longer cut off) unto all.
 
-What love and mercy, what wisdom there is in the Creator's intelligent functioning and operating throughout His Creation’ How arrogant of mankind to think that as the human he can take oredit unto himself, or deny there is a God, or try to prove God according to his finite logic, his small mortal intel-- lect! These are the deceptions, the illusions, tho nightmare with which you have been occupieds You are coming out of the nightmare now; you are awakening, and
+What love and mercy, what wisdom there is in the Creator's intelligent functioning and operating throughout His Creation’ How arrogant of mankind to think that as the human he can take oredit unto himself, or deny there is a God, or try to prove God according to his finite logic, his small mortal intellect! These are the deceptions, the illusions, tho nightmare with which you have been occupieds You are coming out of the nightmare now; you are awakening, and
 
 [page 94]
 

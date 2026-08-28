@@ -272,7 +272,7 @@ Soul memory to be restored
 
 Bodies need alignment, cuergy flows on the nerves of the cells. Body, mind and soul in one purpose.
 
-Move into the higher nature, watch conversations and actions. Desire to serve the Further.
+Move into the higher nature, watch conversations and actions. Desire to serve the Father.
 
 Signs do not come as Quickly as you like
 

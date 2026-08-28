@@ -59,8 +59,8 @@ CORRECTIONS = {
     "cleim": "claim", "cleser": "closer", "wera": "were", "weye": "were",
     "sensa": "sense", "tida": "tide", "senne": "sense",
     # e read for o
-    "ence": "once", "unce": "once", "bedy": "body", "bady": "body",
-    "bods": "body", "inte": "into", "thse": "these",
+    "bedy": "body", "bady": "body",
+    "bods": "body", "inte": "into",
     # v read for w
     "pover": "power", "dravn": "drawn", "shovn": "shown", "vhere": "where",
     "vhich": "which", "vhether": "whether", "vith": "with", "vnto": "unto",
@@ -88,8 +88,9 @@ CORRECTIONS = {
     "beran": "began", "briags": "brings", "chaaging": "changing",
     "clovds": "clouds", "cound": "could", "crestor": "creator",
     "defore": "before", "doine": "doing", "enprgies": "energies",
-    "etherie": "etheric", "everytning": "everything", "fach": "face",
-    "fessions": "sessions", "fether": "father", "fathor's": "father's",
+    "etherie": "etheric", "everytning": "everything",
+    "fessions": "sessions", "fether": "father",
+    "fathor's": "father's",
     "flook": "flock", "fromptings": "promptings", "ghurch": "church",
     "gtill": "still", "harly": "early", "harth": "earth", "heod": "head",
     "hven": "even", "iingdoms": "kingdoms", "indecd": "indeed",
@@ -106,9 +107,13 @@ CORRECTIONS = {
     "tozether": "together", "trne": "true", "unroality": "unreality",
     "upto": "unto", "voil": "veil", "vortes": "vortex", "wana": "want",
     "wark": "work", "wome": "some", "wouid": "would", "xingdom": "kingdom",
-    "zach": "each", "zarly": "early", "darly": "early", "emen": "even",
-    "bese": "best", "bett": "best", "comy": "come", "eres": "eyes",
-    "futher": "further", "leep": "keep", "mvst": "must",
+    "zach": "each", "zarly": "early", "darly": "early",
+    # Read against the scans rather than guessed from the nearest word:
+    # "Desire to serve the Father." (page 23), "It has already been ordained"
+    # (page 104), "as you sit here." (page 98), "Each one pours forth"
+    # (page 62), "The Cells of the Body" (page 2).
+    "futher": "Father", "bese": "been", "eres": "here", "fach": "each",
+    "thse": "the", "mvst": "must",
     # a second pass, each read in its sentence
     "ascention": "ascension", "behing": "behind", "breater": "greater",
     "coor": "door", "envirorment": "environment", "exprossion": "expression",
@@ -354,6 +359,39 @@ def fix_dashes(text, tally):
     return re.sub(r"(?<=[A-Za-z])=[ \t]*(?=[a-z])", single, text)
 
 
+def fix_split_words(text, words, tally):
+    """Rejoin a word the scanner broke in two without leaving a hyphen.
+
+    "to feel and experi ence the mellowness" is "experience"; "as~ leep" is
+    "asleep". The halves are only joined where neither stands as a word the
+    book uses and the whole plainly does, so ordinary pairs are left alone.
+    """
+    def join(m):
+        a, b, whole = m.group(1), m.group(2), m.group(0)
+        joined = a + b
+        if words[joined.lower()] < 4:
+            return whole
+        # How much evidence is needed depends on what sits between the halves.
+        # A stray mark is the scanner's own and settles it. A bare hyphen may
+        # be the typist's, so the second half must be no word in itself:
+        # "con-sciousness" and "seek-ing" are breaks, while "in-dwelling",
+        # "earth-bound" and "Re-Orient" are how the typist wrote them. Nothing
+        # but a space asks the most, or "are as" would close up into "areas".
+        if re.search(r"[~=]", whole):
+            ok = True
+        elif "-" in whole:
+            ok = words[b.lower()] < 3
+        else:
+            ok = words[a.lower()] < 3
+        if ok:
+            tally[(whole, joined)] += 1
+            return joined
+        return whole
+
+    text = re.sub(r"\b([A-Za-z]{2,})[~=-]+[ \t]*([a-z]{2,})\b", join, text)
+    return re.sub(r"\b([A-Za-z]{3,})[ \t]+([a-z]{2,})\b", join, text)
+
+
 def fix_apostrophes(text, words, tally):
     """An apostrophe the scanner read as a "t": "Godts" for "God's"."""
     def swap(m):
@@ -395,6 +433,7 @@ def main():
         t = fix_phrases(text, tally)
         t = fix_dashes(t, tally)
         t = fix_hyphens(t, words, tally)
+        t = fix_split_words(t, words, tally)
         t = fix_apostrophes(t, words, tally)
         t = fix_lost_stops(t, words, tally)
         t = fix_disagreement(t, words, tally)
