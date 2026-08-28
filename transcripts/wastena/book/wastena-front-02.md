@@ -172,7 +172,7 @@ Practice living more and more in spirit
 
 Those who do not make it will suspend, or rest, and will come in again, and will be cared for by the remnant after the place is prepared for then.
 
-The cest is to re-establish our communications with the Lord. Prepare before the call.
+The rest is to re-establish our communications with the Lord. Prepare before the call.
 
 Desiring the Saucers will ease the ascension when it comes. Look. up. Desire and choose tne door to freedom,
 

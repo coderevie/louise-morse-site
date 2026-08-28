@@ -46,7 +46,7 @@ Develop patience. We say be patient, wait, and yet we say it is urgent, the time
 
 God descended upon them. You have less than forty years, much less, before the new century is well on its vay. we
 
-During the lifetime, the thirty-throe years of Jesus, much was developing, but he had three years of great ministry. You may only have three years of action, but development is taking place, plans are being made in Heaven. You are being called to stand to attention, for preparedness goes before the call and before the action.
+During the lifetime, the thirty-three years of Jesus, much was developing, but he had three years of great ministry. You may only have three years of action, but development is taking place, plans are being made in Heaven. You are being called to stand to attention, for preparedness goes before the call and before the action.
 
 The greater portion of the "day of wrath" will be toward the end of this century. When you know that it is only a part of this that you will have to endure, then the time is indeed short for those who are called up to meet their Lord. Your familiarity with the Knowledge of the ships will prevent fear at that time. It does not matter whether you see them in the skies now or not, but you are desiring them. Do you know what this means? You will desire yourself to be drawn right up into them at the time the Lord speaks. This is as it should be. This is your soul choice and desire already looking up, part of the mercy of God.
 
@@ -62,7 +62,7 @@ The power of the Spirit is great, and you shall teleport in this power when the 
 
 [page 74]
 
-You are souls found worthy to be preserved unto God's new estate, and that you be taught in due course to move in line with that new kingdom on Earth. So be patient during the tarrying time, for once that is over things stall move swiftly. Trust in your Lord. We shall be with you more. We shall work with the Soul bodies this evening. Be aware of our presence with you. We minister unto the soul bodies lovingly and gently. Do not be afraid, your Lord so ordained this. Relax as much as you can as you retire. Let the soul move with us and it shall be in safe keeping, As you learn to put aside your emotions you will have more memories of what is taking place.
+You are souls found worthy to be preserved unto God's new estate, and that you be taught in due course to move in line with that new kingdom on Earth. So be patient during the tarrying time, for once that is over things shall move swiftly. Trust in your Lord. We shall be with you more. We shall work with the Soul bodies this evening. Be aware of our presence with you. We minister unto the soul bodies lovingly and gently. Do not be afraid, your Lord so ordained this. Relax as much as you can as you retire. Let the soul move with us and it shall be in safe keeping, As you learn to put aside your emotions you will have more memories of what is taking place.
 
 All is well. You are making progress in all that you are striving for. Your sincerity has brought you to a new plateau, a training period of increased intensity. Do not be alarmed at any different feelings, sensations or Changes in the glands of the body. We are carefully preparing you. You are blessed and the spirit within is quickening the soul, preparing for that union of soul and Spirit--Father and son united. Do not question the timing; God moves in mysterious ways His wonders to perform. His love surrowmds you, the Christ light surrounds yous you are being raised up in His name. Bless you. Selah.
 

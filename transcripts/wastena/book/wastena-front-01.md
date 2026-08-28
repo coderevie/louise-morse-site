@@ -32,7 +32,7 @@ Identify With the early Christians Identify as His Disciples
 
 Listen to the Lord
 
-Gall to Remembrance
+Call to Remembrance
 
 Many are with Us
 
@@ -80,7 +80,7 @@ he Water of
 
 2. Awake, Esgotten
 
-ee The True Breed
+ee The True Bread
 
 [page 5]
 

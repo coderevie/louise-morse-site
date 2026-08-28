@@ -125,6 +125,15 @@ CORRECTIONS = {
     "powor": "power", "pracsice": "practice", "prayor": "prayer",
     "preparetion": "preparation", "promisod": "promised", "qithin": "within",
     "reath": "breath", "terrying": "tarrying",
+    # A third pass, reading every remaining suspect in its sentence. Some of
+    # these are ordinary words that happen to be wrong just here, and each
+    # occurs only once in the book: "The True Bread" and "Call to
+    # Remembrance" are the titles of Discourses 22 and 5.
+    "boar": "bear", "breed": "bread", "cest": "rest", "coll": "cell",
+    "cores": "cares", "gall": "call", "greet": "great", "leed": "lead",
+    "loading": "leading", "moot": "meet", "prey": "pray", "stall": "shall",
+    "taxing": "taking", "throe": "three", "whet": "what", "wilt": "will",
+    "wont": "went",
     "olouds": "clouds", "ontire": "entire", "oomes": "comes",
     "oreated": "created", "overy": "every", "oyes": "eyes", "pack": "back",
     "parther": "farther", "pationce": "patience", "pationt": "patient",
@@ -140,32 +149,30 @@ CORRECTIONS = {
 # Words that could honestly be read either way; these need the scan, so they
 # are only reported.
 AMBIGUOUS = {
-    "affect", "alter", "altitudes", "astray", "band", "bank", "beat", "bide",
-    "bind", "binds", "blight", "block", "blow", "boar", "boot", "breed",
-    "broad", "brow", "burning", "calf", "camp", "cases", "catch", "cave",
-    "certainty", "charges", "charging", "cleanses", "closed", "closes",
-    "closet", "cold", "comet", "conceit", "creates", "dare", "daring", "date",
-    "dead", "dealing", "deceiving", "dedicates", "deeds", "delivers", "dive",
-    "divide", "dull", "dust", "eden", "establishes", "eter", "ethers",
-    "expert", "fade", "faster", "fears", "fight", "five", "foot", "four",
-    "fret", "gall", "gifts", "glorifies", "goeth", "greet", "hang", "hardest",
-    "hath", "heal", "hearing", "heat", "heed", "heeded", "hide", "hill",
-    "hither", "hose", "infinity", "intend", "inter", "ised", "joice", "knee",
-    "knots", "latter", "leaf", "lect", "leed", "lends", "lent", "lets",
-    "liking", "lines", "loading", "longed", "lords", "lust", "lying", "mass",
-    "meld", "ment", "mire", "moot", "mote", "prey", "rain", "raining", "reap",
-    "regain", "relay", "relieve", "retain", "ride", "riding", "risk", "roam",
-    "rome", "rote", "sate", "saving", "seeks", "shalt", "shed", "shore",
-    "sifting", "simply", "sing", "slid", "smoke", "soil", "sown", "speck",
-    "spill", "spine", "stall", "stem", "stranger", "sune", "suns", "sweeping",
-    "swell", "tain", "tale", "tales", "tall", "taped", "tarry", "taxing",
-    "tear", "tells", "tending", "tense", "thin", "thir", "throe", "tons",
-    "tore", "torn", "tower", "tree", "tries", "ture", "unites", "units",
-    "unity", "vein", "vine", "wake", "waken", "wakes", "waking", "wander",
-    "wane", "wasting", "wave", "waver", "wear", "weed", "weights", "whet",
-    "white", "wilt", "wine", "wish", "wits", "wont", "worn", "worse", "yeast",
-    "yield", "balls", "beas", "cant", "cest", "cold", "code", "coll", "cores",
-    "culling", "reads", "reali", "resulte", "shalt",
+    "astray", "band", "bank", "beat", "bide", "bind", "binds", "blight",
+    "block", "blow", "boot", "broad", "brow", "burning", "calf", "camp",
+    "cases", "catch", "cave", "certainty", "charges", "charging",
+    "cleanses", "closed", "closes", "closet", "cold", "comet", "conceit",
+    "creates", "dare", "daring", "date", "dead", "dealing", "deceiving",
+    "dedicates", "deeds", "delivers", "dive", "divide", "dull", "dust",
+    "eden", "establishes", "eter", "ethers", "expert", "fade", "faster",
+    "fears", "fight", "five", "foot", "four", "fret", "gifts", "glorifies",
+    "goeth", "hang", "hardest", "hath", "heal", "hearing", "heat", "heed",
+    "heeded", "hide", "hill", "hither", "infinity", "intend", "inter",
+    "ised", "joice", "knee", "knots", "latter", "leaf", "lect", "lends",
+    "lent", "lets", "liking", "lines", "longed", "lords", "lust", "lying",
+    "mass", "meld", "ment", "mire", "mote", "rain", "raining", "reap",
+    "regain", "relay", "relieve", "retain", "ride", "riding", "risk",
+    "roam", "rome", "rote", "sate", "saving", "seeks", "shalt", "shed",
+    "shore", "sifting", "simply", "sing", "slid", "smoke", "soil", "sown",
+    "speck", "spill", "spine", "stem", "stranger", "sune", "suns",
+    "sweeping", "swell", "tain", "tale", "tales", "tall", "taped", "tarry",
+    "tear", "tells", "tending", "tense", "thin", "thir", "tons", "tore",
+    "torn", "tower", "tree", "tries", "ture", "unites", "units", "unity",
+    "vein", "vine", "wake", "waken", "wakes", "waking", "wander", "wane",
+    "wasting", "wave", "waver", "wear", "weed", "weights", "white", "wine",
+    "wish", "wits", "worn", "worse", "yeast", "yield", "balls", "cant",
+    "cold", "code", "culling", "reads", "reali", "shalt"
 }
 
 # A full stop the scanner read as a letter, where a sentence plainly ends.
@@ -317,6 +324,17 @@ REPAIRS = {
     "Onee you consciously": "Once you consciously",
     "disciples that you ares;": "disciples that you are;",
     "spirit of Gode are receptive": "spirit of God. Ye are receptive",
+    # Words that are right elsewhere in the book, so only the sentence that
+    # has them wrong is touched. "drunk with wine" a few pages on is correct.
+    "Practice wine sitting in meditation":
+        "Practice while sitting in meditation",
+    "hose who are sincere and faithful": "Those who are sincere and faithful",
+    "it cannot beas long as it clings":
+        "it cannot be. As long as it clings",
+    "he shall not lead you astray put, rather":
+        "he shall not lead you astray but, rather",
+    "get a like resulte And": "get a like result. And",
+    "the God-given equip~ ment": "the God-given equipment",
 }
 
 

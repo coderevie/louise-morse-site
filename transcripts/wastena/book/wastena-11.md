@@ -88,7 +88,7 @@ high heavens came to receive him as" ho ascended ho He went through his mission,
 
 You were given the wisdom to know the difference, long, long 2g03 it was preserved for this day. Thus you know these mysteries jn your hearts. You
 
- wilt not be fooled by someone who appears as an infant, who grows up and claims,
+ will not be fooled by someone who appears as an infant, who grows up and claims,
 
 I am the Christ who will rule your Earth." This time he will not come in that manner. It was given long ago through Isaiah as to how he would come the first time. Always, the Spirit of the Lord goes before and alerts and reveals the truth unto his disciples who love him. Those that love and believe God are given assurance in ways and signs. Jesus, at every opportunity, gave instructions to his disciples on the manner of his second coming. He came back to them after he was resurrected, that they could see the demonstration all the way, even see his ascension. They received the exact words of promise of the way that he would i reappeare
 
@@ -122,7 +122,7 @@ The heavens rejoice! Ethereal worlds rejoice that the planet Earth is soon to go
 
 them and that they would be with their Lord. This is a reality. Let your hearts be full of joy and love--these are of Gods You shall be led further. ;
 
-Bless you, beloveds. You are souls of great light and the light is magnified here in this place that was offered by hearts of love. The higher plan has brought recharging to this area--greater intensity of light--because you are able to match it, to come into it, merge with it. You have to become more and more accustomed to the light from which you came. God's light shall one day fill you, but you could not now boar it all at once. So it is stepped up gradually into higher frequencies in each of the atoms or the centers of the cells of each part of your being.
+Bless you, beloveds. You are souls of great light and the light is magnified here in this place that was offered by hearts of love. The higher plan has brought recharging to this area--greater intensity of light--because you are able to match it, to come into it, merge with it. You have to become more and more accustomed to the light from which you came. God's light shall one day fill you, but you could not now bear it all at once. So it is stepped up gradually into higher frequencies in each of the atoms or the centers of the cells of each part of your being.
 
 Many are assisting in this divine program, so know that you do not walk alone. Guardians walk with you and help you because you have opened tho door through your willingness and desire--your consent. Your Shepherd shall lead you all the way. Fear note Ho is close beside yous. As you come together in these moments your Lord stands in your midst. Peace. Selah.
 

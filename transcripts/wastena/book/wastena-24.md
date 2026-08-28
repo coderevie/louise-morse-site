@@ -44,7 +44,7 @@ Your temple is built on that faith--the solid rock. It shall not be torn down. W
 
 God within shall bring great things. Bless you beloveds. You shall go far, for the Lord is with you.
 
-Follow your Shepherd; he shall not lead you astray put, rather, out of temptation,
+Follow your Shepherd; he shall not lead you astray but, rather, out of temptation,
 
 [page 190]
 
