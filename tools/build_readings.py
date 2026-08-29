@@ -22,8 +22,8 @@ PAGES = [
     ("lesson215.md", "215.html", "Lesson 215", NOTE,
      "Morse Fellowship — Identifier: Acts 1", "lesson-215"),
     ("may12.md", "reading-1983-05-12.html", "May 12, 1983 — Morse Reading",
-     NOTE + " Some passages were unreadable on the scan and are marked "
-            "[illegible].",
+     NOTE + " Page 5 of the original is lost and has never been part of "
+            "these papers; the text runs from page 4 to page 6.",
      "Greetings Dear Ones", "reading-1983-05-12"),
     ("may24.md", "reading-1983-05-24.html", "May 24, 1983 — Morse Reading",
      NOTE, "Establish A Communication Within", "reading-1983-05-24"),

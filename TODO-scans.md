@@ -3,43 +3,26 @@
 Things the site would be better for, none of them urgent, and none of them
 breaking anything as it stands.
 
-## The May 12, 1983 reading — pages 4 to 16 are cut off at the left
+## Done — the May 12, 1983 reading (29 August 2026)
 
-The reading was photographed in two batches. The first three pages are
-square and clean. The remaining thirteen, which came off the phone as
-`P2.pdf`, were shot at an angle with the sheet running off the left edge of
-the frame, so the first few words of nearly every line are missing from the
-photograph:
+Scott re-photographed the whole reading square-on, and dropped the blurred
+duplicate of page 4 that was in the first set. The scan now runs to fifteen
+clean pages and all **42 `[illegible]` marks are cleared** — the text they
+stood for was on the paper the whole time, just outside the old frame.
 
-```
-…ll be painful and more and more diffiu   to tune in as they are antennas.
-…eration is increasing so very much now, rapidly, and the vibrations
-…opposite of the dark forces trying to interfere trying to defeat the
-```
+Typed page 5 is genuinely lost and never was in these papers: the page
+numbers run 1, 2, 3, 4, 6, 7 … 16, and the reading's note now says so.
 
-The words are on the paper; they are simply not in the picture. That is why
-this reading carries **42 `[illegible]` marks** while the May 24 reading
-carries none.
+One word is worth a second look if the sheet is ever handled again: the
+last line of page 10 is clipped by the photograph's bottom edge, and
+"don't **get** up and run away" was read from the surviving letter-tops
+rather than the whole word.
 
-**To fix:** re-photograph those thirteen pages square-on with the whole
-sheet in frame, and the missing text can be read back in and most of those
-marks cleared. The joined scan lives at
-`pdfs/readings/reading-1983-05-12.pdf`; `tools/join_scans.py` rebuilds it
-from its parts.
+## Done — page 2 of the publications list (29 August 2026)
 
-## Page 2 of the publications list is cut off at the left
-
-The same defect as the May 12 reading above, on a smaller scale: page 2 of
-`pdfs/booklets/publications-list.pdf` was photographed with the left margin
-running off the frame, so the opening words of each line are missing.
-
-Scott noted (28 August 2026) that this is likely on his end and he will
-send a better photograph to repair it later. When it arrives, replace page
-2 in the PDF and re-read the recovered text into
-`transcripts/published/publist.md`.
-
-The other twelve pages of that same document (3, 4, 5, 7, 8, 9, 10, 12, 13,
-14, 15, 16) were photographed sideways and have already been fixed — see
+That page turned out to be an extra rather than part of the booklet, so it
+is deleted rather than re-photographed; the scan is now sixteen pages. The
+twelve sideways pages in the same document were fixed earlier — see
 `tools/rotate_scan_pages.py`.
 
 ## Discourse 1 may be missing its opening
