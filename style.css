@@ -223,16 +223,29 @@ img { max-width: 100%; }
   position: relative;
 }
 
-.quote::before {
-  content: "\201C";
+/* The opening and closing marks, set as a pair so the quotation is closed
+   as well as opened. Smaller than they were, so they frame the words
+   rather than compete with them. */
+.quote::before,
+.quote::after {
   font-family: var(--serif);
-  font-size: 90px;
+  font-size: 62px;
   line-height: 1;
   color: var(--accent);
   opacity: 0.35;
   position: absolute;
+}
+
+.quote::before {
+  content: "\201C";
   top: 14px;
   left: 22px;
+}
+
+.quote::after {
+  content: "\201D";
+  right: 22px;
+  bottom: 4px;
 }
 
 .quote blockquote {

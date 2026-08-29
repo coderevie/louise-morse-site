@@ -25,10 +25,14 @@ is deleted rather than re-photographed; the scan is now sixteen pages. The
 twelve sideways pages in the same document were fixed earlier — see
 `tools/rotate_scan_pages.py`.
 
-## Discourse 1 may be missing its opening
+## Closed — Discourse 1 is not missing its opening
 
-Worth checking whether the Wastena scan begins where the discourse begins,
-or whether a page or two of the opening was never photographed.
+This worry came from the original, mistaken page mapping, which had the
+discourses starting further forward than they do. Discourse 1 in fact
+begins at the top of scan page 46, with its own DISCOURSE / No. 1 /
+Prepare Your Retreat heading and the words "Our blessings are upon you",
+directly after the Volume One index on page 45. Nothing was left
+unphotographed.
 
 ## Five Wastena pages were typed out by hand
 
