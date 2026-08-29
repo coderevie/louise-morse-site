@@ -219,41 +219,36 @@ img { max-width: 100%; }
   border: 1px solid var(--line);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  /* Extra room at the foot so the closing mark has a corner to sit in,
-     clear of the citation line. */
-  padding: 40px 44px 60px;
+  padding: 40px 44px;
   position: relative;
 }
 
-/* The opening and closing marks, set as a pair so the quotation is closed
-   as well as opened. Smaller than they were, so they frame the words
-   rather than compete with them. */
-.quote::before,
-.quote::after {
+/* The opening mark stands away from the text as an ornament; the closing
+   one belongs at the end of the sentence it closes, so it is set on the
+   quotation itself rather than in the corner of the card. */
+.quote::before {
+  content: "\201C";
   font-family: var(--serif);
   font-size: 62px;
   line-height: 1;
   color: var(--accent);
   opacity: 0.35;
   position: absolute;
-}
-
-.quote::before {
-  content: "\201C";
   top: 14px;
   left: 22px;
 }
 
-.quote::after {
+.quote blockquote::after {
   content: "\201D";
-  right: 22px;
-  bottom: 4px;
-  /* A quotation glyph is drawn near the top of its line box, so bottom
-     positioning alone leaves the mark floating level with the citation
-     rather than tucked into the corner. This drops the ink by the leading
-     the glyph carries above it, so it sits in from the foot by about as
-     much as the opening mark sits in from the head. */
-  transform: translateY(14px);
+  font-family: var(--serif);
+  font-size: 1.5em;
+  /* No line height of its own, so a tall glyph cannot open up the line it
+     closes. */
+  line-height: 0;
+  color: var(--accent);
+  opacity: 0.35;
+  margin-left: 0.06em;
+  vertical-align: -0.22em;
 }
 
 .quote blockquote {
