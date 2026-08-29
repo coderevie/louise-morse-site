@@ -200,8 +200,15 @@
       'wastena-full': 'The Wastena Retreat — the complete scan, pages 1–238',
     };
 
+    // Whether a map genuinely lists this name. A plain lookup would also
+    // find what every object inherits, so "?file=constructor" would answer
+    // yes and carry a function where a path was expected.
+    function listed(map, name) {
+      return Object.prototype.hasOwnProperty.call(map, name);
+    }
+
     function describe(fileId) {
-      if (scanOf[fileId]) return scanOf[fileId];
+      if (listed(scanOf, fileId)) return scanOf[fileId];
       // The retreat's scans are named for the pages they hold.
       const m = /^page(\d+)(?:-(\d+))?$/.exec(fileId);
       if (m) {
@@ -276,7 +283,7 @@
 
     // Load PDF
     const fileParam = getParam('file');
-    if (!fileParam || !pdfMap[fileParam]) {
+    if (!fileParam || !listed(pdfMap, fileParam)) {
       document.getElementById('pdf-error').style.display = 'block';
       document.getElementById('pdf-error').textContent = 'PDF not found. Please go back and try again.';
       document.getElementById('pdf-container').style.display = 'none';
